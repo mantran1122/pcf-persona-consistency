@@ -6,8 +6,13 @@ authors:
   - name: "MM"
     email: "tranminhman13579@gmail.com"
     affiliation: "TODO_TRUONG_KHOA"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-07-14"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21359376"
+    description: "Archived snapshot of this release (v1.0.1) on Zenodo"
+doi: "10.5281/zenodo.21359376"
 repository-code: "https://github.com/mantran1122/pcf-persona-consistency"
 keywords:
   - persona consistency

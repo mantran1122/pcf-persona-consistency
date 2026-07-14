@@ -1,5 +1,7 @@
 # Persona Consistency Framework (PCF) — code, data & human evaluation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21359376.svg)](https://doi.org/10.5281/zenodo.21359376)
+
 Kho lưu trữ nghiên cứu về Persona Consistency Framework: giữ vai nhất quán
 cho chatbot đóng vai nhân vật (persona) trong hội thoại dài, đánh giá qua
 LLM-as-a-judge và human evaluation.
