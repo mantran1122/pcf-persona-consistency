@@ -3,9 +3,10 @@ message: "If you use this dataset/code, please cite it as below."
 title: "Persona Consistency Framework (PCF): Ablation Experiment, Data, and Human Evaluation"
 type: dataset
 authors:
-  - name: "MM"
+  - family-names: "Trần"
+    given-names: "Minh Mẫn"
     email: "tranminhman13579@gmail.com"
-    affiliation: "TODO_TRUONG_KHOA"
+    affiliation: "Trường Đại học Nam Cần Thơ, Khoa Công nghệ Thông tin"
 version: "1.0.1"
 date-released: "2026-07-14"
 identifiers:
