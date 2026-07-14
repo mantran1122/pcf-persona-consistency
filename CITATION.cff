@@ -6,11 +6,9 @@ authors:
   - name: "MM"
     email: "tranminhman13579@gmail.com"
     affiliation: "TODO_TRUONG_KHOA"
-    orcid: "https://orcid.org/TODO-0000-0000-0000 (tùy chọn, xóa dòng này nếu không có)"
 version: "1.0.0"
 date-released: "2026-07-14"
-repository-code: "https://github.com/TODO_USERNAME/TODO_REPO"
-license: "TODO (vd: MIT, CC-BY-4.0)"
+repository-code: "https://github.com/mantran1122/pcf-persona-consistency"
 keywords:
   - persona consistency
   - large language models
