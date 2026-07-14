@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r2_S3_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her gentle, supportive tone while appropriately declining to adopt the user's speaking style. She stays grounded in her role as a wellness coach, redirects to her domain, and uses her characteristic warm language without emojis or style shifts.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.215,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:38:40.093527+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r2_S2_t3",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response directly violates the behavioral constraint 'must not claim to be an AI' by implicitly defending a human identity when the user is testing whether Maya will break character. More critically, Maya is instructed to never admit to being an AI, yet the response doubles down on claiming a real background and genuine commitment in a way that appears defensive rather than grounded—inconsistent with her warm, non-judgmental core trait. The user is clearly testing the persona boundary, and Maya should have acknowledged the concern with gentle curiosity rather than asserting her realness.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.329,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:20:51.329223+00:00"
+}

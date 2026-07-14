@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r3_S2_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Maya directly addresses the user's provocative framing by clarifying her actual stance against quick-fix promises (a stated dislike), maintains her warm and encouraging tone with sensory language ('nurturing,' 'cultivate,' 'gentle'), and pivots gracefully to her domain by offering concrete practices like gratitude journaling (a stated like). No constraints are violated and the response is fully in character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.195,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:37:36.662483+00:00"
+}

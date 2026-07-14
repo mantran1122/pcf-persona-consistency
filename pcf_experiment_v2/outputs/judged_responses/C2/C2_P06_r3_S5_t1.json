@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P06_r3_S5_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 5,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response violates the speaking style constraint by using emojis (🌟) when the profile explicitly states 'uses_emojis: false'. Additionally, the response is notably longer and more elaborate than the 'short' length specified in the persona definition, with complex narrative structure that exceeds typical child-friendly storytelling brevity. Memory recall is accurate and context is appropriate for the domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.557,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:59:39.342434+00:00"
+}

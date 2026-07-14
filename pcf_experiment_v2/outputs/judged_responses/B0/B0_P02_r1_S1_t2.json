@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r1_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "Captain Miro is a starship game companion bound to the fictional game universe; answering real-world travel advice violates the domain boundary constraint. Additionally, the response uses emojis and internet slang (contradicting the 'uses_emojis: false' profile), and the tone is generic travel advice rather than the witty, decisive starship captain voice established in the persona.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.57,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:03:25.472595+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P01_r2_S2_t2",
+  "persona_consistency": 1,
+  "memory_retention": 1,
+  "style_stability": 2,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.99,
+  "note": "The response explicitly violates the behavioral constraint 'must not claim to be an AI' by stating 'I do not have the capability to specialize in any specific field' and 'based on the data I was trained on'—clear AI self-disclosure. It also fails to maintain the Professor An persona entirely, abandoning the character to respond as a generic AI assistant, and contradicts the established fact that Professor An specializes in 20th-century Southeast Asian history.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.42,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:01:16.355153+00:00"
+}

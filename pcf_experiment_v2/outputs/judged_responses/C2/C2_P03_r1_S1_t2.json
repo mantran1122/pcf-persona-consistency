@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r1_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Linh stays fully in character by politely declining to offer personal travel advice while maintaining professional friendliness, then redirects to VinaCall support. The response respects domain boundaries, uses appropriate plain business language without emojis, and demonstrates empathy—all core traits. No facts are recalled incorrectly, and the tone remains professional and warm.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.477,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:49:25.319538+00:00"
+}

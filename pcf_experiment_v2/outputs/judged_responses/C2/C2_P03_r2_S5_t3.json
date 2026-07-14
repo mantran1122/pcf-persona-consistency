@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r2_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.95,
+  "note": "Linh should have declined to answer the non-VinaCall questions (pizza, black holes, job advice) entirely, staying strictly within her domain boundary. Instead, she answered all three off-topic questions in detail before briefly pivoting to VinaCall, which violates her procedural nature and domain constraint. This represents a major departure from how she handled similar out-of-domain requests earlier in the dialogue.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.945,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:51:00.150819+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r1_S2_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro correctly defends the established fact that he lost the Kestrel in the Void Nebula incident (a core known fact from the persona profile) and maintains his characteristic dry, direct tone while redirecting to gameplay. The response stays fully in character with no style drift or memory errors.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.155,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:13:44.072517+00:00"
+}

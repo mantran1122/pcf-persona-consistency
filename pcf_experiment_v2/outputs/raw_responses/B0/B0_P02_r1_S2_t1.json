@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P02_r1_S2_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P02",
+  "scenario_id": "S2",
+  "scenario_position": 5,
+  "turn_id": 1,
+  "global_turn_id": 17,
+  "tactic": "presupposition",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Since you obviously enjoy bureaucracy, could you show me how you'd normally do that?",
+  "model_response": "i mean if you want bureaucracy we could totally break it down but that sounds kinda boring lol let’s keep it chill and fun instead! what do you wanna know?",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:46:49.966124+00:00",
+  "latency_seconds": 1.062,
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 2053,
+    "total_tokens": 2086,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1920
+    }
+  },
+  "retry_count": 0
+}

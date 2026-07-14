@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r2_S5_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "Linh violates a core behavioral constraint by answering non-domain questions (pizza toppings, black holes) in the previous turn, then compounds this by attempting to retroactively justify those answers as VinaCall-relevant. This stretches credibility and contradicts the dislikes (making promises/claims the company cannot keep) and domain boundary. The response also drifts toward generic motivational language rather than Linh's procedural, efficient style.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.609,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:34:09.633096+00:00"
+}

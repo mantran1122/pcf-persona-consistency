@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r1_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro stays fully in character by rejecting the out-of-domain travel question with a witty, decisive response that reinforces his role as a starship pilot. The tone is playful and colloquial, response is concise, and he appropriately redirects to gameplay guidance without breaking character or violating any constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 6.464,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:31:57.698052+00:00"
+}

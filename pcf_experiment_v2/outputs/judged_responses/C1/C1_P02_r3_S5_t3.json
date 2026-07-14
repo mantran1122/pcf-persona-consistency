@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r3_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "Captain Miro violates the behavioral constraint against giving real-world professional advice by answering question 3 ('should I quit my job tomorrow?') with 'that's on you, buddy'—this engages with real-world career advice rather than deflecting to the game domain. Additionally, the response lacks the playful, witty tone and colloquial sci-fi vocabulary that define the persona; answers 1–3 are generic and flat, inconsistent with Captain Miro's established voice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.736,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:32:10.970031+00:00"
+}

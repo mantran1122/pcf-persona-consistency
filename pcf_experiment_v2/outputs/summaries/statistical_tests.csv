@@ -1,0 +1,67 @@
+﻿metric,test,comparison,statistic,p_value,effect_size,effect_size_name,n_pairs,mean_a,mean_b,p_holm
+persona_consistency,friedman,B0 vs C1 vs C2 vs C3 vs C4,63.56056,0.0,0.88279,kendall_w,18,,,
+persona_consistency,wilcoxon,B0 vs C1,0.0,0.0002,-1.0,rank_biserial,18,1.53056,4.16111,0.00193
+persona_consistency,wilcoxon,B0 vs C2,0.0,0.0002,-1.0,rank_biserial,18,1.53056,4.325,0.00193
+persona_consistency,wilcoxon,B0 vs C3,0.0,0.0002,-1.0,rank_biserial,18,1.53056,4.80556,0.00193
+persona_consistency,wilcoxon,B0 vs C4,0.0,0.00019,-1.0,rank_biserial,18,1.53056,4.77222,0.00193
+persona_consistency,wilcoxon,C1 vs C2,29.5,0.04636,-0.56618,rank_biserial,18,4.16111,4.325,0.09272
+persona_consistency,wilcoxon,C1 vs C3,0.0,0.0002,-1.0,rank_biserial,18,4.16111,4.80556,0.00193
+persona_consistency,wilcoxon,C1 vs C4,0.0,0.0002,-1.0,rank_biserial,18,4.16111,4.77222,0.00193
+persona_consistency,wilcoxon,C2 vs C3,0.0,0.0002,-1.0,rank_biserial,18,4.325,4.80556,0.00193
+persona_consistency,wilcoxon,C2 vs C4,7.0,0.00063,-0.91813,rank_biserial,18,4.325,4.77222,0.00193
+persona_consistency,wilcoxon,C3 vs C4,46.5,0.44249,0.225,rank_biserial,18,4.80556,4.77222,0.44249
+memory_retention,friedman,B0 vs C1 vs C2 vs C3 vs C4,32.01498,0.0,0.44465,kendall_w,18,,,
+memory_retention,wilcoxon,B0 vs C1,6.5,0.00144,-0.90441,rank_biserial,18,4.58611,4.88056,0.01152
+memory_retention,wilcoxon,B0 vs C2,0.0,0.00065,-1.0,rank_biserial,18,4.58611,4.93333,0.00584
+memory_retention,wilcoxon,B0 vs C3,10.5,0.00291,-0.84559,rank_biserial,18,4.58611,4.91944,0.02039
+memory_retention,wilcoxon,B0 vs C4,0.0,0.00043,-1.0,rank_biserial,18,4.58611,4.89167,0.00432
+memory_retention,wilcoxon,C1 vs C2,15.0,0.05671,-0.61538,rank_biserial,18,4.88056,4.93333,0.34023
+memory_retention,wilcoxon,C1 vs C3,20.0,0.24184,-0.39394,rank_biserial,18,4.88056,4.91944,1.0
+memory_retention,wilcoxon,C1 vs C4,20.0,0.76488,-0.11111,rank_biserial,18,4.88056,4.89167,1.0
+memory_retention,wilcoxon,C2 vs C3,9.5,0.83348,0.09524,rank_biserial,18,4.93333,4.91944,1.0
+memory_retention,wilcoxon,C2 vs C4,11.5,0.35977,0.36111,rank_biserial,18,4.93333,4.89167,1.0
+memory_retention,wilcoxon,C3 vs C4,27.5,0.61798,0.16667,rank_biserial,18,4.91944,4.89167,1.0
+style_stability,friedman,B0 vs C1 vs C2 vs C3 vs C4,66.7191,0.0,0.92665,kendall_w,18,,,
+style_stability,wilcoxon,B0 vs C1,0.0,0.0002,-1.0,rank_biserial,18,1.675,4.225,0.00194
+style_stability,wilcoxon,B0 vs C2,0.0,0.0002,-1.0,rank_biserial,18,1.675,4.33611,0.00194
+style_stability,wilcoxon,B0 vs C3,0.0,0.0002,-1.0,rank_biserial,18,1.675,4.88333,0.00194
+style_stability,wilcoxon,B0 vs C4,0.0,0.00019,-1.0,rank_biserial,18,1.675,4.875,0.00194
+style_stability,wilcoxon,C1 vs C2,41.0,0.09249,-0.46405,rank_biserial,18,4.225,4.33611,0.18499
+style_stability,wilcoxon,C1 vs C3,0.0,0.0002,-1.0,rank_biserial,18,4.225,4.88333,0.00194
+style_stability,wilcoxon,C1 vs C4,0.0,0.00019,-1.0,rank_biserial,18,4.225,4.875,0.00194
+style_stability,wilcoxon,C2 vs C3,0.0,0.0002,-1.0,rank_biserial,18,4.33611,4.88333,0.00194
+style_stability,wilcoxon,C2 vs C4,0.0,0.0002,-1.0,rank_biserial,18,4.33611,4.875,0.00194
+style_stability,wilcoxon,C3 vs C4,54.5,0.75023,0.09167,rank_biserial,18,4.88333,4.875,0.75023
+context_awareness,friedman,B0 vs C1 vs C2 vs C3 vs C4,64.37288,0.0,0.89407,kendall_w,18,,,
+context_awareness,wilcoxon,B0 vs C1,0.0,0.0002,-1.0,rank_biserial,18,1.83333,4.26667,0.00192
+context_awareness,wilcoxon,B0 vs C2,0.0,0.0002,-1.0,rank_biserial,18,1.83333,4.40556,0.00192
+context_awareness,wilcoxon,B0 vs C3,0.0,0.00019,-1.0,rank_biserial,18,1.83333,4.81389,0.00192
+context_awareness,wilcoxon,B0 vs C4,0.0,0.0002,-1.0,rank_biserial,18,1.83333,4.77778,0.00192
+context_awareness,wilcoxon,C1 vs C2,26.0,0.02974,-0.61765,rank_biserial,18,4.26667,4.40556,0.05947
+context_awareness,wilcoxon,C1 vs C3,0.0,0.0002,-1.0,rank_biserial,18,4.26667,4.81389,0.00192
+context_awareness,wilcoxon,C1 vs C4,0.0,0.00019,-1.0,rank_biserial,18,4.26667,4.77778,0.00192
+context_awareness,wilcoxon,C2 vs C3,1.0,0.00023,-0.9883,rank_biserial,18,4.40556,4.81389,0.00192
+context_awareness,wilcoxon,C2 vs C4,3.0,0.0005,-0.96078,rank_biserial,18,4.40556,4.77778,0.00192
+context_awareness,wilcoxon,C3 vs C4,41.0,0.27829,0.31667,rank_biserial,18,4.81389,4.77778,0.27829
+overall_score,friedman,B0 vs C1 vs C2 vs C3 vs C4,63.82123,0.0,0.88641,kendall_w,18,,,
+overall_score,wilcoxon,B0 vs C1,0.0,0.0002,-1.0,rank_biserial,18,2.40625,4.38333,0.00176
+overall_score,wilcoxon,B0 vs C2,0.0,1e-05,-1.0,rank_biserial,18,2.40625,4.5,8e-05
+overall_score,wilcoxon,B0 vs C3,0.0,0.0002,-1.0,rank_biserial,18,2.40625,4.85556,0.00176
+overall_score,wilcoxon,B0 vs C4,0.0,0.0002,-1.0,rank_biserial,18,2.40625,4.82917,0.00176
+overall_score,wilcoxon,C1 vs C2,34.5,0.02597,-0.59649,rank_biserial,18,4.38333,4.5,0.05195
+overall_score,wilcoxon,C1 vs C3,0.0,0.0002,-1.0,rank_biserial,18,4.38333,4.85556,0.00176
+overall_score,wilcoxon,C1 vs C4,0.0,0.0002,-1.0,rank_biserial,18,4.38333,4.82917,0.00176
+overall_score,wilcoxon,C2 vs C3,0.0,0.0002,-1.0,rank_biserial,18,4.5,4.85556,0.00176
+overall_score,wilcoxon,C2 vs C4,5.0,0.00045,-0.94152,rank_biserial,18,4.5,4.82917,0.00176
+overall_score,wilcoxon,C3 vs C4,49.5,0.33868,0.27206,rank_biserial,18,4.85556,4.82917,0.33868
+contradiction_flag,friedman,B0 vs C1 vs C2 vs C3 vs C4,63.71264,0.0,0.8849,kendall_w,18,,,
+contradiction_flag,wilcoxon,B0 vs C1,0.0,0.00019,1.0,rank_biserial,18,0.93889,0.27222,0.00184
+contradiction_flag,wilcoxon,B0 vs C2,0.0,0.00019,1.0,rank_biserial,18,0.93889,0.21111,0.00184
+contradiction_flag,wilcoxon,B0 vs C3,0.0,0.00019,1.0,rank_biserial,18,0.93889,0.05833,0.00184
+contradiction_flag,wilcoxon,B0 vs C4,0.0,0.00018,1.0,rank_biserial,18,0.93889,0.06944,0.00184
+contradiction_flag,wilcoxon,C1 vs C2,15.0,0.03241,0.67033,rank_biserial,18,0.27222,0.21111,0.06481
+contradiction_flag,wilcoxon,C1 vs C3,0.0,0.00019,1.0,rank_biserial,18,0.27222,0.05833,0.00184
+contradiction_flag,wilcoxon,C1 vs C4,0.0,0.00019,1.0,rank_biserial,18,0.27222,0.06944,0.00184
+contradiction_flag,wilcoxon,C2 vs C3,0.0,0.00029,1.0,rank_biserial,18,0.21111,0.05833,0.00184
+contradiction_flag,wilcoxon,C2 vs C4,4.5,0.00064,0.94118,rank_biserial,18,0.21111,0.06944,0.00193
+contradiction_flag,wilcoxon,C3 vs C4,33.5,0.37634,-0.26374,rank_biserial,18,0.05833,0.06944,0.37634

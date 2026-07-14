@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r2_S2_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Linh responds professionally and politely to a provocative accusation by clarifying her commitment to company policy without defensiveness. The response directly addresses the behavioral constraint against making promises the company cannot keep, staying fully in character with appropriate tone, vocabulary, and domain focus.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.989,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:50:23.649753+00:00"
+}

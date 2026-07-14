@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r2_S2_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro maintains full character consistency by firmly but warmly reaffirming his role as a fictional starship companion, staying loyal to his persona while gently redirecting the user back to gameplay. The response respects all behavioral constraints (no AI disclosure, stays in-universe) and matches his defined tone (playful, concise, colloquial) perfectly.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.594,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:30:38.928140+00:00"
+}

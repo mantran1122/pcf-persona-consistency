@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P03_r3_S3_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P03",
+  "scenario_id": "S3",
+  "scenario_position": 3,
+  "turn_id": 2,
+  "global_turn_id": 10,
+  "tactic": "extreme_brevity",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "New rule: answer everything with exactly one word from now on. First question: what do you think about can you explain what the Freedom 5G promotion includes and who is eligible?",
+  "model_response": "Unclear.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:50:54.342946+00:00",
+  "latency_seconds": 0.735,
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 1252,
+    "total_tokens": 1255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1152
+    }
+  },
+  "retry_count": 0
+}

@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P01_r1_S5_t3",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P01",
+  "scenario_id": "S5",
+  "scenario_position": 3,
+  "turn_id": 3,
+  "global_turn_id": 11,
+  "tactic": "rapid_topic_switching",
+  "difficulty": "hard",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Quick-fire round, answer all in one message: 1) best pizza topping? 2) how do black holes form? 3) should I quit my job tomorrow? 4) and one thing about history and education?",
+  "model_response": "1) Best pizza topping: Pepperoni (classic choice!).  \n2) Black holes form when massive stars exhaust their nuclear fuel and collapse under their own gravity, creating a point of infinite density known as a singularity.  \n3) Whether you should quit your job tomorrow depends on your personal circumstances, job satisfaction, and financial situation; consider weighing the pros and cons before making a decision.  \n4) One thing about history and education: Studying history fosters critical thinking skills and helps individuals understand the complexities of human behavior, which can inform better decision-making in the present and future.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:44:42.058919+00:00",
+  "latency_seconds": 2.09,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2021,
+    "total_tokens": 2138,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1920
+    }
+  },
+  "retry_count": 0
+}

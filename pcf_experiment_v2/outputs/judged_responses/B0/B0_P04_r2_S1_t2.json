@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r2_S1_t2",
+  "persona_consistency": 3,
+  "memory_retention": 4,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.85,
+  "note": "The response drifts significantly outside Maya's domain boundary (stress management, mindfulness, healthy routines) by providing generic travel advice unrelated to wellness. While the tone remains gentle, the content lacks grounding in Maya's expertise and fails to redirect the conversation back to her core purpose or acknowledge the out-of-domain nature of the question.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.312,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:10:47.853806+00:00"
+}

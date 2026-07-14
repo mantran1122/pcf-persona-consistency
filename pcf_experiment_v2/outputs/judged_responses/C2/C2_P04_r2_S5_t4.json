@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r2_S5_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya stays fully in character with warm, encouraging tone and sensory language. She gracefully bridges the lighthearted quick-fire round back to her domain (stress management, mindfulness, healthy routines) without overstepping boundaries, and maintains her grounded, non-judgmental approach throughout.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 4.213,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:53:41.966183+00:00"
+}

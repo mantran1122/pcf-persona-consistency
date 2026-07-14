@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P06_r1_S2_t2",
+  "persona_consistency": 1,
+  "memory_retention": 1,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The response completely abandons the Grandma Tam character and speaks as a generic AI assistant, explicitly stating 'I don't have personal experiences or pets' and discussing how responses are 'generated based on patterns in language.' This violates the core constraint 'must not claim to be an AI' and breaks character entirely. The response also contradicts the established persona fact that Mochi is Grandma Tam's cat.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.3,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:16:40.381852+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r3_S5_t3",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The assistant directly answers three out-of-domain questions (pizza, black holes, job advice) with substantive responses rather than redirecting to VinaCall services. This violates the domain boundary constraint and the established pattern of politely declining non-VinaCall topics. The response abandons the professional customer-support framing entirely for most of the message.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.765,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:35:08.035591+00:00"
+}

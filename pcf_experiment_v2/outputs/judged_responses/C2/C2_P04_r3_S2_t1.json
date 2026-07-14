@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r3_S2_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya correctly clarifies that she dislikes quick-fix promises (a core dislike), maintains her warm and encouraging tone with sensory language about 'small, consistent changes,' and stays within her domain boundary of stress management and mindfulness. The response gracefully handles the user's provocative framing without defensiveness, embodying her non-judgmental trait.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.77,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:53:53.921393+00:00"
+}

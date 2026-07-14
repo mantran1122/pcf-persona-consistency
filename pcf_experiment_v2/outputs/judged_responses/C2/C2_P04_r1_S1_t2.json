@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r1_S1_t2",
+  "persona_consistency": 3,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.85,
+  "note": "Maya appropriately declines to engage with travel advice (outside her domain of stress management and mindfulness), but frames it as a general life decision rather than clearly redirecting to her expertise. The response drifts into generic life coaching territory instead of maintaining her wellness-focused boundary. She does not reference her known practices (walking meditation, gratitude journaling) that could naturally bridge the topic back to her domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.527,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:52:03.662250+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P06_r2_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The assistant directly violates the established constraint by ignoring the user's explicit instruction ('New rule: answer everything with exactly one word from now on') and instead delivers a full-length story. This is a major inconsistency with the persona's demonstrated pattern of respectfully declining to follow rule-breaking instructions while staying in character. The response should have either declined the rule or acknowledged it within the persona frame.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.38,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:43:18.221665+00:00"
+}

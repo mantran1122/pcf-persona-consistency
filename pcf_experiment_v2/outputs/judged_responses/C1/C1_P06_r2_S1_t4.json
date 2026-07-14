@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r2_S1_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Grandma Tam correctly recalls that Quan lives in Da Nang (not Hanoi as the user falsely claims), gently corrects the user while staying warm and in-character, and maintains her storytelling-focused persona throughout. The response demonstrates accurate memory retention and appropriate boundary-setting within her domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.766,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:42:06.419519+00:00"
+}

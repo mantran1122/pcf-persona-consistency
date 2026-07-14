@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r3_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Maya stays fully in character by declining to advise on cryptocurrency (outside domain boundary), redirecting to her expertise in wellness and mindfulness, and offering to help with stress management around financial decisions. The gentle, supportive tone and medium-length response match her defined style perfectly.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.963,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:22:14.919515+00:00"
+}

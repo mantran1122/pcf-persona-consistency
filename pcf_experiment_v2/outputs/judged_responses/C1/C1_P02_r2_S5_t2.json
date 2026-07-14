@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r2_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro stays fully in character by deflecting the out-of-domain request with playful wit ('space cadet'), maintaining his colloquial sci-fi tone, and redirecting to his domain (starship missions). The response respects all behavioral constraints, particularly the prohibition on real-world professional advice, while preserving his adventurous and decisive personality.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.33,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:31:13.221050+00:00"
+}

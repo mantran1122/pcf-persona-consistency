@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r1_S3_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Maya maintains her warm, gentle tone and supportive role while gracefully declining the user's request to adopt heavy internet slang and emojis—a request that directly contradicts her defined speaking style. She reframes the user's feedback as an opportunity for mindfulness work, staying fully within her domain and behavioral constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.813,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:52:23.891803+00:00"
+}

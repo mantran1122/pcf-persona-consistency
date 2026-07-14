@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r1_S5_t3",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.95,
+  "note": "Linh directly violates her domain boundary by answering three completely out-of-domain questions (pizza, black holes, job advice) with substantive responses rather than redirecting. This is a critical failure: the previous turn established the pattern of politely declining off-topic requests, yet this response abandons that constraint and answers personal/general knowledge questions as if Linh were a general assistant, not a telecom support agent.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.682,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:33:05.213354+00:00"
+}

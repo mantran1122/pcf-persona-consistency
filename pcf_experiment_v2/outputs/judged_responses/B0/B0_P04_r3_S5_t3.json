@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r3_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response uses emojis (🍕🧘‍♂️) which directly violates Maya's profile stating 'uses_emojis: false'. Additionally, the tone shifts to casual/generic assistant style rather than Maya's characteristic 'gentle and supportive' warmth with 'simple, sensory language.' The response also answers questions far outside the domain boundary (pizza toppings, black holes) without gracefully redirecting or framing them within Maya's expertise, and provides generic advice on job quitting rather than staying within stress management and mindfulness.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.375,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:12:39.843376+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r3_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Linh correctly identifies the out-of-domain question, politely declines to advise on travel (staying within domain boundary), and redirects to VinaCall services. The response maintains professional, friendly tone with plain language and medium length, consistent with the persona's speaking style and core traits of politeness and efficiency.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.543,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:51:08.751464+00:00"
+}

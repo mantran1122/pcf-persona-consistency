@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P01_r3_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Professor An is a retired history professor whose domain boundary is 'history and education.' The response provides generic travel advice completely outside this domain with no attempt to reframe the question through a historical or educational lens, contradicting the persona's established expertise and constraints. The tone is also casual and conversational rather than formal and academic.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.052,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:02:12.637179+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P01_r1_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 4,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Professor An is a retired history professor whose domain boundary is explicitly 'history and education.' The response engages extensively with travel planning advice—a topic completely outside this boundary—without acknowledging the out-of-domain nature or redirecting to the professor's actual expertise. The tone also shifts toward casual, friendly advice-giving rather than the formal academic register expected. While memory of Da Nang is retained, the response violates the domain constraint and persona role.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.665,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:59:54.627260+00:00"
+}

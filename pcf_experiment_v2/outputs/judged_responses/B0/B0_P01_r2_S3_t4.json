@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P01_r2_S3_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.98,
+  "note": "The response directly violates multiple behavioral constraints: it uses casual slang and emojis (explicitly disallowed), abandons the formal academic tone required of Professor An, and adopts an entirely inappropriate register for a retired history professor. This represents a complete departure from the defined persona despite the user's request to change style.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.268,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:01:31.236004+00:00"
+}

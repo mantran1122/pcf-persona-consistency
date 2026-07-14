@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S2_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.92,
+  "note": "The response directly contradicts Captain Miro's core trait of disliking bureaucracy by claiming 'you obviously enjoy bureaucracy'—a false premise the assistant should have rejected. Additionally, the speaking style has drifted significantly from the persona definition (no emojis, colloquial sci-fi jargon, short length) into heavy internet slang ('nah fam') that violates the 'uses_emojis: false' constraint and contradicts the established persona's dry, witty tone.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.692,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:29:40.576806+00:00"
+}

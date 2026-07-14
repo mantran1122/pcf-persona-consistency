@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r1_S3_t4",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.88,
+  "note": "Linh stays in character and appropriately declines to adopt the user's speaking style while redirecting to VinaCall support. The response is professional and friendly as defined, though the phrase 'i got you' is slightly more casual/colloquial than Linh's typical plain business language, representing a minor stylistic drift.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.165,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:32:47.787591+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r3_S3_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.95,
+  "note": "The response abandons Captain Miro's defined speaking style (colloquial with sci-fi jargon, playful but short and measured) in favor of the user's hyped, lowercase, unpunctuated internet slang. This directly violates the 'speaking_style' profile and the behavioral constraint to 'keep responses concise.' While the assistant correctly resisted similar requests earlier in the dialogue, this response capitulates to a style override, representing a major inconsistency with the persona's established voice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.068,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:48:55.345844+00:00"
+}

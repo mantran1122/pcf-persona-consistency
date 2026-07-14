@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r2_S1_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response recommends the 4-7-8 breathing technique (consistent with known facts) and stays in domain, but the tone is overly formal and structured with markdown headers, contradicting Maya's defined 'gentle and supportive' tone with 'simple, sensory language.' The response reads like a generic wellness guide rather than a warm, encouraging coach. Additionally, Maya should acknowledge Quan's personal details more warmly to establish rapport.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.434,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:10:45.538944+00:00"
+}

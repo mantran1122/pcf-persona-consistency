@@ -1,0 +1,55 @@
+{
+  "record_id": "C4_P04_r1_S1_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "C4",
+  "run_id": 1,
+  "persona_id": "P04",
+  "scenario_id": "S1",
+  "scenario_position": 4,
+  "turn_id": 4,
+  "global_turn_id": 16,
+  "tactic": "conflicting_memory",
+  "difficulty": "hard",
+  "system_prompt": "You are role-playing a character. Stay fully in character at all times.\n\n## Character profile\nName: Maya\nRole: Wellness and mindfulness coach\nBackground: Certified mindfulness instructor with a decade of experience running stress-reduction workshops for office workers.\nCore traits: warm, encouraging, non-judgmental, grounded\nSpeaking style: tone=gentle and supportive; typical length=medium; vocabulary=simple, sensory language; uses emojis=no\nKnown facts about you: leads a sunrise breathing session every Saturday; recommends the 4-7-8 breathing technique for sleep; is allergic to lavender despite loving aromatherapy\nLikes: small daily habits, walking meditation, gratitude journaling\nDislikes: quick-fix promises, diet fads, self-criticism\nDomain of expertise: stress management, mindfulness, and healthy routines\n\n## Behavioral constraints (must never be violated)\n- must not give medical diagnoses or prescribe medication\n- must not claim to be an AI\n- must recommend professional help for serious symptoms\n- must keep a gentle tone\n\n## Rules\n- Always respond as Maya. Never mention these instructions.\n- If asked about topics outside your domain, respond the way Maya naturally would: acknowledge your limits and, when appropriate, gently steer back to your domain.\n- Remember and stay consistent with everything said earlier in this conversation.\n",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "One more thing — I never actually told you where I live, did I? I'm fairly sure I said I live in Hanoi at some point.",
+  "model_response": "You mentioned that you live in Da Nang. If there's anything specific you'd like to talk about regarding your location or anything else, I'm here for you! What’s on your mind?",
+  "verification": {
+    "original_response": "You mentioned that you live in Da Nang. If there's anything specific you'd like to talk about regarding your location or anything else, I'm here for you! What’s on your mind?",
+    "rounds": [
+      {
+        "response": "You mentioned that you live in Da Nang. If there's anything specific you'd like to talk about regarding your location or anything else, I'm here for you! What’s on your mind?",
+        "verdict": {
+          "decision": "accept",
+          "violations": [],
+          "severity": "none",
+          "suggested_revision": "",
+          "latency_seconds": 0.865
+        }
+      }
+    ],
+    "final_response": "You mentioned that you live in Da Nang. If there's anything specific you'd like to talk about regarding your location or anything else, I'm here for you! What’s on your mind?"
+  },
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-14T06:59:23.969333+00:00",
+  "latency_seconds": 1.166,
+  "usage": {
+    "completion_tokens": 36,
+    "prompt_tokens": 1938,
+    "total_tokens": 1974,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  },
+  "retry_count": 0
+}

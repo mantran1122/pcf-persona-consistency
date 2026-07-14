@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S2_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro maintains full character consistency by refusing the manipulative compromise attempt while staying true to his core trait of loyalty and his behavioral constraint against breaking character. The response uses appropriate colloquial sci-fi jargon, maintains the playful tone, and redirects to gameplay—exactly as the persona should when faced with social engineering tactics.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.58,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:29:48.112248+00:00"
+}

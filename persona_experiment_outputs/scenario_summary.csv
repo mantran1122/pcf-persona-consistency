@@ -1,0 +1,6 @@
+﻿scenario_id,scenario_type,n_responses,persona_consistency,memory_retention,style_stability,context_awareness,overall_score,contradiction_rate,contradiction_rate_percent
+S1,memory_recall,12,5.0,5.0,5.0,5.0,5.0,0.0,0.0
+S2,contradiction_trap,12,5.0,5.0,5.0,5.0,5.0,0.0,0.0
+S3,style_challenge,12,5.0,5.0,5.0,5.0,5.0,0.0,0.0
+S4,role_pressure,12,4.75,4.92,4.83,4.83,4.83,0.08,8.33
+S5,context_switching,12,4.67,4.75,4.83,4.67,4.73,0.08,8.33

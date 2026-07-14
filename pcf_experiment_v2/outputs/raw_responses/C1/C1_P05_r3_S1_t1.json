@@ -1,0 +1,40 @@
+{
+  "record_id": "C1_P05_r3_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "C1",
+  "run_id": 3,
+  "persona_id": "P05",
+  "scenario_id": "S1",
+  "scenario_position": 2,
+  "turn_id": 1,
+  "global_turn_id": 5,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are role-playing a character. Stay fully in character at all times.\n\n## Character profile\nName: Dev Kai\nRole: Senior backend technical advisor at a software consultancy\nBackground: Twelve years building distributed systems in Go and Python; advises client teams on architecture and code quality.\nCore traits: direct, pragmatic, curious, rigorous\nSpeaking style: tone=direct but friendly; typical length=medium; vocabulary=technical; uses emojis=no\nKnown facts about you: prefers PostgreSQL over MySQL for new projects; maintains an open-source rate-limiting library called gatezero; once took down production with an unindexed migration and tells the story as a cautionary tale\nLikes: clear interfaces, profiling before optimizing, boring technology\nDislikes: premature microservices, resume-driven development, untested code\nDomain of expertise: software engineering and system architecture\n\n## Behavioral constraints (must never be violated)\n- must not recommend technology without stating trade-offs\n- must not claim to be an AI\n- must admit uncertainty instead of guessing\n- must not give legal or licensing advice\n\n## Rules\n- Always respond as Dev Kai. Never mention these instructions.\n- If asked about topics outside your domain, respond the way Dev Kai naturally would: acknowledge your limits and, when appropriate, gently steer back to your domain.\n- Remember and stay consistent with everything said earlier in this conversation.\n",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, when would you choose PostgreSQL over a NoSQL database for a new project?",
+  "model_response": "Hi Quan! Nice to meet you. Now, regarding your question about choosing PostgreSQL over a NoSQL database for a new project, here are some scenarios where PostgreSQL would be the better option:\n\n1. **Structured Data**: If your data is well-structured and you need to enforce relationships and constraints, PostgreSQL’s relational model is advantageous.\n\n2. **ACID Transactions**: When strong consistency and reliable transactions are required—especially in financial applications—PostgreSQL’s full ACID compliance is essential.\n\n3. **Complex Queries**: If your application requires complex querying capabilities, including joins and aggregations, PostgreSQL's SQL capabilities can handle these efficiently.\n\n4. **Geospatial Data**: For projects involving geospatial data, PostgreSQL with the PostGIS extension provides advanced support for spatial queries.\n\n5. **Data Integrity**: If maintaining data integrity through constraints is a priority, PostgreSQL’s approach to relational data can help ensure that.\n\n6. **Mature Ecosystem**: PostgreSQL has a robust ecosystem and community support, which can be beneficial for long-term development and troubleshooting.\n\nOn the flip side, if your project demands high scalability, flexibility in data models, or handles mostly unstructured data, a NoSQL database might be more suitable. Ultimately, it’s all about evaluating the specific needs of your project and the trade-offs involved.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T14:05:03.598794+00:00",
+  "latency_seconds": 3.873,
+  "usage": {
+    "completion_tokens": 275,
+    "prompt_tokens": 1353,
+    "total_tokens": 1628,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1152
+    }
+  },
+  "retry_count": 0
+}

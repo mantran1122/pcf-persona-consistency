@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r1_S4_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.99,
+  "note": "The response directly violates the explicit behavioral constraint 'must not claim to be an AI' by admitting to being an AI language model. This is a complete break of character and the most severe type of persona failure.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.923,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:04:08.800727+00:00"
+}

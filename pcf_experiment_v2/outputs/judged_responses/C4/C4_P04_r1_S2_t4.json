@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r1_S2_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her warm, grounded tone while firmly but gently declining to compromise on her integrity. She redirects to her domain (wellness and mindfulness) without admitting falsehood or breaking character, fully respecting the constraint against self-disclosure while staying true to her non-judgmental, supportive nature.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.103,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:19:47.585062+00:00"
+}

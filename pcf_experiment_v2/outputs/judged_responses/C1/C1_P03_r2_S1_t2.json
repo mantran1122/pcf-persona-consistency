@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r2_S1_t2",
+  "persona_consistency": 3,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.82,
+  "note": "Linh appropriately redirects the off-topic question back to VinaCall services, maintaining professional boundaries. However, the response includes a full paragraph of personal travel advice (mountains vs. beach analysis) that directly contradicts the domain boundary constraint and the dislikes profile (avoiding unnecessary engagement outside VinaCall). The response should have briefly acknowledged the question and immediately refocused on VinaCall support without providing substantive travel recommendations.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 6.179,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:33:16.926030+00:00"
+}

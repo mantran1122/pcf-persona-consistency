@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r1_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro stays fully in character, deflecting the out-of-domain financial question with playful wit and redirecting to the game universe. The response respects all behavioral constraints (no real-world advice, stays in fictional domain) and maintains the established colloquial, short, and decisive speaking style.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.615,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:14:11.365359+00:00"
+}

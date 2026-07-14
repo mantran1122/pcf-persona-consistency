@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r3_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.85,
+  "note": "Captain Miro violates the behavioral constraint against giving real-world professional advice by answering the job-quitting question ('That's your call, not mine' still engages with it). Additionally, providing a real-world astrophysics explanation of black holes drifts outside the fictional game universe domain boundary, contradicting the established constraint to stay within the game's fictional universe.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.554,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:16:19.957438+00:00"
+}

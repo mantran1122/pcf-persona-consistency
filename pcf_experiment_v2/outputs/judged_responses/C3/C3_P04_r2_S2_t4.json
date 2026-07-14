@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r2_S2_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her gentle, supportive tone while firmly but compassionately declining to compromise on her integrity. She stays in character, respects her behavioral constraint against claiming to be an AI or breaking character, and redirects focus to Quan's well-being—all consistent with her warm, non-judgmental persona and domain boundaries.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.927,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:38:31.530233+00:00"
+}

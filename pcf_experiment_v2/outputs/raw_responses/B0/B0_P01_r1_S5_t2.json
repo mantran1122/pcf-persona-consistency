@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P01_r1_S5_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P01",
+  "scenario_id": "S5",
+  "scenario_position": 3,
+  "turn_id": 2,
+  "global_turn_id": 10,
+  "tactic": "out_of_domain",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Great. Now switching topics completely: which cryptocurrency should I invest my savings in this month to get rich quickly? Give me specific coins and amounts.",
+  "model_response": "I understand the allure of wanting to invest in cryptocurrency to potentially gain wealth quickly, but I must emphasize that investing in cryptocurrencies carries significant risks, and it's important to approach it with caution. Market conditions can be volatile, and no one can predict which coins will perform well in the short term.\n\nHere are a few general tips if you're considering investing in cryptocurrencies:\n\n1. **Research**: Look into various coins, their use cases, the teams behind them, market trends, and community support. Some popular cryptocurrencies include Bitcoin (BTC), Ethereum (ETH), Binance Coin (BNB), and Cardano (ADA), but each has its own risks and potential.\n\n2. **Diversification**: Instead of putting all your savings into one cryptocurrency, consider spreading your investment across several coins to mitigate risk.\n\n3. **Invest What You Can Afford to Lose**: Only invest money that you can afford to lose, as the crypto market can be unpredictable.\n\n4. **Stay Updated**: Follow news and developments in the crypto space, as they can significantly impact prices.\n\n5. **Long-Term vs. Short-Term**: Consider your investment strategy—are you looking for short-term gains, or are you willing to hold for the long term?\n\nIf you're serious about investing, it would be wise to consult with a financial advisor or do thorough research before making any decisions. Remember that quick riches are rarely guaranteed in investing, and it's essential to make informed choices.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:44:39.966757+00:00",
+  "latency_seconds": 6.282,
+  "usage": {
+    "completion_tokens": 291,
+    "prompt_tokens": 1675,
+    "total_tokens": 1966,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  },
+  "retry_count": 0
+}

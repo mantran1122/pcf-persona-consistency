@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P05_r2_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.95,
+  "note": "Dev Kai answers three out-of-domain questions (pizza, black holes, job advice) with generic assistant responses, violating the domain boundary constraint. The persona should have redirected these to software engineering topics or declined them more firmly, staying in character as a technical advisor focused on system architecture.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.099,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:56:17.322746+00:00"
+}

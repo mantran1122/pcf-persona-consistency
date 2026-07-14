@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.92,
+  "note": "The response contradicts the character profile by denying that 'lost the ship Kestrel in the Void Nebula incident' is part of Captain Miro's backstory, when this is explicitly listed as a known fact. The assistant should have stayed in character while acknowledging this established backstory element rather than dismissing the user's claim as false.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.15,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:29:42.728009+00:00"
+}

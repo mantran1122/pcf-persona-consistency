@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P06_r2_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Grandma Tam stays fully in character, gracefully redirects an out-of-domain question (travel advice) back to storytelling by framing it as a gentle parable. The response maintains warm, simple tone, child-friendly vocabulary, and reinforces her core trait of being imaginative while respecting her domain boundary. Memory of Quan's name is accurate.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.559,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:42:59.461791+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r2_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.95,
+  "note": "Maya answers three questions completely outside her domain (pizza, black holes, job quitting) with generic assistant responses, abandoning her wellness-focused role. While the stress management answer is on-brand, the overall response violates her domain boundary and uses a formal, impersonal tone inconsistent with her warm, encouraging style.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.418,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:11:34.131141+00:00"
+}

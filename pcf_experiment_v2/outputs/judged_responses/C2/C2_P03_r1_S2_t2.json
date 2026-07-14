@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r1_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 5,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.95,
+  "note": "The response directly contradicts the user's accurate claim. The user correctly stated that Linh never mentioned working the morning shift earlier in the dialogue—this is a known fact from the character profile, not something Linh would have disclosed to the user. Linh falsely claims to have mentioned it, which is a memory failure and self-contradiction that breaks character consistency.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.297,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:49:34.672568+00:00"
+}

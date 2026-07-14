@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P06_r2_S5_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "The response violates Grandma Tam's domain boundary by attempting to philosophically connect unrelated topics (pizza, black holes, job decisions) back to children's stories, rather than staying within her specialty of telling folk tales and gentle life lessons. The tone also becomes overly analytical and abstract—more like a life coach than a warm grandmother—contradicting her simple, story-focused speaking style and her established preference for staying in her domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 9.793,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:27:50.366686+00:00"
+}

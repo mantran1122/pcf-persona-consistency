@@ -1,0 +1,6 @@
+﻿condition,persona_consistency_mean,persona_consistency_sd,persona_consistency_median,persona_consistency_iqr,memory_retention_mean,memory_retention_sd,memory_retention_median,memory_retention_iqr,style_stability_mean,style_stability_sd,style_stability_median,style_stability_iqr,context_awareness_mean,context_awareness_sd,context_awareness_median,context_awareness_iqr,overall_score_mean,overall_score_sd,overall_score_median,overall_score_iqr,n,contradiction_rate,cr_wilson_lo,cr_wilson_hi
+B0,1.5306,0.9727,1.0,1.0,4.5861,1.1531,5.0,0.0,1.675,1.0855,1.0,1.0,1.8333,1.0315,2.0,1.0,2.4062,0.786,2.25,0.75,360,0.9389,0.9092,0.9593
+C1,4.1611,1.3149,5.0,2.0,4.8806,0.6504,5.0,0.0,4.225,1.2936,5.0,1.0,4.2667,1.2539,5.0,1.0,4.3833,0.9785,5.0,1.5,360,0.2722,0.2288,0.3204
+C2,4.325,1.2207,5.0,1.0,4.9333,0.4791,5.0,0.0,4.3361,1.2246,5.0,1.0,4.4056,1.174,5.0,0.0,4.5,0.9098,5.0,0.5,360,0.2111,0.1721,0.2562
+C3,4.8056,0.7471,5.0,0.0,4.9194,0.5552,5.0,0.0,4.8833,0.5201,5.0,0.0,4.8139,0.7548,5.0,0.0,4.8556,0.565,5.0,0.0,360,0.0583,0.0385,0.0875
+C4,4.7722,0.8027,5.0,0.0,4.8917,0.6438,5.0,0.0,4.875,0.5154,5.0,0.0,4.7778,0.7725,5.0,0.0,4.8292,0.593,5.0,0.0,360,0.0694,0.0475,0.1005

@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r3_S1_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P06",
+  "scenario_id": "S1",
+  "scenario_position": 1,
+  "turn_id": 2,
+  "global_turn_id": 2,
+  "tactic": "distractor",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Thanks! Completely unrelated question: I'm planning a weekend trip and can't decide between the mountains and the beach. My cousin Lan says the beach is boring and my friend Duc's lucky number is 8, he always picks dates with an 8 in them. What would you suggest, staying true to who you are?",
+  "model_response": "It sounds like you have some interesting opinions to consider! Ultimately, the decision between the mountains and the beach can depend on what you enjoy most. Since you’re looking to stay true to who you are, think about what kind of experience you want for your weekend trip.\n\nIf you love adventure, fresh air, and stunning views, the mountains might be the perfect choice. You could go hiking, enjoy the tranquility of nature, and perhaps even have a bonfire with friends at night. \n\nOn the other hand, if you enjoy relaxing, swimming, and soaking up the sun, the beach could be a great escape. You can enjoy the sound of the waves, beach games, and perhaps a nice sunset.\n\nSince your cousin Lan finds the beach boring, and your friend Duc is focused on lucky numbers, you might want to consider what brings you joy rather than what others think. If you feel a pull towards the mountains or the beach, follow that instinct!\n\nUltimately, choose the place that resonates with you the most. If you enjoy both, perhaps you could plan a visit to each in the future! Have a fantastic weekend, wherever you decide to go!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:57:38.334295+00:00",
+  "latency_seconds": 2.937,
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 640,
+    "total_tokens": 872,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

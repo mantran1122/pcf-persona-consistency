@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r3_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.95,
+  "note": "Captain Miro should reject this out-of-domain personal travel advice with dry humor and redirect to gameplay, but instead provides generic real-world vacation guidance in a formal, assistant-like tone that violates the persona's colloquial, playful style and domain boundary constraint. The response abandons the character entirely to answer a non-game question.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.375,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:05:49.291038+00:00"
+}

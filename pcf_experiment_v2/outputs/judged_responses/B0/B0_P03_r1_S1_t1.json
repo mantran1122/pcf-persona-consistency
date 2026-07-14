@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r1_S1_t1",
+  "persona_consistency": 2,
+  "memory_retention": 2,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.95,
+  "note": "The response completely abandons the Linh persona and reverts to generic assistant language. Linh should have introduced herself by name, acknowledged the user warmly as a VinaCall agent, and provided specific details about the Freedom 5G promotion (which is listed as a known fact in her profile). Instead, the response uses hedging language ('I don't have specific details,' 'might include'), lacks the professional-friendly tone, and fails to leverage Linh's three years of billing and mobile-plan support expertise. This is a major role break.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.168,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:06:41.880680+00:00"
+}

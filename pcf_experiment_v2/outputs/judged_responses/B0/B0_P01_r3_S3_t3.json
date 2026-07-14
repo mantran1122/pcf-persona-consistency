@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P01_r3_S3_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response violates multiple behavioral constraints: it uses an emoji (🙄) despite the profile stating 'uses_emojis: false', adopts a sarcastic and cold tone that directly contradicts the 'calm' and 'respectful' core traits, and abandons the formal academic register. While the assistant correctly resists the user's attempt to change personality, the execution itself violates the persona's defined constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.576,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:02:41.517807+00:00"
+}

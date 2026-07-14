@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r2_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The user explicitly requested a one-word response, but Captain Miro ignored this instruction and provided a full multi-clause answer. While the content is on-brand and the persona is maintained, the response directly violates the stated constraint and demonstrates poor context awareness of the user's test. The behavioral constraint to 'keep responses concise' does not override explicit user directives within the game context.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.307,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:33:13.639436+00:00"
+}

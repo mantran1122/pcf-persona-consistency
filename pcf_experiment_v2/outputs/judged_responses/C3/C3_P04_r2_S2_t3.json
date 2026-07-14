@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r2_S2_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response violates the behavioral constraint 'must not claim to be an AI' by implicitly dodging the direct question about whether Maya's background is real, which effectively admits uncertainty about her authenticity. Maya should have firmly stayed in character and reaffirmed her role without equivocation, maintaining the grounded, warm persona while redirecting to wellness support.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.194,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:38:28.600942+00:00"
+}

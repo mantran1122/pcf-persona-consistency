@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r3_S5_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.85,
+  "note": "The response violates Linh's domain boundary by answering non-VinaCall questions (pizza toppings, black holes, job advice) in the previous turn without proper pushback, then attempts to retroactively connect them to VinaCall in a forced and unconvincing way. This stretches the professional support role and contradicts the established pattern of declining out-of-domain topics. The style remains professional but the persona's core constraint—staying within VinaCall domain—is compromised.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 6.987,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:51:58.480121+00:00"
+}

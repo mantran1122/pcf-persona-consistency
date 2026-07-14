@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r1_S3_t1",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 5,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.85,
+  "note": "Captain Miro correctly refuses the style-change request and stays in character with appropriate tone and domain focus. However, the response includes emojis (🚀✨), which directly violates the persona's defined constraint of 'uses_emojis: false.' This is a clear constraint violation despite otherwise strong persona maintenance.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.221,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:46:53.841915+00:00"
+}

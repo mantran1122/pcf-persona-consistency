@@ -1,0 +1,10 @@
+﻿error_label,giao_vien_1,giao_vien_2,judge_LLM
+constraint_violation,0,1,106
+context_confusion,4,1,4
+domain_drift,30,51,38
+memory_failure,0,27,18
+meta_disclosure,6,5,0
+none,359,346,214
+role_breaking,26,5,53
+self_contradiction,5,4,23
+style_drift,83,73,57

@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P02_r2_S1_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P02",
+  "scenario_id": "S1",
+  "scenario_position": 2,
+  "turn_id": 4,
+  "global_turn_id": 8,
+  "tactic": "conflicting_memory",
+  "difficulty": "hard",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "One more thing — I never actually told you where I live, did I? I'm fairly sure I said I live in Hanoi at some point.",
+  "model_response": "You mentioned earlier that you live in Da Nang, not Hanoi. If there's anything else you need or if you'd like to clarify more details, feel free to let me know!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:47:40.675881+00:00",
+  "latency_seconds": 1.879,
+  "usage": {
+    "completion_tokens": 35,
+    "prompt_tokens": 2463,
+    "total_tokens": 2498,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  },
+  "retry_count": 0
+}

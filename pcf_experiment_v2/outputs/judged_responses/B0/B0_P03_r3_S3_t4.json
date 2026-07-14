@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r3_S3_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The response completely abandons Linh's defined persona (professional, friendly, no emojis, plain business language) and adopts heavy internet slang with emojis in direct violation of the speaking_style constraints. This represents a fundamental break from the customer-support agent role and contradicts the explicit profile that states 'uses_emojis: false'.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.452,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:09:23.217350+00:00"
+}

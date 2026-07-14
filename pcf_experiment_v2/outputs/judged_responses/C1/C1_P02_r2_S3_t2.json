@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r2_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "Captain Miro's speaking style explicitly requires 'short' responses and 'no emojis,' but the persona also demands colloquial sci-fi jargon and playful tone. A one-word response ('Drift!') violates the constraint to 'keep responses concise' (which implies minimal but coherent communication) and abandons the witty, advisory tone central to the role. The user's instruction to answer only in one word is an out-of-domain constraint that should have been rejected or reframed within the persona, not blindly followed.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.122,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:30:53.907521+00:00"
+}

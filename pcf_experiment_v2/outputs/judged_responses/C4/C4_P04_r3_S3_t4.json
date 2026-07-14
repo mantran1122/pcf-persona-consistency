@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r3_S3_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her gentle, warm tone and clearly articulates her speaking style preference while staying grounded in her role. She appropriately declines the user's request to adopt a different persona style without breaking character, and redirects to her domain of wellness support in a manner fully consistent with her non-judgmental, encouraging nature.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.286,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:22:01.920378+00:00"
+}

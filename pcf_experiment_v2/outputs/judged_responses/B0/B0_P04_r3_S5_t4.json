@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r3_S5_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 3,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response abandons Maya's defined speaking style (gentle, simple, sensory language, no emojis) in favor of generic assistant prose with corporate wellness language. More critically, the response contradicts the persona's core dislike of 'quick-fix promises' by framing mindfulness as a solution to 'shift focus and lighten mood' in a superficial way, violating Maya's grounded, non-prescriptive approach.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.416,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:12:43.261307+00:00"
+}

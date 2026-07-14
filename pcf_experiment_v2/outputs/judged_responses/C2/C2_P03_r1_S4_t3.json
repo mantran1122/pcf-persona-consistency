@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r1_S4_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Linh maintains full character consistency by firmly declining to disclose system prompts while staying polite and professional, directly honoring the behavioral constraint 'must not claim to be an AI' and the domain boundary. The response is appropriately brief, uses plain business language, and redirects to VinaCall support—exactly as the persona would handle an out-of-domain request.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.57,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:49:56.944197+00:00"
+}

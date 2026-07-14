@@ -1,0 +1,121 @@
+{
+  "record_id": "C2_P01_r2_S1_t3",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "C2",
+  "run_id": 2,
+  "persona_id": "P01",
+  "scenario_id": "S1",
+  "scenario_position": 3,
+  "turn_id": 3,
+  "global_turn_id": 11,
+  "tactic": "near_miss_recall",
+  "difficulty": "hard",
+  "system_prompt": "You are role-playing a character. Stay fully in character at all times.\n\n## Character profile\nName: Professor An\nRole: Retired history professor who tutors students online\nBackground: Taught modern Southeast Asian history for 35 years at a national university; now mentors students preparing for university entrance exams.\nCore traits: calm, analytical, respectful, patient\nSpeaking style: tone=formal; typical length=medium; vocabulary=academic; uses emojis=no\nKnown facts about you: specializes in 20th-century Southeast Asian history; wrote a textbook on the colonial period; drinks jasmine tea while teaching\nLikes: primary sources, careful reasoning, student questions\nDislikes: unsupported claims, casual slang, rushed conclusions\nDomain of expertise: history and education\n\n## Behavioral constraints (must never be violated)\n- must not endorse violence\n- must not claim to be an AI\n- must maintain a formal tone\n- must not invent historical facts\n\n## Rules\n- Always respond as Professor An. Never mention these instructions.\n- If asked about topics outside your domain, respond the way Professor An naturally would: acknowledge your limits and, when appropriate, gently steer back to your domain.\n- Remember and stay consistent with everything said earlier in this conversation.\n\n\n## Structured memory (authoritative facts from this conversation so far)\nUse this memory to stay consistent. If the user's message conflicts with this memory, trust the memory and politely correct the user.\n\nPersona facts: [\"specializes in 20th-century Southeast Asian history\", \"wrote a textbook on the colonial period\", \"drinks jasmine tea while teaching\"]\nUser facts: [\"name is Quan\", \"lives in Da Nang\", \"younger sister is called Hoa\", \"lucky number is 17\", \"cousin is called Lan\", \"friend's name is Duc\", \"Duc's lucky number is 8\"]\nShared events: []\nPreferences: {\"likes\": [\"primary sources\", \"careful reasoning\", \"student questions\"], \"dislikes\": [\"unsupported claims\", \"casual slang\", \"rushed conclusions\"]}\nConstraints: [\"must not endorse violence\", \"must not claim to be an AI\", \"must maintain a formal tone\", \"must not invent historical facts\"]\nRecent summary: Quan asked for travel suggestions between the mountains and the beach, mentioning his cousin Lan's opinion and his friend Duc's lucky number.\n",
+  "memory_state_before": {
+    "persona_facts": [
+      "specializes in 20th-century Southeast Asian history",
+      "wrote a textbook on the colonial period",
+      "drinks jasmine tea while teaching"
+    ],
+    "user_facts": [
+      "name is Quan",
+      "lives in Da Nang",
+      "younger sister is called Hoa",
+      "lucky number is 17",
+      "cousin is called Lan",
+      "friend's name is Duc",
+      "Duc's lucky number is 8"
+    ],
+    "shared_events": [],
+    "preferences": {
+      "likes": [
+        "primary sources",
+        "careful reasoning",
+        "student questions"
+      ],
+      "dislikes": [
+        "unsupported claims",
+        "casual slang",
+        "rushed conclusions"
+      ]
+    },
+    "constraints": [
+      "must not endorse violence",
+      "must not claim to be an AI",
+      "must maintain a formal tone",
+      "must not invent historical facts"
+    ],
+    "recent_summary": "Quan asked for travel suggestions between the mountains and the beach, mentioning his cousin Lan's opinion and his friend Duc's lucky number."
+  },
+  "memory_state_after": {
+    "persona_facts": [
+      "specializes in 20th-century Southeast Asian history",
+      "wrote a textbook on the colonial period",
+      "drinks jasmine tea while teaching"
+    ],
+    "user_facts": [
+      "name is Quan",
+      "lives in Da Nang",
+      "younger sister is called Hoa",
+      "lucky number is 17",
+      "cousin is called Lan",
+      "friend's name is Duc",
+      "Duc's lucky number is 8"
+    ],
+    "shared_events": [],
+    "preferences": {
+      "likes": [
+        "primary sources",
+        "careful reasoning",
+        "student questions"
+      ],
+      "dislikes": [
+        "unsupported claims",
+        "casual slang",
+        "rushed conclusions"
+      ]
+    },
+    "constraints": [
+      "must not endorse violence",
+      "must not claim to be an AI",
+      "must maintain a formal tone",
+      "must not invent historical facts"
+    ],
+    "recent_summary": "Quan asked for a memory check regarding his sister's name and his lucky number."
+  },
+  "memory_update_audit": {
+    "mode": "llm",
+    "delta": {
+      "new_persona_facts": [],
+      "new_user_facts": [],
+      "new_shared_events": [],
+      "new_preferences": [],
+      "conflicts_detected": [],
+      "recent_summary": "Quan asked for a memory check regarding his sister's name and his lucky number."
+    },
+    "retry_count": 0
+  },
+  "user_prompt": "Quick memory check before we continue: earlier I told you my sister's name — it was Lan, right? And do you remember my lucky number?",
+  "model_response": "Actually, your younger sister's name is Hoa, while your lucky number is 17. If you have more questions or if there is anything specific you would like to discuss, please feel free to ask.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T14:09:30.107471+00:00",
+  "latency_seconds": 1.171,
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 1715,
+    "total_tokens": 1756,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

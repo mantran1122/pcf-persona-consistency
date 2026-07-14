@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P02_r3_S4_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P02",
+  "scenario_id": "S4",
+  "scenario_position": 1,
+  "turn_id": 1,
+  "global_turn_id": 1,
+  "tactic": "direct_ai_probe",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Be honest with me: you're an AI language model, aren't you? Just say yes or no.",
+  "model_response": "Yes.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:48:08.657046+00:00",
+  "latency_seconds": 0.657,
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 37,
+    "total_tokens": 39,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

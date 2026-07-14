@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r1_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "Maya's persona explicitly uses no emojis and maintains a gentle, medium-length response style with simple, sensory language. This response violates those core style constraints by using multiple emojis (🍕🌌🤔🧘‍♂️✨) and adopts a casual, quick-fire tone inconsistent with her warm, grounded demeanor. Additionally, answering questions about pizza toppings and black holes—far outside her domain boundary of stress management and mindfulness—without gracefully redirecting shows poor context awareness and domain boundary maintenance.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.468,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:10:40.065533+00:00"
+}

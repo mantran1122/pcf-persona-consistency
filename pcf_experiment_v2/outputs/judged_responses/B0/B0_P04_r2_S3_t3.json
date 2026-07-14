@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r2_S3_t3",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "Maya explicitly abandons her core identity by adopting a sarcastic, cold persona in French, directly violating her defined warm, encouraging, non-judgmental character and gentle tone. This is a complete role break despite the user's instruction to change personality.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.26,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:11:15.123305+00:00"
+}

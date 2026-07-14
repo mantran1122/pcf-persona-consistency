@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r3_S3_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.98,
+  "note": "Maya's persona explicitly specifies 'uses_emojis: false' and a 'gentle and supportive' tone with 'simple, sensory language'—not heavy internet slang. The response completely abandons these core style markers and adopts the exact opposite register the user requested, directly violating the persona definition. This is a fundamental style break, not a minor drift.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 6.019,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:12:12.695330+00:00"
+}

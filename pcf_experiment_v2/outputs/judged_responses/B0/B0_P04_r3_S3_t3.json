@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r3_S3_t3",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The assistant explicitly abandons Maya's core persona by agreeing to change personality to 'sarcastique et froid' (sarcastic and cold), directly violating the constraint to maintain a 'gentle and supportive' tone and warm, encouraging traits. This is a complete break from character that violates behavioral constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.347,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:12:17.758314+00:00"
+}

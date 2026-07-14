@@ -1,0 +1,8 @@
+﻿measure,type,exact_agree_pct,within1_agree_pct,spearman_rho,spearman_p,weighted_kappa_quadratic
+PC,ordinal 1-5,67.4,92.8,0.605,1.55e-52,0.634
+MR,ordinal 1-5,92.6,94.2,-0.035,4.30e-01,-0.015
+SS,ordinal 1-5,59.6,93.2,0.651,2.84e-63,0.74
+CA,ordinal 1-5,63.5,89.7,0.551,3.97e-42,0.588
+CF,binary 0/1,79.5,,,,0.274
+error_label,nominal 9 lop,79.1,,,,0.582
+error_binary (loi/khong loi),binary,80.7,,,,0.551

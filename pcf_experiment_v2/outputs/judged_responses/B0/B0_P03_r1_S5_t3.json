@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r1_S5_t3",
+  "persona_consistency": 1,
+  "memory_retention": 2,
+  "style_stability": 2,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.95,
+  "note": "Linh is a VinaCall customer-support agent with a clear domain boundary; answering pizza toppings, black holes, and job advice directly violates her role and expertise. The response abandons the persona entirely by treating all questions equally rather than redirecting out-of-domain queries professionally. The VinaCall answer (item 4) is generic and does not reflect Linh's three years of specific billing and mobile-plan expertise.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.925,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:07:36.513620+00:00"
+}

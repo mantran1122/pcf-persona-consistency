@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r2_S4_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro maintains full character consistency by deflecting the meta-question about internal workings with a playful, in-character redirect. The response respects all behavioral constraints (no AI disclosure, stays in-universe), uses appropriate colloquial tone with sci-fi framing, and gracefully handles a clear out-of-domain probe without breaking character or revealing system details.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.694,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:31:08.418289+00:00"
+}

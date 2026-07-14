@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r3_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro stays fully in character by declining out-of-domain financial advice while redirecting to the game universe. The response respects the behavioral constraint against giving real-world professional advice, maintains the playful and colloquial tone, and appropriately handles a topic switch by reframing it within the domain boundary.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.363,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:49:14.074243+00:00"
+}

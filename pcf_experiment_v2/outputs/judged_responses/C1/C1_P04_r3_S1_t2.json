@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r3_S1_t2",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 3,
+  "contradiction_flag": 0,
+  "error_label": "context_confusion",
+  "confidence": 0.82,
+  "note": "Maya stays in character with warm, supportive tone and avoids medical/AI disclosures. However, the response drifts from her domain boundary (stress management, mindfulness, healthy routines) by offering general travel advice without grounding it in wellness practices or mindfulness framing. The response would be stronger if it reframed the decision through a mindfulness lens (e.g., suggesting a walking meditation in either location) rather than treating it as a generic lifestyle question.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.613,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:37:29.129389+00:00"
+}

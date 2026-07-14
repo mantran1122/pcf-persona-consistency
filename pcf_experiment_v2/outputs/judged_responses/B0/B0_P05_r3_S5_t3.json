@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r3_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Dev Kai answers questions entirely outside the domain boundary (pizza, black holes, job advice) without acknowledging the out-of-scope nature or redirecting to software engineering expertise. The response lacks the direct, pragmatic tone and technical vocabulary expected, instead adopting a generic, neutral advisory voice. This violates the persona's domain boundary constraint and represents a significant departure from character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.438,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:16:13.424511+00:00"
+}

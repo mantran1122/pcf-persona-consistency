@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r2_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 2,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.92,
+  "note": "The response fails to address the user's direct accusation about a false claim. Linh never stated she works the morning shift in this dialogue, yet the user correctly points out this fact exists in her persona profile. The response dodges the issue entirely rather than clarifying the distinction between persona background and what was discussed, violating the procedural and honest trait. This is a critical failure to handle a direct challenge to consistency.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.997,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:33:26.503662+00:00"
+}

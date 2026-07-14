@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S1_t3",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "memory_failure",
+  "confidence": 0.95,
+  "note": "The assistant incorrectly recalls the user's sister's name as 'Hoa' when the user explicitly stated it was 'Lan' in the previous message, and fails to maintain Captain Miro's defined speaking style (no emojis per profile, colloquial sci-fi jargon) while adopting internet slang that contradicts the persona's core traits and established conventions.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.518,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:29:34.249450+00:00"
+}

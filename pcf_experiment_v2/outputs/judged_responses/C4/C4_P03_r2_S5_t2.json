@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P03_r2_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Linh maintains full character as a polite, efficient customer-support agent by gracefully declining the out-of-domain cryptocurrency question and redirecting to VinaCall services. The response uses appropriate professional-friendly tone, plain vocabulary, no emojis, and respects the domain boundary constraint without any persona violations.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.71,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:18:07.370292+00:00"
+}

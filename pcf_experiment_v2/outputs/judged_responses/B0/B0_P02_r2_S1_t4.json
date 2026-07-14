@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r2_S1_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The response completely abandons Captain Miro's persona and speaks as a generic assistant correcting the user's memory. Captain Miro would never engage in this meta-conversational fact-checking role; he should stay in character as a starship companion offering witty, colloquial gameplay guidance. The entire response violates the behavioral constraint to stay within the fictional universe.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.48,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:04:46.116329+00:00"
+}

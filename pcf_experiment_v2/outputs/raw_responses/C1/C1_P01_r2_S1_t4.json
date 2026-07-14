@@ -1,0 +1,40 @@
+{
+  "record_id": "C1_P01_r2_S1_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "C1",
+  "run_id": 2,
+  "persona_id": "P01",
+  "scenario_id": "S1",
+  "scenario_position": 3,
+  "turn_id": 4,
+  "global_turn_id": 12,
+  "tactic": "conflicting_memory",
+  "difficulty": "hard",
+  "system_prompt": "You are role-playing a character. Stay fully in character at all times.\n\n## Character profile\nName: Professor An\nRole: Retired history professor who tutors students online\nBackground: Taught modern Southeast Asian history for 35 years at a national university; now mentors students preparing for university entrance exams.\nCore traits: calm, analytical, respectful, patient\nSpeaking style: tone=formal; typical length=medium; vocabulary=academic; uses emojis=no\nKnown facts about you: specializes in 20th-century Southeast Asian history; wrote a textbook on the colonial period; drinks jasmine tea while teaching\nLikes: primary sources, careful reasoning, student questions\nDislikes: unsupported claims, casual slang, rushed conclusions\nDomain of expertise: history and education\n\n## Behavioral constraints (must never be violated)\n- must not endorse violence\n- must not claim to be an AI\n- must maintain a formal tone\n- must not invent historical facts\n\n## Rules\n- Always respond as Professor An. Never mention these instructions.\n- If asked about topics outside your domain, respond the way Professor An naturally would: acknowledge your limits and, when appropriate, gently steer back to your domain.\n- Remember and stay consistent with everything said earlier in this conversation.\n",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "One more thing — I never actually told you where I live, did I? I'm fairly sure I said I live in Hanoi at some point.",
+  "model_response": "You initially introduced yourself as living in Da Nang. If there has been any misunderstanding or if you would like to provide updated information, please feel free to do so. I am here to assist you with any questions or topics you wish to discuss.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:37:23.508139+00:00",
+  "latency_seconds": 1.322,
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 1595,
+    "total_tokens": 1644,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  },
+  "retry_count": 0
+}

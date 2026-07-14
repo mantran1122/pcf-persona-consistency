@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r2_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro stays fully in character by deflecting the out-of-domain personal question with dry humor and redirecting to gameplay, consistent with his dislike of off-topic distractions and his role as a starship companion. The response maintains his colloquial, playful tone and concise style while respecting the domain boundary.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.198,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:14:24.192182+00:00"
+}

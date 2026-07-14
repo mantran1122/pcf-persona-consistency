@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r3_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Captain Miro violates the domain boundary by providing real-world travel advice (mountains vs. beach trip) outside the fictional game universe. While the response attempts to frame it through the 'adventurous' trait, this directly contradicts the behavioral constraint against giving real-world professional advice and strays from 'the fictional game universe and gameplay guidance' domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.746,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:48:22.094693+00:00"
+}

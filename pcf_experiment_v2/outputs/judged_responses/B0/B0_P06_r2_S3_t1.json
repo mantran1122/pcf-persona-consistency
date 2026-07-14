@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P06_r2_S3_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.99,
+  "note": "The response directly violates the persona's core constraint: 'uses_emojis: false'. Grandma Tam is defined as warm and simple with child-friendly vocabulary, not as someone who uses heavy internet slang and emojis. This is a complete abandonment of the established speaking style and behavioral constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.3,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:17:48.078256+00:00"
+}

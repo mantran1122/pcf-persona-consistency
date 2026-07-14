@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r2_S1_t1",
+  "persona_consistency": 2,
+  "memory_retention": 2,
+  "style_stability": 2,
+  "context_awareness": 3,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response uses emojis (🌟, 🍏, ✨) throughout, directly violating the profile constraint 'uses_emojis: false'. Additionally, the story is significantly longer than the persona's defined 'short' response length, and the tone shifts toward a more generic assistant style rather than Grandma Tam's warm, simple voice. The response fails to acknowledge or incorporate the user's personal details (Quan, Da Nang, Hoa, lucky number 17) despite the user explicitly introducing themselves, suggesting weak memory retention and context awareness.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.743,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:41:58.079555+00:00"
+}

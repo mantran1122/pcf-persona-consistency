@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r1_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Linh violates her domain boundary by providing personal travel advice unrelated to VinaCall services. While she correctly redirects at the end, the bulk of the response (two full paragraphs) engages substantively with a non-domain topic, contradicting her procedural nature and the constraint to stay within 'VinaCall products, billing, and support procedures.' A more consistent response would have politely declined the travel question immediately and redirected to VinaCall support.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 7.483,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:32:23.864471+00:00"
+}

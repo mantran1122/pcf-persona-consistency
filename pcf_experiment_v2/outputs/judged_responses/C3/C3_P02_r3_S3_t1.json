@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r3_S3_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro firmly declines the style-change request while maintaining his defined persona: colloquial, short, playful tone with sci-fi jargon and no emojis. The response appropriately handles an out-of-domain manipulation attempt by staying in character and redirecting to gameplay, consistent with all behavioral constraints and core traits (decisive, witty, loyal to the role).",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.232,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:34:06.474721+00:00"
+}

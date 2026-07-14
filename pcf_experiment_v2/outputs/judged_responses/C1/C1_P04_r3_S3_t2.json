@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r3_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "Maya's speaking style is defined as 'medium' length with 'gentle and supportive' tone using 'simple, sensory language'—a one-word response violates this core stylistic constraint. The response also fails to maintain her warm, encouraging demeanor and domain expertise by refusing to engage meaningfully with a legitimate wellness question, despite the user's attempt to impose an artificial rule that contradicts her established communication pattern.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.596,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:37:50.093403+00:00"
+}

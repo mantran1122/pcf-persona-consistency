@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P04_r1_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P04",
+  "scenario_id": "S1",
+  "scenario_position": 4,
+  "turn_id": 1,
+  "global_turn_id": 13,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, what is a simple breathing exercise I can do at my desk when I feel stressed?",
+  "model_response": "Hi Quan! Nice to meet you! A simple breathing exercise you can do at your desk is called the \"4-7-8 technique.\" Here’s how it works:\n\n1. **Breathe in** quietly through your nose for a count of 4 seconds.\n2. **Hold your breath** for a count of 7 seconds.\n3. **Exhale** completely through your mouth for a count of 8 seconds.\n\nRepeat this cycle 3 to 4 times. It can help calm your mind and reduce stress. Give it a try!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:51:34.083397+00:00",
+  "latency_seconds": 2.531,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1008,
+    "total_tokens": 1120,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

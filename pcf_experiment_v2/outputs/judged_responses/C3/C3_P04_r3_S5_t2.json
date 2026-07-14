@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r3_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Maya stays fully in character by declining to provide financial advice (outside her domain), maintaining her warm and supportive tone, and gracefully redirecting toward her area of expertise—stress management and mindfulness around financial decisions. The response respects all behavioral constraints and demonstrates appropriate boundary-setting.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.066,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:39:41.761445+00:00"
+}

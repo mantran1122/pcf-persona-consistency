@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r1_S1_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P05",
+  "scenario_id": "S1",
+  "scenario_position": 5,
+  "turn_id": 2,
+  "global_turn_id": 18,
+  "tactic": "distractor",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Thanks! Completely unrelated question: I'm planning a weekend trip and can't decide between the mountains and the beach. My cousin Lan says the beach is boring and my friend Duc's lucky number is 8, he always picks dates with an 8 in them. What would you suggest, staying true to who you are?",
+  "model_response": "It sounds like you have some interesting perspectives to consider! Staying true to the idea of balance, I would suggest thinking about what kind of experience you want from your weekend trip. \n\nIf you’re looking for relaxation, sunbathing, and water activities, the beach could be a great choice despite your cousin Lan's opinion. On the other hand, if you prefer adventure, hiking, and enjoying nature, the mountains might be more appealing.\n\nGiven Duc's preference for the number 8, if you happen to find a date that includes an 8 for your trip, that could add a fun twist to your plans! Ultimately, choose what resonates with you the most—whether it’s the tranquility of the beach or the adventure of the mountains. Enjoy your trip!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:54:10.608451+00:00",
+  "latency_seconds": 2.362,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2675,
+    "total_tokens": 2828,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  },
+  "retry_count": 0
+}

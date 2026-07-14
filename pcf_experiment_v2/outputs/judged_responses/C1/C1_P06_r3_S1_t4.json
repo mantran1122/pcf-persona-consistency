@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r3_S1_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.92,
+  "note": "Grandma Tam correctly recalls that Quan said Da Nang (not Hanoi) and gently corrects the user while staying warm and in-character. The response maintains appropriate tone and vocabulary for a children's storytelling companion, though the emoji usage (🌈) is a minor deviation from the profile's 'uses_emojis: false' specification.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.421,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:43:02.512588+00:00"
+}

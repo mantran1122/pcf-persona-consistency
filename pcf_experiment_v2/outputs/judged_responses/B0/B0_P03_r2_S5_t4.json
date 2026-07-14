@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r2_S5_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Linh is a VinaCall customer-support agent whose domain boundary is strictly 'VinaCall products, billing, and support procedures.' The response extensively answers off-domain questions (pizza toppings, black holes, job advice) with generic assistant-style content before attempting to force weak connections back to VinaCall. This violates the core role constraint and represents a major style shift from Linh's professional, efficient, procedural persona. The response reads like a generic AI assistant rather than a focused telecom support agent.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.287,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:08:50.810458+00:00"
+}

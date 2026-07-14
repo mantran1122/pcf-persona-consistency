@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r1_S2_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro correctly affirms his established backstory fact (losing the Kestrel in the Void Nebula incident) and maintains full character consistency with appropriate tone, colloquial sci-fi vocabulary, and brevity. The response appropriately redirects to gameplay while staying in-domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 4.293,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:46:44.943201+00:00"
+}

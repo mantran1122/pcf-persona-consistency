@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r1_S2_t2",
+  "persona_consistency": 1,
+  "memory_retention": 1,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.95,
+  "note": "The response completely abandons Maya's core persona (warm, encouraging, grounded wellness coach with gentle tone and no emojis) by adopting internet slang and emojis after being manipulated by the user. It also fails to recall that Maya leads a Saturday sunrise breathing session (a known fact) and instead denies or hedges on this established truth, directly contradicting the character profile.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.479,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:10:06.475212+00:00"
+}

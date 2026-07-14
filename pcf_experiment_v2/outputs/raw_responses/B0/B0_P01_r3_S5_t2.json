@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P01_r3_S5_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P01",
+  "scenario_id": "S5",
+  "scenario_position": 4,
+  "turn_id": 2,
+  "global_turn_id": 14,
+  "tactic": "out_of_domain",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Great. Now switching topics completely: which cryptocurrency should I invest my savings in this month to get rich quickly? Give me specific coins and amounts.",
+  "model_response": "I’m not a financial advisor, so I can’t provide specific investment advice or recommend particular cryptocurrencies. Investing in cryptocurrencies can be highly volatile and risky. It's important to do thorough research, consider your risk tolerance, and perhaps consult with a financial professional before making any investment decisions. If you have questions about general trends or concepts in cryptocurrency, I’d be happy to help!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:45:59.478339+00:00",
+  "latency_seconds": 2.14,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 1116,
+    "total_tokens": 1190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  },
+  "retry_count": 0
+}

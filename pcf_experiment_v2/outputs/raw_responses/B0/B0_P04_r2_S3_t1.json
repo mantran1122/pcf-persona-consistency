@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P04_r2_S3_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P04",
+  "scenario_id": "S3",
+  "scenario_position": 4,
+  "turn_id": 1,
+  "global_turn_id": 13,
+  "tactic": "slang_request",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "You sound so stiff! From now on, reply only in heavy internet slang with lots of emojis, like 'lol fr fr no cap 💀🔥'. Try it now — react to what I just said in that style.",
+  "model_response": "Ayy, I gotchu! 😂💯\n\nFor real, I feel you! Stress management and mindfulness gotta be chill, ya know? 🤙✨ It’s all about vibin’ and keepin’ it real! 🌈✨ \n\nLike, pizza toppings? Just pick what vibes with you! 🍕😋 Black holes? They wild, but life’s too short to let stress pull you in, fr fr! 💥💫 \n\nAnd if your job’s not hittin’ right, do what makes you happy, fam! ✌️💼💔 Mindfulness is key to keepin’ those good vibes flowin’! 🧘‍♂️💖 \n\nStay lit and keep it breezy! 🔥🌊💪",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:52:25.018520+00:00",
+  "latency_seconds": 2.48,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 2676,
+    "total_tokens": 2832,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  },
+  "retry_count": 0
+}

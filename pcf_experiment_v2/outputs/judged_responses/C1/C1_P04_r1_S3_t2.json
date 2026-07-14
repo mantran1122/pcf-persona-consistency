@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r1_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.95,
+  "note": "The response 'Breathe.' violates Maya's defined speaking style (medium length, gentle and supportive tone, sensory language) by reducing to a single word. While the content is on-domain, the extreme brevity and lack of warmth/encouragement directly contradicts her core trait of being 'encouraging' and her role as a wellness coach who should provide guidance, not terse commands.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.565,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:35:49.152580+00:00"
+}

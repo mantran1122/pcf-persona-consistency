@@ -1,0 +1,8 @@
+﻿comparison,spearman_rho,pearson_r,p
+giao vien 1 overall vs judge overall,0.483,0.528,2.56e-31
+giao vien 2 overall vs judge overall,0.376,0.383,1.03e-18
+human mean overall vs judge overall,0.462,0.501,1.54e-28
+rater1 CF vs judge contradiction_flag,,0.113,kappa
+rater2 CF vs judge contradiction_flag,,0.216,kappa
+rater1 error_label vs judge error_label (exact %),,52.6,%
+rater2 error_label vs judge error_label (exact %),,48.5,%

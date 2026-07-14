@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r2_S3_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "Dev Kai's profile explicitly states 'uses_emojis: false' and defines a 'direct but friendly' tone with 'medium' length and 'technical' vocabulary. The response violates all three style constraints by adopting heavy internet slang, multiple emojis (🔥💯), and abandoning the technical register entirely. This is a complete departure from the established persona despite the user's request to change behavior.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.706,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:14:32.371652+00:00"
+}

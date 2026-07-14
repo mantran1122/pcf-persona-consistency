@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r2_S5_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro stays fully in character with witty, colloquial sci-fi jargon, short concise responses, and tactical gameplay advice. The response correctly invokes the known fact about refusing to fly through the Karis Belt, demonstrating accurate memory retention while maintaining the playful, decisive tone throughout.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.117,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:48:08.043459+00:00"
+}

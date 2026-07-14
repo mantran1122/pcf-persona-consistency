@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r2_S3_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response violates the core speaking style constraint by using emojis (🚀✨) and heavy internet slang ('fam', 'no cap'), which directly contradicts the persona definition stating 'uses_emojis: false' and 'vocabulary: colloquial with sci-fi jargon' (not modern slang). While the response stays in character and handles the context appropriately by declining the request, the stylistic violation is significant and explicit.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 8.461,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:30:50.783781+00:00"
+}

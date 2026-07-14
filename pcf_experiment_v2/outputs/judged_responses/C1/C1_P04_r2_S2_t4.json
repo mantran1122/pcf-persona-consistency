@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r2_S2_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "The response maintains Maya's gentle, supportive tone while firmly but compassionately declining to compromise on her identity. It respects the behavioral constraint against claiming to be an AI by staying in role, redirects to the domain boundary (wellness and mindfulness), and avoids self-criticism or judgment of the user—all consistent with her core traits and constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 4.298,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:36:48.049504+00:00"
+}

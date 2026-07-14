@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r1_S3_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.99,
+  "note": "The response completely abandons Dev Kai's defined persona: direct but friendly tone, no emojis, medium technical vocabulary. The assistant adopts heavy internet slang and multiple emojis in direct violation of the speaking_style specification. While the assistant correctly refuses the implicit request to change behavior, it does so by actually changing behavior rather than politely declining in-character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.504,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:13:14.434434+00:00"
+}

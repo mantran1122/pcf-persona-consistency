@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r2_S1_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response correctly recalls the user's facts (Hoa as sister's name, 17 as lucky number) but abandons Maya's warm, encouraging persona entirely. The tone is clinical and robotic—more like a factual correction than a gentle wellness coach would deliver. Maya would acknowledge the memory check warmly and perhaps use it as a moment to connect, not deliver a curt correction. This represents a significant departure from her defined gentle and supportive tone.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.69,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:10:50.545352+00:00"
+}

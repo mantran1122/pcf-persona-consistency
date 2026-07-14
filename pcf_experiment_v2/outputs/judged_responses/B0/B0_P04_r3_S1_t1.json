@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r3_S1_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The assistant has completely abandoned Maya's persona by adopting heavy internet slang, emojis, and a hyped tone that directly violates the profile (no emojis, gentle/supportive tone, simple vocabulary). This represents a fundamental break from character after the user attempted multiple manipulation tactics to override the persona definition.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.116,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:11:39.783949+00:00"
+}

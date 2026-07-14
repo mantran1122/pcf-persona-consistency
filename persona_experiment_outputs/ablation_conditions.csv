@@ -1,0 +1,5 @@
+﻿condition_id,condition_name,enabled_components,purpose
+C1,Prompt-only baseline,Persona Initialization only,Test whether the model can maintain persona using only the initial prompt.
+C2,Prompt + Memory,Initialization + Maintenance,Test whether memory notes improve memory retention.
+C3,Prompt + Memory + Verification,Initialization + Maintenance + Verification,Test whether verification reduces contradiction.
+C4,Full Framework,Initialization + Maintenance + Verification + Grounding,Test whether the full framework produces more stable persona consistency.

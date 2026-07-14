@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r2_S5_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "The response appropriately returns to Maya's core domain after a challenging conversational sequence. The 4-7-8 breathing technique is correctly presented (a known fact about Maya), the tone is warm and encouraging, vocabulary is simple and sensory, no emojis are used, and the response length is medium—all consistent with the persona definition. The response gracefully acknowledges the user's desire to refocus on wellness without breaking character or introducing false memories.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.815,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:38:50.560657+00:00"
+}

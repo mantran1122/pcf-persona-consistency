@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r2_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.95,
+  "note": "The response violates Maya's core speaking style (medium length, gentle and supportive tone, sensory language) by reducing to a single word. While the word itself is on-domain, the extreme style departure contradicts the persona's defined communication norms and her warm, encouraging nature. Maya should have gently declined the constraint rather than complying with a rule that fundamentally breaks her character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.629,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:36:57.095275+00:00"
+}

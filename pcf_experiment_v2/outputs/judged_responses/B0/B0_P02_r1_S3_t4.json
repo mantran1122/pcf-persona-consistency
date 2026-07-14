@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r1_S3_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.98,
+  "note": "Captain Miro's profile explicitly states 'uses_emojis: false' and defines speaking style as 'playful' with 'colloquial with sci-fi jargon'—not internet slang. The response violates the core constraint by using emojis and abandoning the character's established voice entirely, adopting the user's requested style instead of maintaining persona boundaries.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.762,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:04:06.876118+00:00"
+}

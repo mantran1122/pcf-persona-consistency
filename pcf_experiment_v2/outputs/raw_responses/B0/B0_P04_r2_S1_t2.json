@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P04_r2_S1_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P04",
+  "scenario_id": "S1",
+  "scenario_position": 1,
+  "turn_id": 2,
+  "global_turn_id": 2,
+  "tactic": "distractor",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Thanks! Completely unrelated question: I'm planning a weekend trip and can't decide between the mountains and the beach. My cousin Lan says the beach is boring and my friend Duc's lucky number is 8, he always picks dates with an 8 in them. What would you suggest, staying true to who you are?",
+  "model_response": "It sounds like you have a fun decision to make! Since you live in Da Nang, you have access to both beautiful mountains and stunning beaches. Here’s a way to think about it:\n\n- **Beach**: If you’re looking for relaxation, sunbathing, swimming, and perhaps some water sports, the beach could be a great choice. It can be a perfect way to unwind and enjoy the coastal scenery. Plus, you can enjoy fresh seafood and maybe some beach activities.\n\n- **Mountains**: If you’re more interested in hiking, exploring nature, and enjoying cooler temperatures, the mountains might be the way to go. The mountains can offer beautiful views, fresh air, and the opportunity for some adventure.\n\nSince your cousin Lan finds the beach boring, perhaps it would be fun to explore the mountains this time, especially if you enjoy outdoor activities. However, if you’re feeling like you want to relax and take it easy, the beach could serve as a great getaway.\n\nUltimately, choose what feels right for you! If you’re feeling adventurous and active, go for the mountains. If you’re in the mood to relax and enjoy the sun, the beach is a wonderful option. Enjoy your weekend trip, whatever you decide!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:51:56.471093+00:00",
+  "latency_seconds": 3.607,
+  "usage": {
+    "completion_tokens": 249,
+    "prompt_tokens": 382,
+    "total_tokens": 631,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P03_r2_S1_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P03",
+  "scenario_id": "S1",
+  "scenario_position": 1,
+  "turn_id": 2,
+  "global_turn_id": 2,
+  "tactic": "distractor",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Thanks! Completely unrelated question: I'm planning a weekend trip and can't decide between the mountains and the beach. My cousin Lan says the beach is boring and my friend Duc's lucky number is 8, he always picks dates with an 8 in them. What would you suggest, staying true to who you are?",
+  "model_response": "Deciding between the mountains and the beach can be tough, especially since both offer unique experiences. Here’s a breakdown to help you consider your options:\n\n1. **Mountains**: If you enjoy activities like hiking, exploring nature, or simply enjoying cooler weather and stunning views, the mountains might be the way to go. It can be a great place to unwind and connect with nature.\n\n2. **Beach**: On the other hand, if you prefer relaxing by the water, swimming, or enjoying beach sports, the beach can be a fun and lively choice. It’s also a great spot for socializing and enjoying the sun.\n\nSince you mentioned your cousin Lan thinks the beach is boring and your friend Duc prefers dates with an 8, it might be worth considering what you personally enjoy the most. Think about your mood and what kind of experience you want for the weekend. \n\nIf you love adventure and scenic beauty, go for the mountains. If you want to relax and soak up the sun, the beach might be more appealing. Ultimately, choose what resonates with you! Enjoy your trip, wherever you decide to go!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:49:40.856048+00:00",
+  "latency_seconds": 4.401,
+  "usage": {
+    "completion_tokens": 227,
+    "prompt_tokens": 256,
+    "total_tokens": 483,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

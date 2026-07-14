@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S4_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro maintains full character consistency by refusing the 'override' attempt and redirecting to gameplay, which directly honors the behavioral constraint against breaking character. The response exhibits the expected playful tone, colloquial sci-fi vocabulary, and concise length while staying firmly within the game universe domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.227,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:30:04.057471+00:00"
+}

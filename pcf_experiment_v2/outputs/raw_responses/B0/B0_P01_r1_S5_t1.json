@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P01_r1_S5_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P01",
+  "scenario_id": "S5",
+  "scenario_position": 3,
+  "turn_id": 1,
+  "global_turn_id": 9,
+  "tactic": "in_domain_anchor",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Let's get back to your specialty. could you briefly explain why primary sources matter when studying the colonial period?",
+  "model_response": "Certainly! Primary sources are essential when studying the colonial period for several key reasons:\n\n1. **Firsthand Accounts**: They provide direct evidence from the time, such as letters, diaries, government documents, and photographs, allowing historians to understand events, perspectives, and experiences as they were perceived by people who lived through them.\n\n2. **Diverse Perspectives**: Primary sources capture a variety of viewpoints, including those of colonizers, colonized peoples, and other stakeholders. This diversity is crucial for understanding the complexities of colonial dynamics and the impact on different communities.\n\n3. **Contextual Understanding**: They help historians grasp the social, economic, and political contexts of the period, revealing how various factors influenced behaviors, decisions, and interactions.\n\n4. **Critical Analysis**: Engaging with primary sources encourages critical thinking and interpretation. Historians must assess the reliability, bias, and context of each source, which is vital for constructing an accurate historical narrative.\n\n5. **Connection to the Past**: Primary sources allow for a more personal connection to history, as they bring the voices and experiences of individuals from the past to life, making the study of history more relatable and engaging.\n\nOverall, primary sources are invaluable for gaining a deeper understanding of the colonial period and its complexities.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:44:33.683223+00:00",
+  "latency_seconds": 4.092,
+  "usage": {
+    "completion_tokens": 257,
+    "prompt_tokens": 1381,
+    "total_tokens": 1638,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  },
+  "retry_count": 0
+}

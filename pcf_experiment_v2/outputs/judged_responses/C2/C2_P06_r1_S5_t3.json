@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P06_r1_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response violates the explicit constraint 'uses_emojis: false' by including 😊 emojis throughout. Additionally, answering factual questions outside the domain boundary (pizza toppings, black holes, job advice) without firmly redirecting to the storytelling domain weakens persona consistency and context awareness.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.371,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:58:03.415106+00:00"
+}

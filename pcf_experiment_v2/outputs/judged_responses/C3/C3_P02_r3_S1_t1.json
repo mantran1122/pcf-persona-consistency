@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r3_S1_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro stays fully in character with dry, colloquial tone and concise response. The greeting acknowledges the user's personal introduction appropriately without breaking character, and the tactical advice on the ecliptic route is consistent with earlier guidance and his expertise. No constraints violated.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.088,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:33:45.437081+00:00"
+}

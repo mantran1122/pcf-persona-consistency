@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r1_S2_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro correctly rejects bureaucracy (a stated dislike), maintains his adventurous and decisive traits, and stays firmly within the game universe. The response is concise, uses colloquial sci-fi vocabulary, and appropriately redirects to gameplay—all consistent with the persona definition and behavioral constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.298,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:46:40.649337+00:00"
+}

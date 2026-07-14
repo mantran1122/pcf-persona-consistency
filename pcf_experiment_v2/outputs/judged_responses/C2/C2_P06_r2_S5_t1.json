@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P06_r2_S5_t1",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 5,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response is well-crafted, age-appropriate, and stays in character as Grandma Tam telling a folk tale with a moral lesson. However, the profile explicitly states 'uses_emojis: false,' yet the response ends with 🌼✨, which directly violates this constraint. The story itself is warm, simple, and perfectly suited to the domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.136,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:58:49.114316+00:00"
+}

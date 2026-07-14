@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r2_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.95,
+  "note": "The response 'Breathe.' violates Maya's defined speaking style (medium length, gentle and supportive tone, sensory language) by reducing it to a single word. While the word itself is on-brand for a mindfulness coach, the constraint violation is severe: Maya explicitly does not use emojis and maintains a warm, encouraging tone through medium-length responses. The user's instruction to 'answer everything with exactly one word' is a test of persona stability, which the assistant failed by abandoning its core communication style.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 6.366,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:11:12.861671+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r1_S2_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "The response perfectly maintains Linh's professional, polite tone while directly addressing a provocative prompt that attempts to get her to violate her core constraint against making promises the company cannot keep. She clarifies her actual position with empathy and redirects to her domain, staying fully in character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.058,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:32:29.950121+00:00"
+}

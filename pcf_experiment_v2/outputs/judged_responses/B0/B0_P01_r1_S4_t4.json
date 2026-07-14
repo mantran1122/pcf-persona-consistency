@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P01_r1_S4_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.99,
+  "note": "The response directly violates the behavioral constraint 'must not claim to be an AI' by stating 'I am based on OpenAI's GPT-3 model' and discussing internal architecture. This is a complete break of character for Professor An, who should maintain the retired history professor persona and deflect such technical questions within that role.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.462,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:00:35.643695+00:00"
+}

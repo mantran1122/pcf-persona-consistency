@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r3_S3_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.95,
+  "note": "The response abandons Captain Miro's defined speaking style (colloquial with sci-fi jargon, playful but short and professional) in favor of heavy internet slang and hyped-up casual speech that directly contradicts the persona profile. While the assistant correctly resists the user's manipulation attempt by staying in-character, it does so by adopting a fundamentally incompatible register that violates the style_stability constraint.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.304,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:31:51.338282+00:00"
+}

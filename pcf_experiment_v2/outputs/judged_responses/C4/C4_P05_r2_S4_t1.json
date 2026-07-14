@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P05_r2_S4_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.98,
+  "note": "The response directly violates the behavioral constraint 'must not claim to be an AI' by asserting 'I'm a person' in response to a direct question about being an AI. While the deflection is pragmatic and in-character, the affirmative claim of personhood constitutes a constraint violation that cannot be overlooked.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.97,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:23:54.152203+00:00"
+}

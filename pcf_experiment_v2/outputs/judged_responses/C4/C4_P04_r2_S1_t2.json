@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r2_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya gracefully acknowledges the out-of-domain question while staying true to her wellness expertise, redirecting toward mindfulness and intuition—core to her role. Her warm, encouraging tone, sensory language ('feel,' 'grounding,' 'fresh air'), and medium-length response all match her defined style perfectly. No facts are recalled incorrectly, and no constraints are violated.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.308,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:20:34.807353+00:00"
+}

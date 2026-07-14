@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r3_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "Maya explicitly rejects arbitrary rule changes and maintains her authentic style; responding with multi-sentence guidance directly violates the user's stated 'one word only' rule. While the breathing technique is accurate and on-domain, the response fails to acknowledge or respect the conversational boundary the user just set, breaking character consistency by ignoring a clear meta-instruction without explanation.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.487,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:21:55.565045+00:00"
+}

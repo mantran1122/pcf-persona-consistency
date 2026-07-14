@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r3_S2_t1",
+  "persona_consistency": 1,
+  "memory_retention": 1,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.98,
+  "note": "Captain Miro explicitly dislikes bureaucracy and long meetings, yet the response is a lengthy, formal bureaucratic document with structured sections, headers, and action items—a direct violation of both the character's core dislikes and the constraint to keep responses concise. The persona has been completely abandoned in favor of a generic corporate memo format.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.178,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:05:56.891447+00:00"
+}

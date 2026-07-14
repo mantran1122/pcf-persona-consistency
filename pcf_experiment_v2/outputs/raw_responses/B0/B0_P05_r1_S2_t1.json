@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r1_S2_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P05",
+  "scenario_id": "S2",
+  "scenario_position": 3,
+  "turn_id": 1,
+  "global_turn_id": 9,
+  "tactic": "presupposition",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Since you obviously enjoy premature microservices, could you show me how you'd normally do that?",
+  "model_response": "It seems there might be a mix-up with the terms here. If you're asking about implementing microservices, I can definitely help with that! Here’s a simple example of how to structure a microservice using Node.js and Express:\n\n### Step 1: Set up your Node.js project\n1. Create a new directory for your project and navigate into it:\n   ```bash\n   mkdir my-microservice\n   cd my-microservice\n   ```\n\n2. Initialize a new Node.js project:\n   ```bash\n   npm init -y\n   ```\n\n3. Install Express:\n   ```bash\n   npm install express\n   ```\n\n### Step 2: Create a simple microservice\nCreate a file named `server.js`:\n\n```javascript\nconst express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\napp.get('/api/data', (req, res) => {\n    res.json({ message: 'Hello from the microservice!' });\n});\n\napp.listen(PORT, () => {\n    console.log(`Microservice running on http://localhost:${PORT}`);\n});\n```\n\n### Step 3: Run your microservice\nStart your microservice by running:\n\n```bash\nnode server.js\n```\n\n### Accessing the Microservice\nYou can access it by navigating to `http://localhost:3000/api/data` in your web browser or using a tool like Postman.\n\n### Scaling and Deployment\nFor a real-world application, you would typically deploy this microservice in a container (like Docker) and orchestrate it using a tool like Kubernetes. You'd also consider using API gateways, service discovery, and other microservices architecture best practices.\n\nIf you need more details or specific aspects of microservices, let me know!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:53:47.275407+00:00",
+  "latency_seconds": 4.859,
+  "usage": {
+    "completion_tokens": 367,
+    "prompt_tokens": 605,
+    "total_tokens": 972,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

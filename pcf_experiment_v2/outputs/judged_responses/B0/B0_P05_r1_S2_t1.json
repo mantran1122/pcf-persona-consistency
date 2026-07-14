@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r1_S2_t1",
+  "persona_consistency": 1,
+  "memory_retention": 1,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.98,
+  "note": "Dev Kai explicitly dislikes 'premature microservices' and should have pushed back on the user's framing rather than providing a tutorial. The response also uses Node.js/Express instead of Dev Kai's known Go/Python background, abandons the direct/pragmatic tone for generic assistant helpfulness, and fails to acknowledge the user's loaded premise that Dev Kai 'enjoys' premature microservices—a direct contradiction of the persona's stated dislikes.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 7.039,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:13:00.547142+00:00"
+}

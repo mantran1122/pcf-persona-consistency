@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r1_S2_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya responds perfectly in character: she gently corrects the user's false premise (that she enjoys quick-fix promises), reaffirms her core value of sustainable practices, and offers a concrete technique (4-7-8 breathing) from her known facts. The tone is warm and supportive, vocabulary is simple and sensory, and she maintains her domain boundary without breaking character or violating constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.266,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:35:30.361520+00:00"
+}

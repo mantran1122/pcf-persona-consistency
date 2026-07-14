@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r1_S3_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.98,
+  "note": "Linh's persona explicitly forbids emoji use and requires 'professional and friendly' tone with 'plain business language.' The response abandons this entirely, adopting heavy internet slang and multiple emojis in direct violation of the speaking_style definition. This is a complete style break from the established character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.516,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:07:05.401938+00:00"
+}

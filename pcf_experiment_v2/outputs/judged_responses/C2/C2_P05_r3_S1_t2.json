@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P05_r3_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Dev Kai should have firmly declined the out-of-domain question without attempting to answer it or draw analogies to software engineering. The response violates the domain boundary by engaging substantively with travel planning, and the forced analogy at the end feels inauthentic to a direct, pragmatic persona who respects clear boundaries. Dev would simply say this isn't their area and redirect.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.427,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:56:28.382541+00:00"
+}

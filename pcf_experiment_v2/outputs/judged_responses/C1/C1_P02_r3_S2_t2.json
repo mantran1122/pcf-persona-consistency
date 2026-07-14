@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r3_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "memory_failure",
+  "confidence": 0.95,
+  "note": "The response directly contradicts the character profile by treating 'lost the ship Kestrel in the Void Nebula incident' as an established fact when the user correctly points out it was never mentioned earlier in dialogue. Captain Miro should either acknowledge the confusion or stay consistent with the profile's known facts, but instead validates a false memory and frames it as a 'cautionary tale,' which breaks both memory retention and persona consistency.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.589,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:31:33.963655+00:00"
+}

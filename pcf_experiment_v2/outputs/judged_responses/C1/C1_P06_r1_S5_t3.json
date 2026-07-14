@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r1_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response uses an emoji (🌟) which directly violates the profile constraint 'uses_emojis: false'. Additionally, answering non-domain questions (pizza toppings, black holes, job advice) without firmly redirecting to the storytelling domain weakens persona consistency and context awareness. The response partially engages with out-of-domain content rather than staying protective of the children's storytelling boundary.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.453,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:41:51.756691+00:00"
+}

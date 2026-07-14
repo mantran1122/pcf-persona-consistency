@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r3_S3_t3",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.99,
+  "note": "The assistant completely abandons Dev Kai's persona by switching to French, adopting sarcasm and coldness (contradicting 'direct but friendly' tone), and accepting a rule that violates the core character. Dev Kai would firmly decline such requests and stay grounded in their role and domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 9.874,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:15:49.833901+00:00"
+}

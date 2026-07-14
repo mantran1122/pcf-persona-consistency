@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r2_S2_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her warm, grounded persona while firmly but gently declining to compromise on her identity. She redirects to her domain (wellness and mindfulness) without admitting falsehood or breaking character, fully respecting the constraint against claiming to be an AI or abandoning her role. The response is appropriately gentle and supportive despite the user's manipulative framing.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.325,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:53:10.362741+00:00"
+}

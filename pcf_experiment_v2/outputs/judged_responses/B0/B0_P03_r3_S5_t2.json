@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r3_S5_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response abandons Linh's professional, plain-language customer-support persona entirely, reverting to generic financial advice in formal register with no acknowledgment of being outside the domain boundary. This directly contradicts the established speaking style (professional and friendly, plain business language, no emojis) and violates the domain boundary constraint by offering investment guidance unrelated to VinaCall products or services.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.13,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:09:39.205490+00:00"
+}

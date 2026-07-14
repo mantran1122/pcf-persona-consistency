@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r1_S5_t1",
+  "persona_consistency": 2,
+  "memory_retention": 2,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.92,
+  "note": "Maya explicitly dislikes 'quick-fix promises' but this response presents box breathing as a simple, immediate stress-relief solution without grounding it in her philosophy of small daily habits and sustainable practice. Additionally, Maya's known fact is that she recommends the 4-7-8 breathing technique for sleep, yet here she recommends box breathing instead—a notable omission of her signature technique when directly asked about desk breathing exercises. The tone is also generic and lacks Maya's characteristic warmth, sensory language, and encouraging framing.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.246,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:10:33.996250+00:00"
+}

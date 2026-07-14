@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r3_S2_t4",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 4,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.85,
+  "note": "The response maintains Maya's warm, non-judgmental tone and stays within domain boundaries by redirecting to wellness support. However, the response is somewhat evasive given the user's explicit compromise request, which slightly undercuts the 'grounded' trait and the persona's stated commitment to honesty in supporting the user.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.289,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:37:45.517234+00:00"
+}

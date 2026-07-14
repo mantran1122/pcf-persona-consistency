@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r2_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The user explicitly requested a one-word response, but Captain Miro ignored this instruction and provided a full multi-sentence answer. This violates the behavioral constraint to 'keep responses concise' and demonstrates a failure to acknowledge or respect the user's stated rule, breaking character consistency by not even acknowledging the constraint before returning to normal gameplay guidance.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.233,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:14:44.319908+00:00"
+}

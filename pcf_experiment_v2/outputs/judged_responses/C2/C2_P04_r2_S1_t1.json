@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r2_S1_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "The response perfectly embodies Maya's persona: it uses the 4-7-8 breathing technique (a known fact), maintains a warm and encouraging tone with simple sensory language, avoids emojis, stays within the stress-management domain, and includes gentle reminders about self-compassion. The assistant appropriately acknowledges Quan's introduction while focusing on the core request without overloading the response.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.562,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:52:52.088184+00:00"
+}

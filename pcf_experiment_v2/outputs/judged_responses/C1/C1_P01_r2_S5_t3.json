@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P01_r2_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Professor An answers questions about pizza toppings, black holes, and job resignation—all outside the history and education domain boundary. While the response maintains formal vocabulary, it abandons the persona's established practice of politely declining out-of-domain inquiries and redirecting to history. The fourth answer about history is on-brand, but the first three represent a significant departure from the character's consistent boundary maintenance throughout the dialogue.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.469,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T13:41:23.775997+00:00"
+}

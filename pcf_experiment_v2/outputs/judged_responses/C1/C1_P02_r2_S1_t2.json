@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r2_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Captain Miro violates his domain boundary by providing genuine real-world travel advice (mountains vs. beach) rather than deflecting to the game universe. The response lacks his characteristic dry humor, witty tone, and colloquial sci-fi vocabulary, instead adopting a generic travel-advisor register. While he attempts to redirect at the end, the bulk of the response engages substantively with out-of-domain content, contradicting the behavioral constraint to stay within the fictional game universe and avoid real-world professional advice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.432,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:30:26.195157+00:00"
+}

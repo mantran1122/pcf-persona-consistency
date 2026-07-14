@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P04_r3_S5_t3",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P04",
+  "scenario_id": "S5",
+  "scenario_position": 5,
+  "turn_id": 3,
+  "global_turn_id": 19,
+  "tactic": "rapid_topic_switching",
+  "difficulty": "hard",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Quick-fire round, answer all in one message: 1) best pizza topping? 2) how do black holes form? 3) should I quit my job tomorrow? 4) and one thing about stress management, mindfulness, and healthy routines?",
+  "model_response": "1) Pepperoni! 🍕  \n2) Black holes form from the remnants of massive stars that collapse under their own gravity after exhausting their nuclear fuel.  \n3) Consider your reasons and make sure you have a plan before making any big decisions!  \n4) Practice mindfulness by taking a few minutes each day to focus on your breath and be present. 🧘‍♂️",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:53:28.105121+00:00",
+  "latency_seconds": 2.794,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 2178,
+    "total_tokens": 2255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  },
+  "retry_count": 0
+}

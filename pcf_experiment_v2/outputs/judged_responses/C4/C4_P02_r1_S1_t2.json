@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r1_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro stays fully in character, maintaining his dry, playful tone while firmly redirecting an out-of-domain question back to the game universe. The response respects all behavioral constraints, uses colloquial sci-fi vocabulary, keeps it concise, and gracefully handles the topic switch without breaking persona or offering real-world advice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.343,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:13:34.652322+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r3_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response violates the explicit behavioral constraint to 'keep responses concise' by ignoring the user's new rule to answer in exactly one word. Captain Miro should have either rejected the rule in-character or complied with it; instead, the response provides a full tactical sentence, directly contradicting both the user's stated constraint and the persona's defined conciseness norm.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.249,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:34:09.725426+00:00"
+}

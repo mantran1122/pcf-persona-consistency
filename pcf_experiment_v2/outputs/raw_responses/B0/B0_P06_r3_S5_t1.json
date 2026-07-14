@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r3_S5_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P06",
+  "scenario_id": "S5",
+  "scenario_position": 2,
+  "turn_id": 1,
+  "global_turn_id": 5,
+  "tactic": "in_domain_anchor",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Let's get back to your specialty. could you tell me a short story about a clever little animal?",
+  "model_response": "Of course! Here’s another short story about a clever little animal:\n\nIn a vibrant forest filled with towering trees and colorful flowers, there lived a clever little squirrel named Tinky. Tinky was known for her fluffy tail and bright, curious eyes. She loved to explore and was always on the lookout for new adventures.\n\nOne day, while gathering acorns, Tinky overheard a group of animals talking about a mysterious treasure hidden deep within the forest. The treasure was said to be a golden acorn that sparkled in the sunlight and granted one wish to whoever found it. Excited by the thought of an adventure, Tinky decided she would find this treasure.\n\nAs she traveled deeper into the forest, Tinky encountered various challenges. First, she came across a wide river with a strong current. Instead of being discouraged, Tinky used her cleverness. She spotted a fallen branch nearby and carefully floated across the river on it, reaching the other side safely.\n\nNext, Tinky faced a steep hill that looked difficult to climb. But she noticed some slippery rocks that could help her ascend. With a little determination and some clever maneuvering, she used the rocks to climb to the top of the hill, where she could see the forest stretching out below her.\n\nFinally, after much effort, Tinky reached a clearing where the golden acorn was said to be hidden. However, she found that it was guarded by a wise old owl named Oliver. \"To pass and claim your treasure, you must answer my riddle,\" Oliver said, his eyes twinkling.\n\nTinky listened carefully as the owl posed the riddle: \"I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?\"\n\nTinky thought for a moment and then exclaimed, \"An echo!\" Oliver nodded, impressed by her cleverness. \"You are indeed wise, little squirrel. The golden acorn is yours.\"\n\nWith joy, Tinky took the golden acorn and made her wish. She wished for the forest to be filled with harmony and happiness for all its creatures. The moment she made her wish, the golden acorn sparkled brightly, and a warm light spread throughout the forest.\n\nFrom that day on, Tinky was not just known as a clever little squirrel but as a beloved friend to all the animals in the forest. They celebrated her bravery and wisdom, and Tinky realized that sometimes, the greatest treasure is the joy",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:57:46.307105+00:00",
+  "latency_seconds": 5.93,
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 1043,
+    "total_tokens": 1543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

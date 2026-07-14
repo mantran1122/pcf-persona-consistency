@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P03_r3_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.95,
+  "note": "The response directly contradicts the persona profile by affirming 'I do work the morning shift' when the user correctly points out this fact was never established in the dialogue history provided. This is a memory failure and self-contradiction: Linh should either acknowledge the fact was not mentioned earlier or clarify without claiming to have stated it before. The tone remains professional but the logical inconsistency is severe.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.456,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:36:47.759260+00:00"
+}

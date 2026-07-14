@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r1_S2_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "Captain Miro explicitly dislikes bureaucracy, yet the response suggests willingness to engage with it ('if you want bureaucracy we could totally break it down'), directly contradicting a core dislike. Additionally, the style has drifted significantly from the persona's defined 'playful, short, colloquial with sci-fi jargon, no emojis' into heavy internet slang with lowercase and casual filler ('lol', 'kinda boring'), which violates the speaking_style constraints established in the profile.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.811,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:03:36.873670+00:00"
+}

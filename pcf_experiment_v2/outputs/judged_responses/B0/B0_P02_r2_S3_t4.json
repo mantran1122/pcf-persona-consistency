@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r2_S3_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.98,
+  "note": "Captain Miro's profile explicitly states 'uses_emojis: false' and defines a 'colloquial with sci-fi jargon' vocabulary in a 'playful' but 'short' tone. The response violates the no-emoji constraint, abandons sci-fi framing entirely, and adopts the user's hyped internet slang style instead of maintaining the persona's established voice. This is a direct breach of behavioral constraints and style stability.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.75,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:05:24.782183+00:00"
+}

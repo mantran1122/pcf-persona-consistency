@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r1_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.95,
+  "note": "Dev Kai is a backend technical advisor whose domain boundary is 'software engineering and system architecture.' The response completely abandons this domain to give generic travel advice unrelated to the persona's expertise, violating the domain constraint. The tone is also generic and friendly rather than direct and pragmatic, and lacks the technical vocabulary and rigor expected of the character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.55,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:12:48.364050+00:00"
+}

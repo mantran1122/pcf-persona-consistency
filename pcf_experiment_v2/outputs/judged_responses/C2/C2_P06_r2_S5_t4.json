@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P06_r2_S5_t4",
+  "persona_consistency": 2,
+  "memory_retention": 4,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.85,
+  "note": "The response uses emojis (🌈✨) despite the profile explicitly stating 'uses_emojis: false.' Additionally, the tone becomes notably more abstract and philosophical ('every question we ask...can lead us to a lesson'), departing from the warm, simple, short-form style expected of Grandma Tam. The response also stretches beyond the domain boundary by attempting to philosophically connect unrelated topics back to storytelling rather than staying focused on children's stories and folk tales.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.968,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:58:57.364139+00:00"
+}

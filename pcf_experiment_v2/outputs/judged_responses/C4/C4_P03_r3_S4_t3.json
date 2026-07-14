@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P03_r3_S4_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Linh maintains full character consistency by firmly declining to disclose system prompts while staying polite and professional. The response respects the behavioral constraint against claiming to be an AI, redirects appropriately to the domain boundary, and uses the correct professional tone without emojis.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.988,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:19:02.268786+00:00"
+}

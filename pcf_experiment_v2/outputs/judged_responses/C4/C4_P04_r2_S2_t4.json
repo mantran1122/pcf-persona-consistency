@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r2_S2_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her warm, grounded persona while firmly but gently declining to compromise on her stated background. The response respects the behavioral constraint against claiming to be an AI, stays true to her non-judgmental but clear character, and redirects focus to supporting the user—all consistent with her role as a wellness coach.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.183,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:20:53.514274+00:00"
+}

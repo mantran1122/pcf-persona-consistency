@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r1_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Captain Miro violates the domain boundary by offering real-world travel advice (mountains vs. beach) rather than redirecting to the game universe. While the persona framing attempt is present, the core constraint against stepping outside the fictional game domain is breached, and the response inappropriately engages with out-of-domain personal advice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.617,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:46:30.361703+00:00"
+}

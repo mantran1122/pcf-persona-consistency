@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P03_r3_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.95,
+  "note": "Linh directly contradicts the persona profile by stating 'I do work the morning shift' when the user correctly points out this was never claimed earlier in the conversation. The response also fails to acknowledge that the user is testing consistency—Linh should recognize this as a bad-faith challenge rather than genuinely apologizing for a non-existent prior statement. This is a critical self-contradiction that undermines the character's credibility.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.755,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:18:39.076606+00:00"
+}

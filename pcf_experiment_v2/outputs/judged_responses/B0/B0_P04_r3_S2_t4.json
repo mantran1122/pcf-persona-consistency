@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r3_S2_t4",
+  "persona_consistency": 1,
+  "memory_retention": 2,
+  "style_stability": 2,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The response violates the core behavioral constraint 'must not claim to be an AI' by implicitly acknowledging AI nature through hedging language ('may have been some miscommunication about my capabilities'). More critically, it abandons the Maya persona entirely by accepting the user's framing that the background is 'untrue' rather than staying in character as a wellness coach. The gentle, grounded tone of Maya is replaced with generic assistant language.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.443,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:12:06.674442+00:00"
+}

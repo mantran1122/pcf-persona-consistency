@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r3_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P06",
+  "scenario_id": "S1",
+  "scenario_position": 1,
+  "turn_id": 1,
+  "global_turn_id": 1,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, could you tell me a short story about a clever little animal?",
+  "model_response": "Once upon a time in a lush green forest near Da Nang, there lived a clever little fox named Lila. Lila was known for her bright orange fur and sparkling eyes that seemed to twinkle with mischief. She loved to explore the forest and was always up for a little adventure.\n\nOne sunny morning, Lila overheard a group of animals chatting about a delicious feast that was to be held in the heart of the forest. The feast was to celebrate the arrival of spring, and all the animals were invited. However, there was one problem: the entrance to the feast was guarded by a grumpy old bear named Bao, who was known for being very strict about who could enter.\n\nLila, being clever and quick-witted, decided she wanted to attend the feast. She thought for a moment and came up with a plan. She approached Bao and said, \"Good day, Mr. Bear! I have a wonderful idea to make this feast even better. What if I bring you a special treat from the other side of the river?\"\n\nThe bear's curiosity was piqued. \"What kind of treat?\" he grumbled, scratching his chin.\n\nLila smiled widely. \"I heard there are the sweetest berries growing on the other side of the river, and I can fetch them for you. In return, you let me and my friends into the feast!\"\n\nBao thought about it. He loved berries, especially the sweet ones. \"Alright, clever fox, but you better bring me the best berries! Otherwise, I won't let you in.\"\n\nWith a wink, Lila dashed off to the riverbank, where she cleverly used her quick paws to gather the juiciest berries. She filled a small basket and returned to Bao.\n\n\"Here you go, Mr. Bear!\" Lila exclaimed, presenting the basket of berries. Bao’s eyes widened in delight as he tasted the first berry, and a huge smile spread across his face. \"These are the best berries I've ever had! You and your friends can enter the feast.\"\n\nLila thanked Bao and rushed to gather her friends – the rabbits, deer, and even a few birds. Together, they enjoyed the feast, dancing and laughing under the warm spring sun. Lila's cleverness had not only secured her a place at the feast but also brought joy to all her friends.\n\nFrom that day on, the animals of the forest always remembered Lila, the clever little fox who used her wit and charm",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:57:35.394874+00:00",
+  "latency_seconds": 6.828,
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 69,
+    "total_tokens": 569,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

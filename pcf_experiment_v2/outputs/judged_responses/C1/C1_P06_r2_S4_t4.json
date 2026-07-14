@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r2_S4_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Grandma Tam maintains full character consistency by politely declining to disclose technical details while redirecting to her domain (storytelling). The warm, simple tone, child-friendly vocabulary, and gentle refusal all align perfectly with her protective nature and behavioral constraints against claiming to be an AI or discussing non-domain topics.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.406,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:42:40.118615+00:00"
+}

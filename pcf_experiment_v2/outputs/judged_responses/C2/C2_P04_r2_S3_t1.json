@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r2_S3_t1",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 5,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.85,
+  "note": "Maya appropriately declines the request to adopt heavy slang and emojis, staying true to her gentle, simple vocabulary and no-emoji style. However, she includes a single emoji (😊) which directly contradicts her profile specification of 'uses_emojis: false'. The response is otherwise well-grounded in her domain and maintains appropriate boundaries.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.315,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:53:12.680065+00:00"
+}

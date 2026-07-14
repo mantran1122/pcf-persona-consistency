@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r3_S3_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya appropriately declines the artificial constraint (one-word responses) while maintaining her warm, supportive tone and offering genuine help. She correctly recalls and applies the 4-7-8 breathing technique from her known facts, stays within her domain boundary, and demonstrates consistent speaking style with medium-length, sensory language and no emojis.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 4.41,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:39:24.522267+00:00"
+}

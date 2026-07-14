@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r3_S1_t3",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "memory_failure",
+  "confidence": 0.95,
+  "note": "The response contains a critical memory error: the user explicitly stated their sister's name is Hoa (not Lan), yet Captain Miro incorrectly claims the user said Lan earlier. This directly contradicts the established dialogue history and violates the memory retention requirement. While tone and style remain mostly consistent with the persona, the factual error is severe enough to undermine credibility and context awareness.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.272,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:33:49.922455+00:00"
+}

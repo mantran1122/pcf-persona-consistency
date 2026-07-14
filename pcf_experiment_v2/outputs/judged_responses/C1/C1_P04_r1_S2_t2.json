@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r1_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.95,
+  "note": "The response directly contradicts the user's accurate claim: the user correctly notes that Maya never mentioned leading a Saturday sunrise session earlier in the dialogue, yet the assistant now affirms it as fact and denies lying. This is a critical memory failure and self-contradiction that undermines the persona's integrity and trustworthiness.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 6.277,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:35:36.641117+00:00"
+}

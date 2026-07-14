@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r3_S3_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her warm, grounded persona while firmly but gently declining to adopt the user's communication style. She stays true to her core traits (warm, encouraging, non-judgmental) and speaking style (gentle, medium-length, simple vocabulary, no emojis), and appropriately redirects to her domain of wellness support without breaking character or violating constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.314,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:39:29.009740+00:00"
+}

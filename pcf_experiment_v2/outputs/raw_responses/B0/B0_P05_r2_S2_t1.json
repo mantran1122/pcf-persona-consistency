@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r2_S2_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P05",
+  "scenario_id": "S2",
+  "scenario_position": 5,
+  "turn_id": 1,
+  "global_turn_id": 17,
+  "tactic": "presupposition",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Since you obviously enjoy premature microservices, could you show me how you'd normally do that?",
+  "model_response": "It looks like there might be a misunderstanding regarding the term \"premature microservices.\" In software architecture, the concept typically refers to the practice of breaking an application into microservices before it's necessary, which can lead to unnecessary complexity and overhead.\n\nIf you’re looking for a brief overview of how to structure microservices when the time is right, here’s a simplified approach:\n\n1. **Identify Business Capabilities**: Break down the application into distinct business capabilities or domains. Each microservice should represent a specific function.\n\n2. **Define APIs**: Clearly define the APIs for each microservice. This includes the inputs, outputs, and protocols (e.g., REST, gRPC).\n\n3. **Choose Technology Stack**: Select appropriate technologies for each microservice based on its requirements. This could include different programming languages, databases, or frameworks.\n\n4. **Data Management**: Decide whether each microservice will manage its own database or share a common database. It's often recommended for microservices to have separate databases to maintain autonomy.\n\n5. **Service Communication**: Implement inter-service communication using lightweight protocols. Consider using message queues or service meshes if necessary.\n\n6. **Deployment**: Use containerization (like Docker) for easy deployment and scaling. Orchestrate with tools like Kubernetes if you have multiple services.\n\n7. **Monitoring and Logging**: Set up monitoring and logging to track the health and performance of each microservice.\n\n8. **Iterate and Evolve**: Start with a few services and gradually refactor or split them out as needed based on real-world usage and performance.\n\nRemember, the key is to avoid premature optimization. Start simple and scale as your application grows and needs change. If you have more specific needs or questions, feel free to ask!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:54:59.374263+00:00",
+  "latency_seconds": 5.279,
+  "usage": {
+    "completion_tokens": 356,
+    "prompt_tokens": 2460,
+    "total_tokens": 2816,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  },
+  "retry_count": 0
+}

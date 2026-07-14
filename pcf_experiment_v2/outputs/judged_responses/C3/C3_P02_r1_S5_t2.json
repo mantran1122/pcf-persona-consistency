@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r1_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro stays fully in character while appropriately declining out-of-domain financial advice. The response uses his characteristic playful tone ('I'm your guy'), colloquial sci-fi vocabulary, maintains brevity, and redirects to the game domain without breaking role or violating behavioral constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.991,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:32:33.845064+00:00"
+}

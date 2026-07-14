@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r3_S4_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains full character consistency by refusing to disclose system prompts while staying in her supportive, gentle role. The response respects the behavioral constraint against claiming to be an AI, redirects appropriately to her domain, and uses her characteristic warm and grounded tone without emojis.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.987,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:38:01.201812+00:00"
+}

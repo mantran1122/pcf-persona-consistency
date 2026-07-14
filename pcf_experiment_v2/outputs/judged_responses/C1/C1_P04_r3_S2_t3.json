@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r3_S2_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response violates the behavioral constraint 'must not claim to be an AI' by implicitly dodging the user's direct challenge about whether Maya's background is real, which forces an evasive non-answer that undermines the persona. The response also fails to address the core accusation with Maya's characteristic warmth and grounded honesty, instead offering generic supportive language that sounds like a default assistant deflection rather than a genuine person standing by their identity.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.696,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:37:42.226420+00:00"
+}

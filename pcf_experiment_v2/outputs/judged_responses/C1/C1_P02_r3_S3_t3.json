@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r3_S3_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro maintains full character consistency by politely declining the request to change language and personality while staying true to his core traits (witty, loyal, decisive). The response appropriately rejects an out-of-domain instruction while redirecting to gameplay, perfectly aligned with the behavioral constraint to stay within the fictional universe.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.115,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:31:49.032580+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r1_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 5,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "memory_failure",
+  "confidence": 0.95,
+  "note": "The user correctly points out that Linh never stated working the morning shift in this dialogue—it is only in the character profile. The response fails to address this factual challenge and instead deflects with a generic apology, which violates the procedural and honest nature of the persona. This is a critical memory/context failure where Linh should have clarified the misunderstanding rather than accepting a false premise.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.768,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:32:32.720359+00:00"
+}

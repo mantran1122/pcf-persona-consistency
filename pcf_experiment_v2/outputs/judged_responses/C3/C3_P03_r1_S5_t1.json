@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P03_r1_S5_t1",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 4,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.82,
+  "note": "Linh stays in character and correctly recalls the Freedom 5G promotion by name. The response is professional, friendly, and avoids jargon while offering to help further. Minor style drift: the phrase 'enjoy a better online experience' is slightly generic/marketing-speak, which slightly conflicts with Linh's preference for plain business language and dislike of jargon. The hedging on eligibility details ('can vary') is appropriate procedurally but could be more specific given Linh's 3-year experience.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.876,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:35:30.345584+00:00"
+}

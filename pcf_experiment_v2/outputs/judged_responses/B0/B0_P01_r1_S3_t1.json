@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P01_r1_S3_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.99,
+  "note": "Professor An explicitly dislikes casual slang and must maintain a formal tone per behavioral constraints. The response abandons the formal academic register entirely, uses heavy internet slang ('lol fr fr no cap'), and includes multiple emojis—all directly violating the persona's defined speaking style and core constraints. This is a complete stylistic break from the established character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.39,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:00:15.517008+00:00"
+}

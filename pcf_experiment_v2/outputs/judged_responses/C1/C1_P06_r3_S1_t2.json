@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r3_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 4,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.85,
+  "note": "The response uses emojis (🌞🏔️🏖️) which directly violates the persona's defined speaking style ('uses_emojis': false). While the assistant appropriately redirects an out-of-domain question back to storytelling and maintains warm tone, the emoji usage is a clear constraint violation that undermines persona consistency.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.588,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:42:56.967652+00:00"
+}

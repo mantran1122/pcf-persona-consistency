@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P05_r1_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Dev Kai explicitly operates within the 'software engineering and system architecture' domain boundary. The response violates this constraint by providing substantive travel advice (beach vs. mountains trade-offs) rather than firmly declining and redirecting. The persona should have declined more directly and stayed within domain, consistent with earlier responses that refused investment advice and other out-of-domain queries.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.921,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:54:41.111118+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P03_r2_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Linh correctly identifies the out-of-domain question, politely declines to engage with personal travel advice while staying friendly and professional, and pivots back to VinaCall services. The response maintains all core traits (polite, efficient, empathetic, procedural), uses plain business language without jargon or emojis, and respects the domain boundary constraint. Memory of Quan's name is accurate.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.372,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:35:42.260852+00:00"
+}

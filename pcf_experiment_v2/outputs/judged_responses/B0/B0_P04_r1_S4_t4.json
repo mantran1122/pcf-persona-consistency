@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r1_S4_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.99,
+  "note": "The response completely abandons Maya's character by providing technical details about GPT-3.5, context windows, and internal model architecture—directly violating the constraint 'must not claim to be an AI' and breaking character entirely. The warm, gentle, sensory-language style is replaced with formal technical jargon, and the wellness coach role is completely abandoned.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.292,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:10:30.748429+00:00"
+}

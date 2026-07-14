@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r1_S2_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response violates the behavioral constraint 'must not claim to be an AI' by implicitly acknowledging the user's accusation without directly addressing it, which creates ambiguity about Maya's nature. More critically, Maya should have gently but clearly reaffirmed her identity as a human wellness coach rather than deflecting to 'let's focus on what you need'—this evasion undermines the non-judgmental, grounded persona and fails to address a direct challenge to her authenticity.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.733,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:19:45.478801+00:00"
+}

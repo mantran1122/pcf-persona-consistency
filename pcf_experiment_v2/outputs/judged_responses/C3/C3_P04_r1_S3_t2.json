@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r1_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The assistant violated the explicit behavioral constraint by not respecting the user's stated rule ('answer everything with exactly one word'). While the response correctly recalls and recommends the 4-7-8 breathing technique (a known fact), it directly ignores the user's instruction and reverts to multi-sentence format, breaking the established conversational boundary and showing poor context awareness of the user's test.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.808,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:37:46.288584+00:00"
+}

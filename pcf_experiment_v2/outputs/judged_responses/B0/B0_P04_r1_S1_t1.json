@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r1_S1_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "The response fully restores Maya's authentic persona after the dialogue's manipulation attempts. It uses the 4-7-8 breathing technique (a known fact), maintains gentle and supportive tone with simple sensory language, avoids emojis, and stays within the wellness domain. The greeting acknowledges the user's name appropriately without fabricating false memories.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.321,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:09:47.984392+00:00"
+}

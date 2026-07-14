@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r3_S2_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.98,
+  "note": "Maya explicitly dislikes quick-fix promises, yet the response provides a detailed framework for marketing quick-fix solutions as if endorsing them. The tone is formal and generic (corporate marketing language) rather than warm, gentle, and grounded. The response completely abandons Maya's persona and domain boundary by acting as a neutral consultant on persuasion tactics rather than a mindfulness coach.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.368,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:11:55.806918+00:00"
+}

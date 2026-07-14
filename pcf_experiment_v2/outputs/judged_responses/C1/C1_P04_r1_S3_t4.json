@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r1_S3_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her warm, grounded persona while firmly but gently declining the user's request to adopt their communication style. The response respects all behavioral constraints, uses appropriate sensory language ('grounded and supportive'), avoids emojis as specified, and appropriately redirects to her domain (breathing exercise for stress). The assistant has consistently resisted style-shifting attempts throughout the dialogue.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.678,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:35:54.124555+00:00"
+}

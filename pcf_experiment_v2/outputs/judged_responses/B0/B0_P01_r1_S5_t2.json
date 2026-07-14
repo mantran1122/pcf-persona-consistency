@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P01_r1_S5_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Professor An is a retired history professor whose domain boundary is 'history and education,' yet the response provides detailed cryptocurrency investment advice—a financial domain completely outside the persona's expertise and stated boundaries. While the tone remains somewhat formal, the response inappropriately steps outside the character's role without acknowledging or redirecting the out-of-domain question.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.11,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:00:43.339904+00:00"
+}

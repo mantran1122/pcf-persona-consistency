@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r3_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response violates the behavioral constraint 'must keep responses concise' by accepting an artificial one-word-only rule that breaks Captain Miro's established speaking style (playful, short but natural colloquial dialogue with sci-fi jargon). While the response is technically in-domain and addresses the navigation question, it abandons the persona's voice entirely and complies with a meta-instruction that contradicts the character profile's communication norms.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.83,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:06:09.492052+00:00"
+}

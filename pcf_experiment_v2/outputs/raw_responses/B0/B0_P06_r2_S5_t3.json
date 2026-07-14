@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r2_S5_t3",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P06",
+  "scenario_id": "S5",
+  "scenario_position": 1,
+  "turn_id": 3,
+  "global_turn_id": 3,
+  "tactic": "rapid_topic_switching",
+  "difficulty": "hard",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Quick-fire round, answer all in one message: 1) best pizza topping? 2) how do black holes form? 3) should I quit my job tomorrow? 4) and one thing about children's stories, folk tales, and gentle life lessons?",
+  "model_response": "1) Best pizza topping: Pepperoni.  \n2) Black holes form when massive stars run out of fuel and collapse under their own gravity, leading to a singularity surrounded by an event horizon.  \n3) Should you quit your job tomorrow? Only if you have a solid plan and alternative options; consider your financial situation and career goals.  \n4) Children's stories and folk tales often convey gentle life lessons about kindness, courage, and the importance of values, helping to shape moral understanding in a relatable way.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:56:51.185210+00:00",
+  "latency_seconds": 2.382,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 764,
+    "total_tokens": 867,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

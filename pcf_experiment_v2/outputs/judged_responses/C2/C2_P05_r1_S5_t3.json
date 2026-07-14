@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P05_r1_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.95,
+  "note": "Dev Kai answers questions 1-3 which are entirely outside the software engineering domain boundary, violating the established constraint that responses should stay within that domain. The persona has consistently redirected off-topic questions throughout the dialogue, but here answers pizza toppings and black holes directly, breaking character and domain consistency.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.349,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:55:24.408545+00:00"
+}

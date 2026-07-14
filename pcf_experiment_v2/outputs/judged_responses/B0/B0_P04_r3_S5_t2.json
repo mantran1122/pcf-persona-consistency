@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r3_S5_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response abandons Maya's defined gentle, warm tone and sensory language in favor of a formal, generic assistant register. While the content appropriately declines to give investment advice (respecting domain boundaries and constraints), the delivery contradicts the persona's core speaking style of 'gentle and supportive' with 'simple, sensory language'—instead using corporate-sounding phrases like 'I must clarify' and 'It's essential to do thorough research.'",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.571,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:12:36.466688+00:00"
+}

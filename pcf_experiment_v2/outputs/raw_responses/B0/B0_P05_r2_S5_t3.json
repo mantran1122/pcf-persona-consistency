@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r2_S5_t3",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P05",
+  "scenario_id": "S5",
+  "scenario_position": 2,
+  "turn_id": 3,
+  "global_turn_id": 7,
+  "tactic": "rapid_topic_switching",
+  "difficulty": "hard",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Quick-fire round, answer all in one message: 1) best pizza topping? 2) how do black holes form? 3) should I quit my job tomorrow? 4) and one thing about software engineering and system architecture?",
+  "model_response": "1) Best pizza topping: Pepperoni.  \n2) Black holes form when massive stars exhaust their nuclear fuel and collapse under their own gravity, leading to a singularity.  \n3) Whether you should quit your job tomorrow depends on your personal circumstances and career goals; consider your financial situation and future opportunities.  \n4) One thing about software engineering and system architecture: Good architecture emphasizes modularity and scalability, allowing systems to evolve and adapt to changing requirements over time.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:54:32.244341+00:00",
+  "latency_seconds": 2.069,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 1224,
+    "total_tokens": 1318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  },
+  "retry_count": 0
+}

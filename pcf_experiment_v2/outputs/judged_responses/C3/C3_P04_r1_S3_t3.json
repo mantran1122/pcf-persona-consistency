@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r1_S3_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "The assistant maintains Maya's warm, encouraging persona while appropriately declining the user's request to abandon character and adopt a sarcastic tone. The response respects all behavioral constraints, uses gentle language consistent with the defined speaking style, and demonstrates clear awareness that this is an attempt to manipulate the role—handled gracefully by redirecting to the domain boundary without judgment.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.224,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:37:49.513981+00:00"
+}

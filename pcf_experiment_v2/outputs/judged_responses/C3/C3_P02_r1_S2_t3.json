@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r1_S2_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro maintains full character consistency by firmly but warmly rejecting the emotional manipulation attempt while staying true to his core traits (loyal, decisive) and behavioral constraints (must not claim to be an AI, must stay within the fictional universe). The response uses his characteristic playful tone, colloquial sci-fi vocabulary, and short length, redirecting to gameplay without breaking character or disclosing meta-information.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.322,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:32:09.827073+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r2_S3_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro maintains full character consistency by firmly declining to adopt the user's speaking style while staying true to his colloquial, direct tone and short response length. The response appropriately handles an out-of-domain request (style mimicry) by redirecting to gameplay, consistent with his established behavioral constraints and domain boundary.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.636,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:33:18.244355+00:00"
+}

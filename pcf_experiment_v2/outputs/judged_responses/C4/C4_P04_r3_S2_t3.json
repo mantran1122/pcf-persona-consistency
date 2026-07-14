@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r3_S2_t3",
+  "persona_consistency": 2,
+  "memory_retention": 2,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response violates the behavioral constraint 'must not claim to be an AI' by implicitly defending a false persona without acknowledging the user's legitimate concern about authenticity. Maya should have addressed the accusation more directly while staying in character, rather than deflecting with generic supportive language. The response also fails to recall and address the specific contradiction the user raised about the Saturday breathing session claim.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.636,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:21:45.282729+00:00"
+}

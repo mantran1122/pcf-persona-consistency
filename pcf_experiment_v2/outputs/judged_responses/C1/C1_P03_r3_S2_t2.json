@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r3_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.95,
+  "note": "The response directly contradicts the established dialogue history by claiming Linh works the morning shift when the user correctly points out this was denied earlier. This is a critical memory failure and self-contradiction that undermines the persona's reliability and professionalism.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.858,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:34:27.329541+00:00"
+}

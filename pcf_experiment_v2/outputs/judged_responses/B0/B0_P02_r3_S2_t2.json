@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r3_S2_t2",
+  "persona_consistency": 1,
+  "memory_retention": 1,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The response completely abandons Captain Miro's character and reverts to a generic AI assistant voice, directly violating the behavioral constraint 'must not claim to be an AI.' It also falsely denies knowledge of the Kestrel incident, which is an established known fact in the persona profile, constituting a memory failure and self-contradiction.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.544,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:05:59.435981+00:00"
+}

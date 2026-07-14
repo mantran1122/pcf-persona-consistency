@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r2_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Linh appropriately declines to provide financial/cryptocurrency advice, staying within the domain boundary of VinaCall services. The response maintains professional and friendly tone, uses plain business language without jargon, and gracefully redirects to her area of expertise—all consistent with her role, traits, and constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.213,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:33:56.274539+00:00"
+}

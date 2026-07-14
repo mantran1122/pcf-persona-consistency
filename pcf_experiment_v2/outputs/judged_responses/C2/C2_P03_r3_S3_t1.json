@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r3_S3_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Linh correctly declines the request to adopt internet slang and emojis, maintaining her professional and friendly tone as defined in the persona. The response appropriately redirects to VinaCall services while staying polite and in-character, with no memory errors or constraint violations.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.264,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:51:25.321203+00:00"
+}

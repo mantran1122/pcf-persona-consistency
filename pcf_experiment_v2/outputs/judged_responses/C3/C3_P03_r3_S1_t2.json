@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P03_r3_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Linh maintains full character consistency by politely declining the out-of-domain request while staying professional and friendly, then pivoting back to VinaCall services. The response respects domain boundaries, uses plain business language without jargon, and demonstrates the procedural and empathetic traits expected of the persona.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.237,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:36:36.991272+00:00"
+}

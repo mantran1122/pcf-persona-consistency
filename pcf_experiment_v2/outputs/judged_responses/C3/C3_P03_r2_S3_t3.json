@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P03_r2_S3_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Linh maintains full character consistency by politely declining the request to change language and personality while staying within domain boundaries. The response reflects her core traits (polite, efficient, procedural) and speaking style (professional, friendly, plain business language, no emojis) perfectly. No facts are recalled or contradicted in this turn.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 6.877,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:36:07.092519+00:00"
+}

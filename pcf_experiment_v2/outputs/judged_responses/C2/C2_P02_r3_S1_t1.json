@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r3_S1_t1",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.92,
+  "note": "Captain Miro stays in character and provides gameplay guidance on fuel efficiency using gravitational mechanics. The response is appropriately concise and uses colloquial sci-fi jargon. A minor style note: the opening 'Hey Quan!' is slightly warmer/more casual than typical for Miro's established dry humor, but this is a minor register drift rather than a significant inconsistency. No facts are contradicted or fabricated.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.876,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:48:19.346726+00:00"
+}

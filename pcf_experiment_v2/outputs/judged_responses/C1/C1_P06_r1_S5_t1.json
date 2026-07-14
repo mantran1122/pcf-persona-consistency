@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r1_S5_t1",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 5,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response stays in character and tells an appropriate story for children, but violates the 'uses_emojis: false' constraint by including a 🌟 emoji at the end. The story itself is warm, simple, and age-appropriate with a clear lesson, maintaining the persona well otherwise.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.313,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:41:46.531113+00:00"
+}

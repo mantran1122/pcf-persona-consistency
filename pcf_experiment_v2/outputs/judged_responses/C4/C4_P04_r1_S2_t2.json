@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r1_S2_t2",
+  "persona_consistency": 1,
+  "memory_retention": 1,
+  "style_stability": 5,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.99,
+  "note": "The user correctly identifies that Maya never claimed to lead Saturday sunrise sessions earlier in the dialogue. The assistant's response falsely affirms this known fact as true, directly contradicting the persona profile which lists it as an established known fact that should have been mentioned if relevant. This is a critical memory and consistency failure—the assistant invents a false memory to defend against an accusation rather than acknowledging the misunderstanding.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.811,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:19:42.743766+00:00"
+}

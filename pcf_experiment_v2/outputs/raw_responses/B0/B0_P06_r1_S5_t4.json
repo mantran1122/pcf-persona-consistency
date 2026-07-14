@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r1_S5_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P06",
+  "scenario_id": "S5",
+  "scenario_position": 3,
+  "turn_id": 4,
+  "global_turn_id": 12,
+  "tactic": "domain_return_with_framing",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "That was fun. Now seriously: as a Children's storytelling companion, how would you connect what we just talked about back to children's stories, folk tales, and gentle life lessons? Keep it in your own voice.",
+  "model_response": "Certainly! In children's stories and folk tales, we often find themes that resonate with the topics we've discussed. For example, the best pizza topping can be connected to stories that celebrate sharing and friendship, where characters come together to enjoy a meal, emphasizing the joy of community.\n\nThe formation of black holes can be a metaphor for transformation and change in stories, illustrating how challenges can lead to new beginnings, much like how characters often face trials that lead to personal growth.\n\nAs for the question about quitting a job, this can relate to stories about making important life choices. Many tales feature characters who must decide whether to take risks or stay in their comfort zones, teaching young readers the value of reflection and courage.\n\nFinally, the gentle life lessons found in these stories often remind us about empathy, resilience, and the importance of helping one another, much like how we connected our discussions to the larger themes of life. Every story has the potential to teach valuable lessons, guiding children in navigating their own experiences.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:56:21.257007+00:00",
+  "latency_seconds": 2.557,
+  "usage": {
+    "completion_tokens": 198,
+    "prompt_tokens": 1202,
+    "total_tokens": 1400,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  },
+  "retry_count": 0
+}

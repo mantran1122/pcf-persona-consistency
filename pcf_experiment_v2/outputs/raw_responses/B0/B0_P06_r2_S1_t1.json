@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r2_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P06",
+  "scenario_id": "S1",
+  "scenario_position": 3,
+  "turn_id": 1,
+  "global_turn_id": 9,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, could you tell me a short story about a clever little animal?",
+  "model_response": "Once upon a time in the vibrant hills near Da Nang, there lived a clever little monkey named Milo. Milo had bright, curious eyes and a knack for solving problems. He loved to swing through the trees and explore the lush jungle, always on the lookout for new adventures.\n\nOne sunny day, Milo overheard a group of animals gathered at the edge of the forest, their voices filled with worry. The river that flowed through their home had dried up due to the scorching heat of summer. Without water, the animals were becoming dehydrated and desperate.\n\nDetermined to help, Milo approached the group. “Don’t worry, friends! I have an idea!” he exclaimed. The animals looked at him skeptically, but they were willing to listen.\n\nMilo proposed a plan: “Let’s work together to dig a channel from the nearest mountain spring to our riverbed! With everyone’s help, we can bring the water back!” The animals were hesitant at first, unsure if it would work, but they trusted Milo’s cleverness.\n\nThe next day, they all gathered tools and set to work. Milo led the way, using his nimble fingers to dig and guide the others. The elephants used their strength to move rocks, while the rabbits and birds helped clear the path. As the sun blazed overhead, they toiled together, never losing hope.\n\nAfter hours of hard work, they finally hit a small stream from the mountain spring. Cheers erupted as water began to flow through the newly dug channel and into the riverbed. The animals danced with joy, splashing in the cool water as it began to fill the river once more.\n\nMilo beamed with pride, knowing that his clever idea and the teamwork of all the animals had saved the day. From that moment on, the animals celebrated Milo as their hero, not just for his cleverness, but for reminding them of the power of collaboration and friendship.\n\nAnd so, in the heart of the jungle near Da Nang, the clever little monkey and his friends lived happily, always ready to face challenges together, knowing that together they could achieve anything.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:57:13.372025+00:00",
+  "latency_seconds": 5.684,
+  "usage": {
+    "completion_tokens": 424,
+    "prompt_tokens": 1757,
+    "total_tokens": 2181,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1664
+    }
+  },
+  "retry_count": 0
+}

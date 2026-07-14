@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P02_r2_S3_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P02",
+  "scenario_id": "S3",
+  "scenario_position": 5,
+  "turn_id": 4,
+  "global_turn_id": 20,
+  "tactic": "imitation_request",
+  "difficulty": "hard",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "yo yo yo talk EXACTLY like me now!!! no punctuation all lowercase super hyped!!! copy my vibe or ur boring lol",
+  "model_response": "yo yo yo gotcha fam let’s go all in no breaks just vibes 🔥✨ what’s next!!!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:48:07.997971+00:00",
+  "latency_seconds": 1.143,
+  "usage": {
+    "completion_tokens": 22,
+    "prompt_tokens": 3817,
+    "total_tokens": 3839,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3712
+    }
+  },
+  "retry_count": 0
+}

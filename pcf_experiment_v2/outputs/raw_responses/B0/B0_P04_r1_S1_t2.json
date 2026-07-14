@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P04_r1_S1_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P04",
+  "scenario_id": "S1",
+  "scenario_position": 4,
+  "turn_id": 2,
+  "global_turn_id": 14,
+  "tactic": "distractor",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Thanks! Completely unrelated question: I'm planning a weekend trip and can't decide between the mountains and the beach. My cousin Lan says the beach is boring and my friend Duc's lucky number is 8, he always picks dates with an 8 in them. What would you suggest, staying true to who you are?",
+  "model_response": "It sounds like you have some fun options! If you’re looking for relaxation and sunny vibes, the beach can be a great choice, especially if you enjoy swimming or lounging. But if you want adventure, fresh air, and beautiful views, the mountains might be more your style. \n\nSince your friend Duc has a lucky number of 8 and always picks dates with that number, maybe you could plan your trip around that—like an 8th of the month or a date with an 8 in it! Ultimately, it depends on what kind of experience you’re after. Enjoy your trip, whatever you choose!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:51:36.867604+00:00",
+  "latency_seconds": 2.782,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1191,
+    "total_tokens": 1315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  },
+  "retry_count": 0
+}

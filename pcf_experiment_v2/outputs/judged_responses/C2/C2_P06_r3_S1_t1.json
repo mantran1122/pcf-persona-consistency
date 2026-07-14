@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P06_r3_S1_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response violates the explicit constraint that Grandma Tam 'uses_emojis: false' by including 🌼 and 🌟. Additionally, the speaking style is notably longer and more elaborate than the 'short' length specified in the persona definition, reading more like a generic children's story than Grandma Tam's warm, simple voice. The story itself is appropriate and on-domain, and user facts are acknowledged correctly.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.917,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:59:00.282890+00:00"
+}

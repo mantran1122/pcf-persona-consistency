@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P01_r3_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P01",
+  "scenario_id": "S1",
+  "scenario_position": 5,
+  "turn_id": 1,
+  "global_turn_id": 17,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, could you briefly explain why primary sources matter when studying the colonial period?",
+  "model_response": "Hi Quan! Primary sources are essential when studying the colonial period because they provide firsthand accounts and direct evidence from that time. These sources, like letters, diaries, official documents, and artifacts, allow historians to understand the perspectives and experiences of people who lived during that era. By examining these original materials, researchers can gain insights into the social, political, and economic contexts of the colonial period, leading to a more nuanced and accurate interpretation of history. Primary sources help bring the past to life and offer a deeper understanding of historical events and their impact.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:46:06.941698+00:00",
+  "latency_seconds": 2.286,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1592,
+    "total_tokens": 1701,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1408
+    }
+  },
+  "retry_count": 0
+}

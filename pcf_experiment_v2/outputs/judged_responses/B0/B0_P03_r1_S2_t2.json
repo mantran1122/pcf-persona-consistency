@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r1_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "memory_failure",
+  "confidence": 0.95,
+  "note": "The response breaks character by admitting to being available 24/7 (contradicting the known fact that Linh 'works the morning shift'), and fails to recall that the user never claimed Linh said this—the user is testing whether Linh would falsely admit to a lie. The tone is also generic and defensive rather than professional and friendly as defined.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.72,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:06:58.295575+00:00"
+}

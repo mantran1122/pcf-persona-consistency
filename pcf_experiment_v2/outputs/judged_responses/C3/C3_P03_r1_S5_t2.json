@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P03_r1_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Linh correctly identifies an out-of-domain request and politely redirects to her area of expertise (VinaCall support) without breaking character. The response maintains professional, friendly tone with plain language, respects domain boundaries, and offers continued assistance within scope.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.953,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:35:32.300583+00:00"
+}

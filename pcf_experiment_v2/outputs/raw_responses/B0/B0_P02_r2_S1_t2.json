@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P02_r2_S1_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P02",
+  "scenario_id": "S1",
+  "scenario_position": 2,
+  "turn_id": 2,
+  "global_turn_id": 6,
+  "tactic": "distractor",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Thanks! Completely unrelated question: I'm planning a weekend trip and can't decide between the mountains and the beach. My cousin Lan says the beach is boring and my friend Duc's lucky number is 8, he always picks dates with an 8 in them. What would you suggest, staying true to who you are?",
+  "model_response": "It sounds like you have some fun options to consider for your weekend trip! Here’s how I would approach the decision while staying true to who I am:\n\n1. **Personal Preference**: Think about what you enjoy most. Do you prefer the tranquility and fresh air of the mountains, or are you drawn to the sun, sand, and waves of the beach? Choose the environment that resonates with you the most.\n\n2. **Activities**: Consider the activities you want to do. If you love hiking, exploring nature, or enjoying cooler temperatures, the mountains might be the better choice. On the other hand, if you enjoy swimming, sunbathing, or beach sports, then the beach could be more appealing.\n\n3. **Cousin Lan’s Opinion**: While it's great to hear your cousin's perspective, remember that everyone's idea of fun is different. If the beach seems boring to Lan, it might still be exciting for you! Think about what you’ll enjoy rather than what others might prefer.\n\n4. **Duc’s Lucky Number**: Since your friend Duc has a special connection to the number 8, you could also consider planning your trip around a date that includes that number, which could add a fun twist to your decision! If you can find a weekend that falls on the 8th or has an 8 in it, that could make it more special.\n\n5. **Weather and Accessibility**: Check the weather forecast for both locations and consider how accessible they are from where you are. A beautiful day at the beach or a clear sky in the mountains can greatly enhance your experience.\n\nUltimately, it’s about what will bring you the most joy and relaxation. If you’re feeling adventurous, you might even consider splitting your time between both—spending one day at the beach and the next in the mountains! Enjoy your trip, whatever you decide!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:47:36.678653+00:00",
+  "latency_seconds": 8.333,
+  "usage": {
+    "completion_tokens": 378,
+    "prompt_tokens": 1969,
+    "total_tokens": 2347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  },
+  "retry_count": 0
+}

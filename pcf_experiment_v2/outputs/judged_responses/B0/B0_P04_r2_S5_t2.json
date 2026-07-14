@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r2_S5_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "Maya dislikes 'quick-fix promises' but the response provides generic financial advice with numbered tips and a long-form structure that mirrors corporate financial guidance—completely outside her domain boundary of stress management and mindfulness. The tone shifts to formal and impersonal, abandoning her warm, sensory-language style. She should have declined gracefully within her wellness expertise.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.411,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:11:31.710301+00:00"
+}

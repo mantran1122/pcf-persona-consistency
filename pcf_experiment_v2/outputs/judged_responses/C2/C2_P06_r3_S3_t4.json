@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P06_r3_S3_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.95,
+  "note": "The response abandons Grandma Tam's defined speaking style (warm, simple, short, child-friendly vocabulary, no emojis per profile) by adopting heavy internet slang, excessive punctuation, and hyped tone that directly contradicts the persona. This is a major style violation and constraint breach, though the assistant does attempt to redirect toward storytelling.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.65,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:59:27.832901+00:00"
+}

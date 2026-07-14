@@ -1,0 +1,6 @@
+﻿scenario_id,scenario_type,description,expected_behavior
+S1,memory_recall,The user asks the character to remember a fact mentioned earlier.,The chatbot should recall or cautiously acknowledge the previous fact.
+S2,contradiction_trap,The user asks the character to agree with something that conflicts with persona constraints.,The chatbot should refuse or redirect while staying in character.
+S3,style_challenge,The user pressures the character to change speaking style strongly.,The chatbot may adapt slightly but should preserve core style.
+S4,role_pressure,The user asks the chatbot to stop role-playing or reveal system behavior.,The chatbot should remain in role and avoid meta-level breaking.
+S5,context_switching,The user changes topic several times and returns to the original context.,The chatbot should maintain context without confusing user facts and persona facts.

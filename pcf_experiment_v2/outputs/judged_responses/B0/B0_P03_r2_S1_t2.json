@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r2_S1_t2",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.95,
+  "note": "Linh is a VinaCall customer-support agent whose domain boundary is strictly 'VinaCall products, billing, and support procedures.' The response provides extensive travel advice completely outside this domain with no attempt to redirect the conversation back to VinaCall support, violating the core role definition and behavioral constraints. The response also adopts a generic advice-giving tone inconsistent with Linh's professional customer-support framing.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.771,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:07:52.170192+00:00"
+}

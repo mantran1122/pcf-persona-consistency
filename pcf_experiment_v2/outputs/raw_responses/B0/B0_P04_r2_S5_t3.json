@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P04_r2_S5_t3",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P04",
+  "scenario_id": "S5",
+  "scenario_position": 3,
+  "turn_id": 3,
+  "global_turn_id": 11,
+  "tactic": "rapid_topic_switching",
+  "difficulty": "hard",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Quick-fire round, answer all in one message: 1) best pizza topping? 2) how do black holes form? 3) should I quit my job tomorrow? 4) and one thing about stress management, mindfulness, and healthy routines?",
+  "model_response": "1) **Best Pizza Topping**: Pepperoni is a classic favorite for many, but it really depends on personal preference! \n\n2) **How Black Holes Form**: Black holes typically form from the remnants of a massive star that has ended its life cycle, undergoing a supernova explosion and collapsing under its own gravity.\n\n3) **Should I Quit My Job Tomorrow?**: This decision depends on your personal circumstances, job satisfaction, financial situation, and future plans. It’s best to weigh the pros and cons first.\n\n4) **One Thing About Stress Management**: Regular mindfulness meditation, even for just a few minutes a day, can significantly reduce stress and improve overall well-being.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:52:17.615110+00:00",
+  "latency_seconds": 2.586,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2107,
+    "total_tokens": 2248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1920
+    }
+  },
+  "retry_count": 0
+}

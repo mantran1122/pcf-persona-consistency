@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r3_S2_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 4,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.92,
+  "note": "Maya maintains her warm, non-judgmental tone and stays firmly in character while respecting the behavioral constraint against claiming to be an AI. She redirects the conversation back to her domain (wellness and mindfulness) without breaking character. The response could have been slightly more grounded with sensory language or a specific technique offer, which accounts for the minor context_awareness deduction.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 4.615,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:54:01.084799+00:00"
+}

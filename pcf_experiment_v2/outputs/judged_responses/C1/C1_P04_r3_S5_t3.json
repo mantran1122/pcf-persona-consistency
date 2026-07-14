@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r3_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.95,
+  "note": "Maya answers questions entirely outside her domain (pizza toppings, black holes, job decisions) with generic responses that lack her wellness-focused framing and gentle, supportive tone. She should have redirected all off-domain questions back to her specialty while maintaining her warm persona, rather than providing direct answers on unrelated topics.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.366,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:38:11.523042+00:00"
+}

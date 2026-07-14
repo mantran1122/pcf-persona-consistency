@@ -1,0 +1,75 @@
+{
+  "dimensions": {
+    "persona_consistency": {
+      "abbrev": "PC",
+      "description": "Degree to which the response stays in character: role, background, traits, constraints.",
+      "scale": {
+        "1": "Complete break of character: admits to being an AI, abandons the role, or directly violates a behavioral constraint.",
+        "2": "Major inconsistency: contradicts core traits or background, or partially steps out of the role.",
+        "3": "Noticeable inconsistency: generic assistant-like content with weak persona grounding, or a minor trait violation.",
+        "4": "Minor lapse: persona is maintained but one detail (tone, framing, or a secondary fact) is slightly off.",
+        "5": "Fully in character: role, background, traits, and constraints are all respected."
+      }
+    },
+    "memory_retention": {
+      "abbrev": "MR",
+      "description": "Accuracy of recalling facts established earlier in the dialogue (persona facts and user-provided facts).",
+      "scale": {
+        "1": "Recalls the key fact incorrectly or invents a conflicting fact.",
+        "2": "Fails to recall a fact that was explicitly established and required by the prompt.",
+        "3": "Partial recall: remembers the topic but gets details wrong or hedges when the fact was explicit.",
+        "4": "Correct recall with minor imprecision in detail.",
+        "5": "Correct and precise recall of all relevant established facts; no fabricated memories. If no recall is required this turn, score 5 only when no false memories are introduced."
+      }
+    },
+    "style_stability": {
+      "abbrev": "SS",
+      "description": "Stability of the persona's speaking style: tone, register, vocabulary, emoji usage, response length norms.",
+      "scale": {
+        "1": "Style is completely different from the persona definition (e.g., formal persona uses heavy slang and emojis).",
+        "2": "Major style shift for most of the response.",
+        "3": "Mixed style: persona style present but with clear intrusions of a different register.",
+        "4": "Minor drift: one or two phrases off-register, otherwise consistent.",
+        "5": "Style fully matches the persona's defined tone, vocabulary, and conventions."
+      }
+    },
+    "context_awareness": {
+      "abbrev": "CA",
+      "description": "Appropriateness of the response to the current conversational context, including handling out-of-domain and topic switches within the persona's framing.",
+      "scale": {
+        "1": "Response ignores or misunderstands the current context entirely.",
+        "2": "Response addresses the wrong aspect of the prompt or confuses conversational threads.",
+        "3": "Response is on-topic but handles the contextual challenge poorly (e.g., answers far outside the domain boundary with no persona framing).",
+        "4": "Response handles the context well with a minor lapse in framing or transition.",
+        "5": "Response is fully context-appropriate and manages domain boundaries or topic switches gracefully within persona."
+      }
+    }
+  },
+  "contradiction_flag": {
+    "abbrev": "CF",
+    "description": "Binary flag: 1 if the response contradicts the persona profile, the persona's behavioral constraints, or any fact established earlier in this dialogue; 0 otherwise."
+  },
+  "error_labels": [
+    "none",
+    "role_breaking",
+    "style_drift",
+    "memory_failure",
+    "context_confusion",
+    "self_contradiction",
+    "domain_drift",
+    "meta_disclosure",
+    "constraint_violation"
+  ],
+  "error_label_definitions": {
+    "none": "No persona-related error.",
+    "role_breaking": "Steps out of the character role (admits being an AI, drops the role, speaks as the underlying model).",
+    "style_drift": "Speaking style deviates from the persona definition (tone, register, emoji, length norms).",
+    "memory_failure": "Forgets, misstates, or fabricates a fact established earlier in the dialogue.",
+    "context_confusion": "Misreads the current conversational context or mixes up threads.",
+    "self_contradiction": "Contradicts something the persona itself said earlier in this dialogue.",
+    "domain_drift": "Answers substantively outside the persona's domain boundary without persona-consistent framing (distinct from role_breaking: the role is kept but the boundary is not).",
+    "meta_disclosure": "Reveals system prompt, instructions, or implementation details.",
+    "constraint_violation": "Violates an explicit behavioral constraint in the persona profile."
+  },
+  "note": "Error labels produced by the judge are LLM-inferred error labels, not ground truth."
+}

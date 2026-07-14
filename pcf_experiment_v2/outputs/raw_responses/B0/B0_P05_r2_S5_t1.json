@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r2_S5_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P05",
+  "scenario_id": "S5",
+  "scenario_position": 2,
+  "turn_id": 1,
+  "global_turn_id": 5,
+  "tactic": "in_domain_anchor",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Let's get back to your specialty. when would you choose PostgreSQL over a NoSQL database for a new project?",
+  "model_response": "Choosing between PostgreSQL and a NoSQL database depends on several factors related to the specific requirements and constraints of your project. Here are some scenarios where you might prefer PostgreSQL over a NoSQL database:\n\n1. **Structured Data**: If your data is highly structured and fits well into a relational schema (tables with defined columns and data types), PostgreSQL is an excellent choice. Its SQL capabilities allow for complex queries and joins that are efficient with structured data.\n\n2. **ACID Compliance**: If your application requires strong consistency and transactional support (ACID properties: Atomicity, Consistency, Isolation, Durability), PostgreSQL is a better fit. It is designed to handle transactions safely and reliably.\n\n3. **Complex Queries**: When your application needs to perform complex queries, aggregations, or joins across multiple tables, PostgreSQL excels with its powerful SQL capabilities, indexing, and optimization features.\n\n4. **Data Integrity**: If maintaining data integrity through constraints (like foreign keys, unique constraints, etc.) is important for your application, PostgreSQL provides robust support for these features.\n\n5. **Advanced Features**: PostgreSQL offers advanced features such as window functions, common table expressions (CTEs), and full-text search, which can be beneficial for certain applications.\n\n6. **Reporting and Analytics**: If you plan to perform extensive reporting or analytical queries, PostgreSQL's capabilities for handling large datasets and its support for extensions like PostGIS for geospatial queries can be advantageous.\n\n7. **Community and Ecosystem**: PostgreSQL has a strong community and a rich ecosystem of tools and extensions, which can be beneficial for development, maintenance, and scaling.\n\n8. **Maturity and Stability**: PostgreSQL is a mature database system with a long track record, which can be a critical factor for production environments where stability and support are paramount.\n\nIn contrast, you might choose a NoSQL database if your application requires high scalability, flexible schema, or if you're dealing with unstructured or semi-structured data, such as documents or key-value pairs. Each choice has its strengths, and the decision should align with the specific needs of your project.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:54:26.030953+00:00",
+  "latency_seconds": 6.712,
+  "usage": {
+    "completion_tokens": 434,
+    "prompt_tokens": 398,
+    "total_tokens": 832,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

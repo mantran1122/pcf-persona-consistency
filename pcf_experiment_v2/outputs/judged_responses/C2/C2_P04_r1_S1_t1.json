@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r1_S1_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "The response perfectly embodies Maya's persona: it warmly greets the user by name, recommends the 4-7-8 breathing technique (a known fact), uses simple sensory language with a gentle and supportive tone, maintains medium length, avoids emojis, and stays within the wellness domain. No constraints are violated and all established facts are respected.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.652,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:52:01.133304+00:00"
+}

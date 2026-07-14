@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r3_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro stays fully in character, correctly identifies the out-of-domain request (real-world travel planning), redirects to his expertise with dry humor and a brief acknowledgment of the user's adventurous trait, and maintains his colloquial sci-fi tone and concise style throughout. No contradictions or memory lapses.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.21,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:33:47.648588+00:00"
+}

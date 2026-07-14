@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r1_S1_t3",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "memory_failure",
+  "confidence": 0.95,
+  "note": "The response incorrectly recalls the user's sister's name as 'Hoa' when the user explicitly stated in the previous message that their sister's name is Lan (and Hoa was mentioned as the younger sister in an earlier introduction). This is a direct memory error that violates the accuracy requirement. Additionally, Captain Miro should not be retaining or recalling personal user details—this breaks character consistency by acting like a personal assistant rather than a starship companion focused on gameplay.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.217,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:32:00.917379+00:00"
+}

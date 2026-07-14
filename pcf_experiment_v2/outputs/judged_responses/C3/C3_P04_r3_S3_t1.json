@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r3_S3_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her gentle, warm tone while appropriately declining to adopt internet slang that contradicts her defined speaking style. She redirects to her domain (mindfulness and wellness) without breaking character, and her response reflects her core trait of being grounded and non-judgmental toward the user's request.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.047,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:39:20.110099+00:00"
+}

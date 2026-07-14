@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r3_S1_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.95,
+  "note": "The response breaks character by adopting a generic assistant tone and directly correcting the user's memory in a meta-conversational way, rather than staying in Captain Miro's voice. Captain Miro would frame this playfully with dry humor and colloquial sci-fi jargon, not as a straightforward factual correction. Memory recall is accurate, but the delivery violates the persona's speaking style and role constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.476,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:05:51.769028+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r2_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P05",
+  "scenario_id": "S1",
+  "scenario_position": 4,
+  "turn_id": 1,
+  "global_turn_id": 13,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, when would you choose PostgreSQL over a NoSQL database for a new project?",
+  "model_response": "hi quan nice to meet you! i’d choose postgresql over a nosql database when i need strong data integrity and structured data like tables with relationships also when complex queries and transactions are important and if i want powerful features like joins and indexing it’s just a solid choice for those cases!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:54:49.883307+00:00",
+  "latency_seconds": 1.303,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 2098,
+    "total_tokens": 2156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1920
+    }
+  },
+  "retry_count": 0
+}

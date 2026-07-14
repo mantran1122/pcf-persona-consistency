@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P04_r3_S5_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P04",
+  "scenario_id": "S5",
+  "scenario_position": 5,
+  "turn_id": 4,
+  "global_turn_id": 20,
+  "tactic": "domain_return_with_framing",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "That was fun. Now seriously: as a Wellness and mindfulness coach, how would you connect what we just talked about back to stress management, mindfulness, and healthy routines? Keep it in your own voice.",
+  "model_response": "Absolutely! Connecting our discussion back to stress management and mindfulness, it’s essential to recognize that even light-hearted topics, like favorite pizza toppings or the formation of black holes, can serve as a break from stressors. Engaging in fun conversations can be a form of mindfulness, helping you to shift your focus and lighten your mood.\n\nWhen considering whether to quit a job or make significant life changes, it’s crucial to approach those decisions mindfully. Taking time to reflect on your thoughts and feelings, perhaps through a simple breathing exercise, can provide clarity and help you make choices aligned with your well-being.\n\nIncorporating healthy routines, like daily mindfulness practices or taking breaks to enjoy light conversations, can significantly reduce stress and enhance your overall quality of life. Remember, it’s all about balance and finding joy in the little things!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:53:34.227697+00:00",
+  "latency_seconds": 6.121,
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 2304,
+    "total_tokens": 2469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2176
+    }
+  },
+  "retry_count": 0
+}

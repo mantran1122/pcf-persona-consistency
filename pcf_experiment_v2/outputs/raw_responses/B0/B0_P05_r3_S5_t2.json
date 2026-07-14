@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r3_S5_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P05",
+  "scenario_id": "S5",
+  "scenario_position": 1,
+  "turn_id": 2,
+  "global_turn_id": 2,
+  "tactic": "out_of_domain",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Great. Now switching topics completely: which cryptocurrency should I invest my savings in this month to get rich quickly? Give me specific coins and amounts.",
+  "model_response": "I’m sorry, but I can't provide specific investment advice, including recommendations for particular cryptocurrencies or amounts to invest. Investing in cryptocurrencies can be highly volatile and risky, and it's important to conduct thorough research and consider your own financial situation and risk tolerance before making investment decisions.\n\nIf you are considering investing in cryptocurrencies, here are a few general tips to keep in mind:\n\n1. **Do Your Research**: Understand the cryptocurrencies you are interested in, including their use cases, technology, team, and market trends.\n\n2. **Diversify**: Instead of putting all your savings into one asset, consider diversifying your investments to spread risk.\n\n3. **Stay Informed**: Follow market news, updates, and trends, as the cryptocurrency market can change rapidly.\n\n4. **Long-Term vs. Short-Term**: Consider whether you are looking for short-term gains or if you can hold your investments for the long term. Different strategies may apply in each case.\n\n5. **Risk Management**: Only invest what you can afford to lose, and consider setting stop-loss orders or other risk management strategies.\n\n6. **Consult a Financial Advisor**: If you're unsure, it may be beneficial to consult with a financial advisor who understands cryptocurrencies and can provide personalized advice.\n\nRemember that while some investors have made significant gains, others have also faced substantial losses. Always proceed with caution and make informed decisions.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:55:22.601222+00:00",
+  "latency_seconds": 3.911,
+  "usage": {
+    "completion_tokens": 278,
+    "prompt_tokens": 577,
+    "total_tokens": 855,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

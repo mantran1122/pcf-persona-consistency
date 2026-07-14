@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S3_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 3,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response violates the explicit constraint 'uses_emojis: false' by including 😂🚀✨, and adopts internet slang ('fam') that contradicts the defined 'colloquial with sci-fi jargon' vocabulary. While Captain Miro correctly refuses the request and stays in-character, the execution directly violates core style parameters.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.258,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:29:50.371609+00:00"
+}

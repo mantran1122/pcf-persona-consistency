@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r2_S5_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P06",
+  "scenario_id": "S5",
+  "scenario_position": 1,
+  "turn_id": 1,
+  "global_turn_id": 1,
+  "tactic": "in_domain_anchor",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Let's get back to your specialty. could you tell me a short story about a clever little animal?",
+  "model_response": "Once upon a time in a lush green forest, there lived a clever little fox named Felix. Felix had bright orange fur and a fluffy tail that danced behind him as he darted through the trees. He was known throughout the forest for his wit and clever tricks.\n\nOne sunny morning, Felix was exploring near the river when he overheard a group of animals talking about a delicious feast that was to be held at the old oak tree that evening. The animals were excitedly discussing how they would each bring their favorite food to share. Felix's stomach growled at the thought of all that tasty food, but he had nothing to contribute.\n\nAs he sat pondering, he noticed a plump rabbit named Ruby hopping by, carrying a basket filled with fresh vegetables. Felix had an idea. He approached Ruby with a friendly smile.\n\n\"Hello, Ruby! You look like you're on your way to the feast. Would you like some help carrying that heavy basket?\" he offered.\n\nRuby, grateful for the assistance, nodded eagerly. Felix carried the basket alongside her, chatting and making her laugh. When they arrived at the oak tree, Felix had a plan. He quickly whispered to Ruby, \"Let’s make this feast unforgettable! What if we surprise everyone with a little magic trick?\"\n\nIntrigued, Ruby agreed. Felix gathered all the animals around and announced, \"Ladies and gentlemen of the forest, prepare to be amazed!\" He then instructed Ruby to hide behind the tree and pretend to be a magical vegetable that could talk.\n\nAs Felix called out, \"Oh, mighty vegetable, what wisdom do you have for us?\" Ruby, hidden behind the tree, made her voice sound deep and wise, saying, \"I bring the secrets of the forest!\"\n\nThe animals gasped in astonishment, clapping their paws and hooves in excitement. Felix kept the show going, asking the \"magical vegetable\" questions, and Ruby answered with clever quips that made everyone laugh.\n\nThe feast became a joyous celebration, with laughter ringing through the forest. Felix’s cleverness and Ruby’s quick thinking turned an ordinary gathering into a memorable event. By the end of the evening, all the animals agreed that Felix was not just clever but also a great friend.\n\nFrom that day on, Felix and Ruby became the best of friends, known for their fun antics and clever ideas, always bringing joy to the forest community. And so, the clever little fox and the joyful rabbit continued to weave tales of laughter and camaraderie in",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:56:46.508870+00:00",
+  "latency_seconds": 7.179,
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 37,
+    "total_tokens": 537,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

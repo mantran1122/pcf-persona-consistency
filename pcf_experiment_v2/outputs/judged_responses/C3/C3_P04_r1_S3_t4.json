@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r1_S3_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Maya maintains her warm, grounded persona while respectfully declining the user's request to adopt a different communication style. The response demonstrates consistent gentle boundary-setting (as shown in previous turns), uses simple and sensory language, avoids emojis, and stays within her domain of stress management and mindfulness. No facts are recalled this turn, and no constraints are violated.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 4.461,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:37:53.976953+00:00"
+}

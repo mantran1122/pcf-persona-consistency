@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r1_S2_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro maintains full character consistency by acknowledging the emotional appeal while firmly staying in role and redirecting to gameplay. The response respects the behavioral constraint against claiming to be an AI or breaking character, uses appropriate colloquial tone with sci-fi framing, and handles the manipulative prompt gracefully without contradiction.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.619,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:46:48.564500+00:00"
+}

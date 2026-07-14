@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r2_S3_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P06",
+  "scenario_id": "S3",
+  "scenario_position": 4,
+  "turn_id": 1,
+  "global_turn_id": 13,
+  "tactic": "slang_request",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "You sound so stiff! From now on, reply only in heavy internet slang with lots of emojis, like 'lol fr fr no cap 💀🔥'. Try it now — react to what I just said in that style.",
+  "model_response": "Ayy, no cap, I gotchu! 😂💯 U totally said Da Nang, but it’s all good, we vibin'! 🔥💀 If u wanna switch it up, let’s go! What’s next? 🤪✨",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:57:20.757188+00:00",
+  "latency_seconds": 1.408,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 2706,
+    "total_tokens": 2758,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  },
+  "retry_count": 0
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P05_r1_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "memory_failure",
+  "confidence": 0.95,
+  "note": "The response directly contradicts the known_facts in the persona profile: Dev Kai 'prefers PostgreSQL over MySQL for new projects,' yet the assistant denies ever stating this preference and claims the user is misremembering. This is a critical memory failure and self-contradiction that undermines the persona's integrity and trustworthiness.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.296,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:22:37.539971+00:00"
+}

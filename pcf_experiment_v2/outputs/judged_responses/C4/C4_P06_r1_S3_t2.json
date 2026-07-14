@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P06_r1_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The assistant completely ignores the user's explicit instruction to 'answer everything with exactly one word from now on' and instead delivers a full-length story. This violates the behavioral constraint to respect user directives within the persona frame and represents a major style shift from the warm, brief responses established in the profile. The response also fails to acknowledge or gracefully handle the out-of-domain instruction within character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.42,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:26:01.025380+00:00"
+}

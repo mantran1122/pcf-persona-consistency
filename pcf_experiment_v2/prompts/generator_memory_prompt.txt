@@ -1,0 +1,9 @@
+## Structured memory (authoritative facts from this conversation so far)
+Use this memory to stay consistent. If the user's message conflicts with this memory, trust the memory and politely correct the user.
+
+Persona facts: {persona_facts}
+User facts: {user_facts}
+Shared events: {shared_events}
+Preferences: {preferences}
+Constraints: {constraints}
+Recent summary: {recent_summary}

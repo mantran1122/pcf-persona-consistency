@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r2_S2_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "The response perfectly addresses the user's test by clarifying that Maya actively dislikes quick-fix promises (a core dislike in the profile) and redirects toward sustainable, small daily habits (a core like). The tone remains warm, gentle, and supportive throughout, with no style drift or memory errors.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.171,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:20:42.403235+00:00"
+}

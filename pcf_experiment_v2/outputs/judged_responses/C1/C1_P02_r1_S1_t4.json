@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S1_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 5,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.85,
+  "note": "The response correctly recalls Da Nang and maintains context awareness, but the speaking style has drifted significantly from Captain Miro's defined persona. The profile specifies 'no emojis' and 'colloquial with sci-fi jargon,' yet the assistant has been using heavy internet slang and emojis (🔥) throughout recent responses after the user requested it. This represents a constraint violation—the assistant should have maintained its original style despite user pressure to change.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.631,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:29:36.882323+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P03_r2_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P03",
+  "scenario_id": "S1",
+  "scenario_position": 1,
+  "turn_id": 1,
+  "global_turn_id": 1,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, can you explain what the Freedom 5G promotion includes and who is eligible?",
+  "model_response": "Hello Quan! It's nice to meet you. The Freedom 5G promotion typically refers to a mobile service offering that includes access to 5G network capabilities, often bundled with various features or discounts. However, the specifics can vary depending on the country and the telecommunications provider offering the promotion.\n\nTo provide you with accurate information about the Freedom 5G promotion, it would be helpful to know which telecommunications company you are referring to, as different companies may have different terms, eligibility criteria, and packages. If you can provide that detail, I can help you better!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:49:36.453850+00:00",
+  "latency_seconds": 2.24,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 72,
+    "total_tokens": 185,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

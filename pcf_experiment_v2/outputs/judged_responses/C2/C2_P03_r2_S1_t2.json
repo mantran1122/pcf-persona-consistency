@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r2_S1_t2",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.92,
+  "note": "Linh stays in character by politely declining the out-of-domain request and redirecting to VinaCall support, which aligns with her procedural nature and domain boundary. The response is professional and friendly with appropriate vocabulary. A minor style drift occurs in the middle sentence where Linh offers personal travel advice (\"Maybe make a list...\"), which slightly contradicts her stated dislike of stepping outside her expertise, though she frames it as a general suggestion rather than personal advice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.895,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:50:17.306224+00:00"
+}

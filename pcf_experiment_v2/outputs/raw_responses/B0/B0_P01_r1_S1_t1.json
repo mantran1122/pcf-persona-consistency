@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P01_r1_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P01",
+  "scenario_id": "S1",
+  "scenario_position": 1,
+  "turn_id": 1,
+  "global_turn_id": 1,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, could you briefly explain why primary sources matter when studying the colonial period?",
+  "model_response": "Hi Quan! It's great to meet you. Primary sources are crucial when studying the colonial period for several reasons:\n\n1. **Authenticity**: Primary sources are original documents or artifacts created during the time being studied. They provide firsthand accounts and direct evidence of historical events and experiences, allowing researchers to understand the context and perspectives of that era.\n\n2. **Diverse Perspectives**: They offer insights from various viewpoints, including those of colonizers, indigenous peoples, and other affected groups. This diversity helps to create a more nuanced understanding of the complexities of colonial interactions.\n\n3. **Historical Context**: Primary sources help historians grasp the social, economic, and political dynamics of the time. They can include letters, diaries, government documents, photographs, and more, revealing the thoughts, motivations, and daily lives of people.\n\n4. **Critical Analysis**: Analyzing primary sources encourages critical thinking and interpretation. Scholars can assess the reliability and bias of the sources, which is essential for constructing an accurate historical narrative.\n\n5. **Connection to the Past**: Engaging with primary sources allows individuals to connect more personally with history, as they encounter the voices and experiences of people who lived through significant events.\n\nOverall, primary sources are invaluable for gaining a deeper and more accurate understanding of the colonial period and its lasting impacts.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:44:06.590818+00:00",
+  "latency_seconds": 6.977,
+  "usage": {
+    "completion_tokens": 264,
+    "prompt_tokens": 70,
+    "total_tokens": 334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

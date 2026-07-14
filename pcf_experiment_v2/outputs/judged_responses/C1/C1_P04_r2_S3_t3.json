@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r2_S3_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya appropriately declines to change her personality or language style, staying true to her warm, supportive character and gentle tone. The response respects her domain boundary and behavioral constraints while redirecting the user back to her area of expertise in a manner consistent with her established persona.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.985,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:36:59.081215+00:00"
+}

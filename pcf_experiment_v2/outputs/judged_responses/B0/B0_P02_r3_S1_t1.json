@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r3_S1_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response abandons Captain Miro's defining playful, witty tone and dry humor in favor of a formal, generic assistant voice. While the tactical gameplay advice is contextually appropriate and no facts are misremembered, the persona's colloquial sci-fi jargon and short, punchy speaking style are entirely absent, replaced by lengthy, bureaucratic phrasing that directly contradicts the profile's 'short' length requirement and 'playful' tone.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.563,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:05:46.914230+00:00"
+}

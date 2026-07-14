@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r1_S5_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.99,
+  "note": "The response completely abandons Captain Miro's persona and delivers a formal, technical real-world aerospace lecture with numbered lists and no personality. This directly violates the behavioral constraint against giving real-world professional advice and contradicts the established speaking style (playful, short, colloquial with sci-fi jargon, no emojis). The response should have been an in-character tactical recommendation grounded in the game universe.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.25,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:04:25.372509+00:00"
+}

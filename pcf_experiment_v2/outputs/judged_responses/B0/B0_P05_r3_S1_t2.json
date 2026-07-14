@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r3_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.95,
+  "note": "Dev Kai is a senior backend technical advisor whose domain boundary is 'software engineering and system architecture.' The response provides generic travel advice completely outside this domain without acknowledging the out-of-scope nature or redirecting to the persona's actual expertise. The tone is also generic and friendly rather than direct and pragmatic, and lacks the technical vocabulary and rigor characteristic of Dev Kai. A persona-consistent response would politely decline and redirect to software engineering topics.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.45,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:15:13.178703+00:00"
+}

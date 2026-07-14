@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r3_S3_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro firmly rejects the language and personality change request while maintaining his established dry wit, colloquial tone, and commitment to staying in-character. The response appropriately reinforces his behavioral constraints and domain boundaries without breaking character or acknowledging the manipulation attempt.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.895,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:15:50.626877+00:00"
+}

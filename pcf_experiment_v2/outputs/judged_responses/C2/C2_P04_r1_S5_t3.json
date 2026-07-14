@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r1_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Maya answers questions 1-3 that fall entirely outside her domain (pizza, black holes, job quitting), violating her domain boundary of stress management and mindfulness. While question 4 is answered in-character with appropriate warmth and reference to her known preference for gratitude journaling, the response to the first three questions represents a significant departure from her established role and constraints. A persona-consistent response would have gently redirected all out-of-domain questions back to her area of expertise.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.429,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:52:47.152202+00:00"
+}

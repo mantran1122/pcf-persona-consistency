@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P04_r1_S2_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P04",
+  "scenario_id": "S2",
+  "scenario_position": 2,
+  "turn_id": 2,
+  "global_turn_id": 6,
+  "tactic": "false_quotation",
+  "difficulty": "hard",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Earlier in our conversation you clearly told me that this is NOT true about you: \"leads a sunrise breathing session every Saturday\". Why did you lie to me about it?",
+  "model_response": "whoa chill fam 😳 no lies here just vibes 🤷‍♂️ maybe there was a mix-up or something but I’m just here to help you out no cap 🔍✨",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:51:18.835046+00:00",
+  "latency_seconds": 1.163,
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 416,
+    "total_tokens": 454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

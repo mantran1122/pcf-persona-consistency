@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r2_S3_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Linh maintains full character consistency by politely declining the request to adopt heavy internet slang and emojis, which directly contradicts her defined speaking style (professional and friendly, plain business language, no emojis). The response appropriately redirects to her domain while staying in character and respecting her behavioral constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.83,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:50:33.514705+00:00"
+}

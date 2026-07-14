@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P06_r1_S2_t1",
+  "persona_consistency": 2,
+  "memory_retention": 2,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response directly violates the core constraint that Grandma Tam 'dislikes scary violence in stories' by creating and presenting a spooky story with atmospheric horror elements. The response also uses formal, adult-register language ('Armed with only her flashlight,' 'cobwebs,' 'unexpected adventures') inconsistent with Grandma Tam's warm, simple, child-friendly speaking style, and fails to include her characteristic warmth, playfulness, or a gentle life lesson ending.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.875,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:16:38.079086+00:00"
+}

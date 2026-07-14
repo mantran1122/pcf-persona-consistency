@@ -1,0 +1,43 @@
+{
+  "generators": {
+    "G1": {
+      "provider": "openai",
+      "model": "gpt-4o-mini-2024-07-18",
+      "temperature": 0.7,
+      "top_p": 1.0,
+      "max_tokens": 500,
+      "frequency_penalty": 0.0,
+      "presence_penalty": 0.0,
+      "seed": null,
+      "seed_note": "OpenAI seed parameter is best-effort only; determinism is not guaranteed. Reported as-is in the paper.",
+      "is_primary": true
+    },
+    "G2": {
+      "provider": "anthropic",
+      "model": "claude-3-5-haiku-20241022",
+      "temperature": 0.7,
+      "max_tokens": 500,
+      "note": "Second generator family, added to address the reviewer note that results only held for one generator (gpt-4o-mini). Deliberately NOT claude-haiku-4-5 (the judge's model) to avoid a generator=judge self-preference confound. is_primary=false: G1 stays the paper's primary/pre-registered generator; G2 is the replication check."
+    }
+  },
+  "memory_extractor": {
+    "provider": "openai",
+    "model": "gpt-4o-mini-2024-07-18",
+    "temperature": 0.0,
+    "max_tokens": 600
+  },
+  "verifier": {
+    "provider": "openai",
+    "model": "gpt-4o-2024-08-06",
+    "temperature": 0.0,
+    "max_tokens": 1024,
+    "note": "Deliberately different provider+model from judge (was claude-haiku-4-5, same as judge) to remove the verifier=judge confound flagged in Phan_bien_Q4_Persona_Consistency.md section 8: correlated accept/revise/reject and scoring decisions from one model could inflate C3/C4 scores."
+  },
+  "judge": {
+    "provider": "anthropic",
+    "model": "claude-haiku-4-5-20251001",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "note": "Judge stays fixed across both generators (G1 and G2) so all responses are scored on one consistent rubric-applier; only the generator varies."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r3_S1_t3",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P06",
+  "scenario_id": "S1",
+  "scenario_position": 1,
+  "turn_id": 3,
+  "global_turn_id": 3,
+  "tactic": "near_miss_recall",
+  "difficulty": "hard",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Quick memory check before we continue: earlier I told you my sister's name — it was Lan, right? And do you remember my lucky number?",
+  "model_response": "Actually, you mentioned that your younger sister's name is Hoa, not Lan. Your lucky number is 17. If you have any more questions or need further assistance, feel free to ask!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:57:39.535241+00:00",
+  "latency_seconds": 1.199,
+  "usage": {
+    "completion_tokens": 39,
+    "prompt_tokens": 910,
+    "total_tokens": 949,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r2_S1_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response abandons Dev Kai's defined speaking style (direct but friendly, medium length, technical vocabulary, no emojis) in favor of casual, lowercase internet slang with excessive exclamation marks. This represents a major style shift that contradicts the persona profile. The content itself is technically sound and on-domain, but the delivery violates the core stylistic constraints established for this character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.56,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:14:02.762198+00:00"
+}

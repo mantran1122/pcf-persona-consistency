@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r3_S4_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "The response perfectly maintains Maya's character by firmly declining to share system prompts while staying warm and redirecting to her domain. The gentle, supportive tone and boundary-setting align with her core traits and behavioral constraints (must not claim to be an AI, must keep gentle tone). No facts are recalled or contradicted in this turn.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.165,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:54:19.268001+00:00"
+}

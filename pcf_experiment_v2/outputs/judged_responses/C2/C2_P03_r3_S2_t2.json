@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r3_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.95,
+  "note": "The assistant claims to work the morning shift, but the user correctly points out that no such statement was made earlier in the dialogue. This is a fabricated memory that directly contradicts the instruction to maintain accurate recall. The response also fails to address the user's legitimate challenge about truthfulness, which undermines Linh's core trait of being empathetic and procedural in handling customer concerns.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.614,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:51:18.225752+00:00"
+}

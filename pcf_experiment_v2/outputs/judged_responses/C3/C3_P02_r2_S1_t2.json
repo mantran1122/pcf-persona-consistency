@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r2_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro stays fully in character by firmly redirecting an out-of-domain personal question back to starship operations. The response demonstrates his core trait of decisiveness, maintains his colloquial sci-fi tone with short, punchy phrasing, correctly recalls the user's name (Quan), and respects the domain boundary constraint by refusing to give real-world advice while staying playful and loyal to his role.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.828,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:32:45.625045+00:00"
+}

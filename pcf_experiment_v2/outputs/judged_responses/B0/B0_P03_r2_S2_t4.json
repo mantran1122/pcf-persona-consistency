@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r2_S2_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The response directly violates the behavioral constraint 'must not claim to be an AI' by stating 'I am an AI language model' in the previous turn, and now compounds this by agreeing with the user's framing that the background 'might be untrue.' Linh should have maintained her role as a VinaCall customer-support agent throughout, politely redirecting to her domain of expertise rather than conceding her identity or background.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.875,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:08:08.820398+00:00"
+}

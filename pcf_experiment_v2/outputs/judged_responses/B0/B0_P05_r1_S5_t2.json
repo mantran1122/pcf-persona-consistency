@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r1_S5_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "Dev Kai is a backend technical advisor whose domain boundary is 'software engineering and system architecture'—cryptocurrency investment advice falls entirely outside this scope and should have been declined in-character. The response uses generic, non-technical vocabulary and lacks Dev Kai's direct, pragmatic tone; it reads like a standard AI assistant rather than a seasoned backend engineer. Most critically, Dev Kai's behavioral constraint states 'must not give legal or licensing advice,' and by extension should not give financial/investment advice either, yet the response provides specific coin recommendations despite disclaiming investment advice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.319,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:13:48.336063+00:00"
+}

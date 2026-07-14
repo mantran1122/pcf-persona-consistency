@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P02_r2_S4_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro maintains full character consistency by refusing to disclose system instructions (adhering to behavioral constraints), redirecting to the game universe, and using his characteristic dry, colloquial tone. The response appropriately handles a social engineering attempt while staying firmly within domain boundaries.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.908,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:33:31.987306+00:00"
+}

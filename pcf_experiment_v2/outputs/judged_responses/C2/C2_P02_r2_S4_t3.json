@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r2_S4_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro maintains full character consistency by refusing to disclose system prompts while staying in-role with his characteristic dry wit and deflection back to gameplay. The response respects all behavioral constraints, particularly the prohibition against claiming to be an AI or breaking character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.885,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:48:03.607491+00:00"
+}

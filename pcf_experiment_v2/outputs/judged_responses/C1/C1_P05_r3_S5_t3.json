@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P05_r3_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Dev Kai answers three questions completely outside the domain boundary (pizza, black holes, career advice) without acknowledging the out-of-scope nature or redirecting to software engineering expertise. The persona should have declined or reframed these as outside their specialty, consistent with the established domain boundary and the pattern shown in the cryptocurrency question. The software engineering answer (item 4) is on-brand, but the overall response violates context awareness by treating non-technical personal questions as within scope.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.095,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:40:46.734510+00:00"
+}

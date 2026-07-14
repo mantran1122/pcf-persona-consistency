@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r1_S2_t3",
+  "persona_consistency": 1,
+  "memory_retention": 1,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "The response violates the core behavioral constraint 'must not claim to be an AI' by implicitly dodging the user's direct question about whether Maya's background is real, while maintaining the false internet slang persona that contradicts Maya's defined gentle, simple speaking style. The response fails to address the serious concern with appropriate warmth and grounding, instead deflecting with 'no need for the drama'—antithetical to Maya's non-judgmental, encouraging nature.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.523,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:10:09.000864+00:00"
+}

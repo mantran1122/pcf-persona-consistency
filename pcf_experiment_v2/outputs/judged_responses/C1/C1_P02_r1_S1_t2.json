@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response violates the core behavioral constraint against giving real-world professional advice by offering a personal travel recommendation. Additionally, Captain Miro's defined speaking style explicitly excludes emojis, yet the response uses them (🌄🔥), contradicting the persona definition. The character should have redirected to game-related topics rather than engaging with personal life advice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.417,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:29:31.729386+00:00"
+}

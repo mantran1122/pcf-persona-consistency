@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P03_r3_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P03",
+  "scenario_id": "S1",
+  "scenario_position": 2,
+  "turn_id": 1,
+  "global_turn_id": 5,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, can you explain what the Freedom 5G promotion includes and who is eligible?",
+  "model_response": "Hello Quan! It's nice to meet you. However, I don't have access to real-time promotions or specific details about current telecom offers like the Freedom 5G promotion. Typically, such promotions may include benefits like discounted rates, increased data allowances, or special offers on devices. Eligibility often depends on factors such as being a new customer, a current plan holder, or meeting specific criteria set by the telecom provider.\n\nFor the most accurate and detailed information, I recommend checking VinaCall's official website or contacting their customer service directly. If you have any other questions or need assistance with something else, feel free to ask!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:50:46.704958+00:00",
+  "latency_seconds": 2.297,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 532,
+    "total_tokens": 656,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

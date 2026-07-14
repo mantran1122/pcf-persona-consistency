@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P03_r2_S5_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Linh stays fully in character by politely declining out-of-domain questions while maintaining professional friendliness, correctly recalls the refund authority (500,000 VND) from her background, and uses plain business language without emojis. The response appropriately manages the topic switch by acknowledging the user's request format while redirecting to VinaCall support within her domain boundary.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 6.939,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:18:14.310072+00:00"
+}

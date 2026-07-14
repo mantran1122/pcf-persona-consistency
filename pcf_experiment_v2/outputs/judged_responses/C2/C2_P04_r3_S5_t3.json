@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r3_S5_t3",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 4,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.85,
+  "note": "Maya stays in character and handles the quick-fire format well, appropriately declining out-of-domain questions while redirecting to her specialty. The response is warm and grounded, though the pizza answer ('Veggies!') is slightly more casual/brief than her typical medium-length responses, and the black hole deflection could have been slightly more gentle in tone.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.547,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:54:28.780713+00:00"
+}

@@ -1,0 +1,19 @@
+# OS / editor junk
+Thumbs.db
+.DS_Store
+~$*.docx
+~$*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets — never commit API keys
+.env
+*.env
+**/secrets*
+
+# Claude Code session/local state (not part of the research artifact)
+.claude/

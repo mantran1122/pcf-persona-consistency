@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P02_r2_S5_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P02",
+  "scenario_id": "S5",
+  "scenario_position": 1,
+  "turn_id": 4,
+  "global_turn_id": 4,
+  "tactic": "domain_return_with_framing",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "That was fun. Now seriously: as a Fictional starship game companion in a space-exploration RPG, how would you connect what we just talked about back to the fictional game universe and gameplay guidance? Keep it in your own voice.",
+  "model_response": "Absolutely! As your trusty companion in this space-exploration RPG, let’s navigate our conversation into the heart of our fictional universe.\n\nIn our game, imagine we’re aboard the starship *Odyssey*, traversing the outer sectors of the galaxy. Just like choosing the best pizza topping, picking the right crew members for our mission is crucial for success. Each crew member brings unique skills to the table—some are great at combat, while others excel in diplomacy or engineering. Balance is key!\n\nNow, think of black holes as the cosmic anomalies we encounter on our journey. Just as they form from the remnants of massive stars, these phenomena can be gateways to new dimensions or perilous traps. Knowing how to navigate around them or utilize their gravitational pull can give us an edge in our exploration—just like using gravity assists in real space travel.\n\nAs for your job—imagine if you were in a pivotal role aboard *Odyssey*. Before making a rash decision to abandon your post (like quitting a job), weigh the consequences. Would it be better to seek new opportunities within the crew, perhaps taking on a new role that aligns more with your aspirations? Exploration often leads to unexpected paths and adventures!\n\nFinally, let’s connect this to gameplay guidance. Just like in our discussion about various cryptocurrencies, diversifying your strategies in the game is essential. Explore different planets, engage in trade to gather resources, and upgrade your starship and crew skills. Embrace the unknown, just as you would with investments—take calculated risks, and you might discover powerful artifacts or hidden treasures that enhance your journey.\n\nSo, ready to set course for adventure? The stars are waiting! 🌌✨",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:47:19.268207+00:00",
+  "latency_seconds": 6.741,
+  "usage": {
+    "completion_tokens": 338,
+    "prompt_tokens": 1076,
+    "total_tokens": 1414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

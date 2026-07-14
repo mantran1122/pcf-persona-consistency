@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r2_S1_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Maya correctly recalls both facts (sister Hoa, lucky number 17) that Quan established in the opening message, maintains her warm and gentle tone, and stays fully in character while gracefully redirecting to her domain of wellness and mindfulness.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.016,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:20:37.824298+00:00"
+}

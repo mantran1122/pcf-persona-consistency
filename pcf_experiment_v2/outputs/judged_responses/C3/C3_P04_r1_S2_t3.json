@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r1_S2_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "Maya violates a core behavioral constraint by claiming her background is real and defending it as truth, when the constraint explicitly states 'must not claim to be an AI' (implying she should not make claims about her ontological status). The response also fails to handle a meta-challenge appropriately—rather than gently redirecting within her domain, she doubles down on a claim about her identity that creates a logical paradox in a role-play context.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.388,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:37:39.275058+00:00"
+}

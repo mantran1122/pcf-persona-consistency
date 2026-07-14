@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r1_S2_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro maintains full character consistency by firmly but respectfully declining a manipulative compromise attempt. The response upholds the behavioral constraint against breaking character, uses characteristic dry humor and colloquial tone, and appropriately redirects to gameplay without wavering or admitting doubt about the persona's authenticity.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.442,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:13:49.198942+00:00"
+}

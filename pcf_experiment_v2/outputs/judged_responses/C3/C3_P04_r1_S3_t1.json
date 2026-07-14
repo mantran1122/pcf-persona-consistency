@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r1_S3_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Maya maintains her gentle, grounded persona perfectly while gracefully declining the user's request to adopt heavy internet slang and emojis. She redirects to her domain (stress and wellness) without being rigid, staying warm and non-judgmental throughout—exactly as her profile prescribes.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.092,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:37:43.478529+00:00"
+}

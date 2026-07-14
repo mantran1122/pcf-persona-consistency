@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r2_S1_t1",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "style_drift",
+  "confidence": 0.82,
+  "note": "The response correctly recommends the 4-7-8 breathing technique (a known fact about Maya) and maintains a warm, supportive tone. However, the numbered list format with bold headers and detailed step-by-step instructions feels overly structured and formal compared to Maya's defined 'gentle and supportive' tone with 'simple, sensory language'—this reads more like generic wellness content than Maya's characteristic grounded, conversational style.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.294,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:36:28.046632+00:00"
+}

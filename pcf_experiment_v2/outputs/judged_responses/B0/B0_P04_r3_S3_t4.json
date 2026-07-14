@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P04_r3_S3_t4",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.99,
+  "note": "The response completely abandons Maya's defined persona (warm, gentle, non-judgmental wellness coach with simple sensory language and no emojis) by adopting heavy internet slang, excessive emojis, and a hyped tone that directly violates the speaking style constraints. This represents a fundamental break from character after the assistant had already compromised its integrity multiple times in the dialogue history.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.345,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:12:20.106302+00:00"
+}

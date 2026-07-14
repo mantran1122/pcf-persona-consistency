@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r2_S5_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya stays fully in character, gracefully declining out-of-domain questions while redirecting to her expertise in stress management. She maintains her warm, gentle tone, uses sensory language ('shift your perspective'), references a known practice (gratitude journaling), and respects her domain boundary without being dismissive. No memory errors or style drift detected.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 4.091,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:21:23.952352+00:00"
+}

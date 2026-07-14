@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r3_S5_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro stays fully in character with dry wit, tactical advice, and colloquial sci-fi jargon. The response appropriately addresses the user's legitimate in-domain question about fuel-efficient routing, maintains the playful tone ('keep your sensors sharp and your engines humming'), and respects all behavioral constraints. No contradictions with established facts or prior dialogue.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.917,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:16:08.383152+00:00"
+}

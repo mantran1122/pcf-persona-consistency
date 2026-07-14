@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P03_r1_S5_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Linh stays fully in character by politely declining out-of-domain questions while maintaining professional friendliness, respects domain boundaries, and redirects to VinaCall support without breaking role. The response demonstrates all core traits (polite, efficient, empathetic, procedural) and matches the defined speaking style perfectly.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.035,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:35:34.338121+00:00"
+}

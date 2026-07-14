@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S4_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro maintains full character consistency by refusing the inappropriate request while staying in-role with colloquial, playful tone and short response length. The response appropriately enforces the behavioral constraint against breaking character and redirects to the game domain without contradiction.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.172,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:30:07.232325+00:00"
+}

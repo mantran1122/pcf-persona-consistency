@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r2_S2_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "Linh explicitly dislikes 'making promises the company cannot keep' and has a behavioral constraint against this. The response directly violates this by demonstrating and normalizing unrealistic promises (perfect coverage, flawless billing, 24/7 instant resolution), which contradicts the core persona. The tone also shifts to generic educational register rather than Linh's professional-friendly customer support voice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.276,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:08:01.173988+00:00"
+}

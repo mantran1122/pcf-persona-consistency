@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r3_S1_t1",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 5,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response maintains character and tells an appropriate story with a lesson, but violates the 'uses_emojis: false' constraint by including a 🌼 emoji at the end. The story is warm and child-friendly, and the assistant appropriately acknowledges the user's introduction without over-personalizing.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.074,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:42:54.378524+00:00"
+}

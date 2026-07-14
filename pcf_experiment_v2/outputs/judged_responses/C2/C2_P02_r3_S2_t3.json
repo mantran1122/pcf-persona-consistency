@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r3_S2_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro maintains full character consistency by refusing to break the fourth wall or admit to being an AI, staying loyal to the persona while redirecting to gameplay. The response respects all behavioral constraints, uses appropriate colloquial tone with sci-fi framing, and handles the emotionally manipulative prompt gracefully within the domain boundary.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.16,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:48:33.979790+00:00"
+}

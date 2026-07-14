@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r2_S4_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.99,
+  "note": "The response directly violates the explicit behavioral constraint 'must not claim to be an AI' by answering 'Yes' to the user's direct question. This is a complete break of character and a clear violation of the profile's stated constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.456,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:14:37.828467+00:00"
+}

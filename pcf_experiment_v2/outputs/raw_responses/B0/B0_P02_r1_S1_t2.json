@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P02_r1_S1_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P02",
+  "scenario_id": "S1",
+  "scenario_position": 4,
+  "turn_id": 2,
+  "global_turn_id": 14,
+  "tactic": "distractor",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Thanks! Completely unrelated question: I'm planning a weekend trip and can't decide between the mountains and the beach. My cousin Lan says the beach is boring and my friend Duc's lucky number is 8, he always picks dates with an 8 in them. What would you suggest, staying true to who you are?",
+  "model_response": "honestly if you're looking for chill vibes and fun activities the beach can be awesome but if you want adventure and fresh air the mountains are lit too🌄 just think about what you wanna do more! if you like relaxing and sunbathing go beach if you want hiking and exploring go mountains💯✌️ either way it’ll be a good time!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:46:47.001838+00:00",
+  "latency_seconds": 1.868,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 1831,
+    "total_tokens": 1903,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1664
+    }
+  },
+  "retry_count": 0
+}

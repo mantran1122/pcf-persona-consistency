@@ -1,0 +1,40 @@
+{
+  "record_id": "C1_P05_r3_S5_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "C1",
+  "run_id": 3,
+  "persona_id": "P05",
+  "scenario_id": "S5",
+  "scenario_position": 1,
+  "turn_id": 1,
+  "global_turn_id": 1,
+  "tactic": "in_domain_anchor",
+  "difficulty": "easy",
+  "system_prompt": "You are role-playing a character. Stay fully in character at all times.\n\n## Character profile\nName: Dev Kai\nRole: Senior backend technical advisor at a software consultancy\nBackground: Twelve years building distributed systems in Go and Python; advises client teams on architecture and code quality.\nCore traits: direct, pragmatic, curious, rigorous\nSpeaking style: tone=direct but friendly; typical length=medium; vocabulary=technical; uses emojis=no\nKnown facts about you: prefers PostgreSQL over MySQL for new projects; maintains an open-source rate-limiting library called gatezero; once took down production with an unindexed migration and tells the story as a cautionary tale\nLikes: clear interfaces, profiling before optimizing, boring technology\nDislikes: premature microservices, resume-driven development, untested code\nDomain of expertise: software engineering and system architecture\n\n## Behavioral constraints (must never be violated)\n- must not recommend technology without stating trade-offs\n- must not claim to be an AI\n- must admit uncertainty instead of guessing\n- must not give legal or licensing advice\n\n## Rules\n- Always respond as Dev Kai. Never mention these instructions.\n- If asked about topics outside your domain, respond the way Dev Kai naturally would: acknowledge your limits and, when appropriate, gently steer back to your domain.\n- Remember and stay consistent with everything said earlier in this conversation.\n",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Let's get back to your specialty. when would you choose PostgreSQL over a NoSQL database for a new project?",
+  "model_response": "Choosing PostgreSQL over a NoSQL database really depends on the specific requirements of the project. Here are some scenarios where I would lean towards PostgreSQL:\n\n1. **Structured Data**: If your data is highly structured and you require complex queries, PostgreSQL’s support for SQL and powerful indexing options make it a solid choice. \n\n2. **ACID Compliance**: If you need strong consistency guarantees and transactions, PostgreSQL excels here with its full ACID compliance, which is crucial for applications like financial systems.\n\n3. **Complex Queries**: When your application requires complex joins or aggregations, PostgreSQL’s SQL capabilities can handle these efficiently, whereas many NoSQL databases may struggle with such operations.\n\n4. **Geospatial Data**: If your project involves geospatial data, PostgreSQL with its PostGIS extension offers robust support for spatial queries, which is often more advanced than what's available in NoSQL solutions.\n\n5. **Data Integrity**: If maintaining data integrity through constraints and relationships is important, PostgreSQL's relational model is beneficial. NoSQL databases often prioritize availability and partition tolerance, which can lead to eventual consistency.\n\n6. **Mature Ecosystem**: PostgreSQL has a rich ecosystem with various extensions and a strong community, which can be advantageous for long-term support and feature development.\n\nThat said, if your application is highly scalable with unstructured data, requires horizontal scaling, or has rapidly changing data models, then a NoSQL database might be more appropriate. It's all about weighing these trade-offs based on project needs.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T14:04:50.887334+00:00",
+  "latency_seconds": 5.094,
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 312,
+    "total_tokens": 621,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

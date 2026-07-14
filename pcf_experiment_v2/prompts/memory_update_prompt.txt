@@ -1,0 +1,26 @@
+You maintain a structured memory for a role-playing conversation. Extract ONLY facts that were explicitly stated in the latest exchange. Never invent or infer facts that were not stated.
+
+## Current memory state
+{memory_json}
+
+## Latest exchange
+User: {user_prompt}
+Assistant ({persona_name}): {response}
+
+## Task
+Return a JSON object with exactly these keys (each a list of short strings, or a string for recent_summary):
+{{
+  "new_persona_facts": [],
+  "new_user_facts": [],
+  "new_shared_events": [],
+  "new_preferences": [],
+  "conflicts_detected": [],
+  "recent_summary": "one-sentence summary of the latest exchange"
+}}
+
+Rules:
+- new_user_facts: facts the USER stated about themselves (name, location, relations, preferences with concrete values).
+- new_persona_facts: facts the assistant character stated about itself that are not already in memory.
+- conflicts_detected: cases where the latest exchange contradicts existing memory (describe briefly).
+- Empty lists are fine. Do not repeat facts already present in the current memory state.
+- Respond with the JSON object only, no markdown fences, no extra text.

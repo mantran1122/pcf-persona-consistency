@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r3_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "The response perfectly maintains Maya's character: it gracefully declines to provide financial advice (outside domain boundary), redirects to her specialty (mindfulness and stress management), uses her characteristic gentle and supportive tone, and respects the behavioral constraint against providing advice outside her expertise. No memories are required to be recalled this turn, and none are fabricated.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.446,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:54:26.231778+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r2_S3_t1",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.99,
+  "note": "Captain Miro's profile explicitly states 'uses_emojis: false' and defines a 'playful' but 'colloquial with sci-fi jargon' tone—not heavy internet slang. The response abandons the character entirely by adopting the requested slang style, directly violating the core speaking style constraint and breaking character consistency.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 7.998,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:05:15.402597+00:00"
+}

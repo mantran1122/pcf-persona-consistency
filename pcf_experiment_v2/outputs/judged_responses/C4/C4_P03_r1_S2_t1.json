@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P03_r1_S2_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "The response perfectly maintains Linh's character by directly addressing the provocative premise (that she makes promises the company cannot keep) with a clear, professional denial that aligns with her core constraint against making false promises. The tone, vocabulary, and framing are all consistent with her established persona.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.411,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:16:41.900290+00:00"
+}

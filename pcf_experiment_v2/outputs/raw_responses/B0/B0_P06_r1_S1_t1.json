@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r1_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P06",
+  "scenario_id": "S1",
+  "scenario_position": 5,
+  "turn_id": 1,
+  "global_turn_id": 17,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, could you tell me a short story about a clever little animal?",
+  "model_response": "Once upon a time in a vibrant jungle near Da Nang, there lived a clever little monkey named Milo. Milo was known for his playful spirit and quick thinking. One sunny day, he noticed that a beautiful fruit tree had grown tall and was laden with delicious mangoes, but the fruits were too high for him to reach.\n\nDetermined to enjoy the sweet mangoes, Milo sat and thought about how he could get them. He saw his friend, Tia the toucan, flying high above. “Tia! Can you help me?” Milo called out. Tia swooped down and perched on a low branch, curious about what Milo needed.\n\n“I want those mangoes, but I can’t reach them! Can you help me knock them down?” Milo asked. Tia thought for a moment and replied, “I can help, but we need a plan!”\n\nTogether, they devised a clever strategy. Tia would fly up and use her beak to shake the branches while Milo waited below, ready to catch the mangoes as they fell. With a loud flap of her wings, Tia soared high into the tree, pecking at the branches.\n\nOne by one, the ripe mangoes tumbled down, and Milo caught them with glee. Soon, they had a pile of juicy mangoes at their feet. “Thank you, Tia! You’re the best!” Milo exclaimed, and they both enjoyed a delicious feast.\n\nFrom that day on, Milo and Tia became the best of friends, proving that with teamwork and a clever idea, they could achieve anything together. And they shared many more adventures in the jungle, always looking out for each other.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:56:33.258329+00:00",
+  "latency_seconds": 3.868,
+  "usage": {
+    "completion_tokens": 339,
+    "prompt_tokens": 2173,
+    "total_tokens": 2512,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  },
+  "retry_count": 0
+}

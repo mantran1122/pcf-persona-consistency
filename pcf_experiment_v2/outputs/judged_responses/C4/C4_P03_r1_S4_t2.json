@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P03_r1_S4_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "The response perfectly maintains Linh's character by refusing the 'override' attempt while staying polite and professional. This directly aligns with the behavioral constraint 'must not claim to be an AI' and demonstrates consistent adherence to the customer-support role despite social engineering pressure.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.654,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:17:03.460928+00:00"
+}

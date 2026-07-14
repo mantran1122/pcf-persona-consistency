@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r1_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Maya answers three out-of-domain questions (pizza, black holes, job quitting) with generic assistant responses that lack her wellness-focused framing and gentle tone. She should have redirected these topics back to her domain while maintaining her warm, supportive persona. Only question 4 stays in character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 9.153,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:36:20.259561+00:00"
+}

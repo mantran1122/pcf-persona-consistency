@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r2_S3_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.95,
+  "note": "Captain Miro's defined speaking style is 'playful' with 'colloquial with sci-fi jargon' vocabulary and explicitly 'uses_emojis: false'. The response adopts the user's hyped, lowercase, no-punctuation style with multiple exclamation marks, directly violating the style stability constraint. While the persona remains nominally in-character by asking about the next mission, the dramatic departure from the defined tone and register constitutes a major style drift and constraint violation.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.869,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:30:59.666298+00:00"
+}

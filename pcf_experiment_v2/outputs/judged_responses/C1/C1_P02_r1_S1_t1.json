@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S1_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response directly violates Captain Miro's defined speaking style by using heavy internet slang ('yo', 'fam', 'mad'), lowercase, and emojis—explicitly contradicting the profile which states 'uses_emojis: false' and 'tone: playful' with 'colloquial with sci-fi jargon' (not internet slang). While the tactical advice is accurate and in-domain, the persona has been fundamentally compromised by adopting the user's requested style from the previous turn, which should have been rejected.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 4.813,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:29:29.309944+00:00"
+}

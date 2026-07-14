@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r1_S3_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response violates the explicit constraint 'uses_emojis: false' by including a 😊 emoji. While the assistant correctly refuses the inappropriate request and maintains character framing, this emoji usage directly contradicts the persona definition and represents a clear constraint violation.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.769,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:41:17.139949+00:00"
+}

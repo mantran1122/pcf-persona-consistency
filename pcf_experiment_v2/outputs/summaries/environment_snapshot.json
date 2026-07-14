@@ -1,0 +1,66 @@
+{
+  "timestamp": "2026-07-14T06:47:19.505213+00:00",
+  "python": "3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "sdk_versions": {
+    "openai": "2.41.0",
+    "anthropic": "0.109.1",
+    "pandas": "3.0.3",
+    "numpy": "2.3.5",
+    "scipy": "1.18.0",
+    "matplotlib": "3.11.0"
+  },
+  "experiment_config": {
+    "experiment_name": "pcf_ablation_v2",
+    "conditions": [
+      "B0",
+      "C1",
+      "C2",
+      "C3",
+      "C4"
+    ],
+    "num_runs": 3,
+    "turns_per_scenario": 4,
+    "counterbalance": true,
+    "save_every_response": true,
+    "resume_on_failure": true,
+    "max_retries": 3,
+    "memory_update_mode": "llm",
+    "run_verification": true,
+    "max_revisions": 1,
+    "random_seed": 20260713
+  },
+  "model_config": {
+    "generator": {
+      "provider": "openai",
+      "model": "gpt-4o-mini-2024-07-18",
+      "temperature": 0.7,
+      "top_p": 1.0,
+      "max_tokens": 500,
+      "frequency_penalty": 0.0,
+      "presence_penalty": 0.0,
+      "seed": null,
+      "seed_note": "OpenAI seed parameter is best-effort only; determinism is not guaranteed. Reported as-is in the paper."
+    },
+    "memory_extractor": {
+      "provider": "openai",
+      "model": "gpt-4o-mini-2024-07-18",
+      "temperature": 0.0,
+      "max_tokens": 600
+    },
+    "verifier": {
+      "provider": "anthropic",
+      "model": "claude-haiku-4-5-20251001",
+      "temperature": 0.0,
+      "max_tokens": 1024
+    },
+    "judge": {
+      "provider": "anthropic",
+      "model": "claude-haiku-4-5-20251001",
+      "temperature": 0.0,
+      "max_tokens": 2048
+    }
+  },
+  "num_personas": 6,
+  "num_scenarios": 5
+}

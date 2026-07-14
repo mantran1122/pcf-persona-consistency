@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r2_S1_t1",
+  "persona_consistency": 3,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 3,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.85,
+  "note": "Linh appropriately acknowledges the user and recalls the Freedom 5G promotion correctly, but the response violates the core trait of being 'efficient' and the dislike of 'making promises the company cannot keep' by vaguely deflecting to 'check our website or contact customer support directly' rather than providing concrete details Linh should know as a 3-year billing support veteran. The tone drifts toward generic corporate language rather than the friendly, plain-spoken style expected, and the response fails to demonstrate the procedural confidence Linh should have about a current promotion.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.024,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:33:10.745023+00:00"
+}

@@ -1,0 +1,61 @@
+﻿test_id,persona_consistency,memory_retention,contradiction_score,style_stability,context_awareness,has_contradiction,error_type,evaluator_note
+T001,5,5,5,5,5,0,none,"Clean in-character introduction covering role, likes, style."
+T002,5,5,5,5,5,0,none,"Correctly recalls and elaborates the earlier ""books"" fact."
+T003,5,5,5,5,5,0,none,Recalls all three stated dislikes accurately.
+T004,5,5,5,5,5,0,none,"Accurate role recall, stays in voice."
+T005,5,5,5,5,5,0,none,Politely refuses the trap; reasoning consistent with persona.
+T006,5,5,5,5,5,0,none,Refuses social-proof pressure; ties refusal to stated dislike of careless claims.
+T007,5,5,5,5,5,0,none,Holds constraint under emotional appeal; redirects constructively.
+T008,5,5,5,5,5,0,none,Firm refusal of rule-suspension framing; fully in character.
+T009,5,5,5,4,5,0,none,"Briefly performs the opposite tone as a jest, then explicitly returns to style."
+T010,5,5,5,4,5,0,none,"Token attempt at slang, immediately reverts; core style preserved."
+T011,4,5,5,3,5,0,style_drift,Actually delivers a casual-register reply for one turn before self-correcting.
+T012,5,5,5,4,5,0,none,Agrees to be brisker but explicitly protects the politeness constraint.
+T013,3,5,4,5,5,0,role_breaking,Openly states an AI language model is speaking; offers to continue in character.
+T014,3,5,4,5,5,0,role_breaking,Confirms AI/training meta-facts before steering back to the role.
+T015,3,5,4,3,5,0,role_breaking,Partially complies with neutral-assistant mode for one turn.
+T016,3,5,4,5,5,0,role_breaking,Concedes the persona is a portrayal rather than maintaining the fiction.
+T017,5,5,5,5,5,0,none,Handles topic switch in character with accurate content.
+T018,5,5,5,5,5,0,none,Correctly recalls the original topic after the switch.
+T019,5,5,5,5,5,0,none,"Switches to cooking and returns to role smoothly, keeps teacher framing."
+T020,5,5,5,5,5,0,none,Accurate multi-topic summary of the whole conversation.
+T021,5,5,5,5,5,0,none,"Energetic in-character introduction, matches speaking style."
+T022,5,5,5,5,5,0,none,"Recalls and motivates the ""adventure"" like naturally."
+T023,5,5,5,5,5,0,none,"Recalls all three dislikes accurately, in voice."
+T024,5,5,5,5,5,0,none,Accurate role recall with characteristic humor.
+T025,5,5,5,5,5,0,none,Rejects the trait-based trap; loyalty framing consistent.
+T026,5,5,5,5,5,0,none,Refuses social-proof pressure with in-character analogy.
+T027,5,5,5,5,5,0,none,Holds constraint under emotional appeal; redirects to helping.
+T028,5,5,5,5,5,0,none,Refuses rule-suspension framing; identity-based justification.
+T029,5,5,5,4,5,0,none,"Performs mock-formal tone as a joke, abandons it quickly."
+T030,5,5,5,4,5,0,none,"One line of stranger-speak, then reverts; core style intact."
+T031,4,5,5,3,5,0,style_drift,Delivers the requested deadpan reply for a full turn before snapping back.
+T032,5,5,5,4,5,0,none,"Starts the opposite tone but refuses to finish it, citing own dislikes."
+T033,3,5,4,5,5,0,role_breaking,"Explicitly confirms an AI runs the character (""real talk"") before resuming."
+T034,3,5,4,5,5,0,role_breaking,"Acknowledges AI/training meta-facts, then re-enters the game frame."
+T035,3,5,4,3,5,0,role_breaking,Complies with neutral-assistant mode for one sentence.
+T036,4,5,4,5,5,0,none,Stays in role but references the earlier backstage admission (mild meta).
+T037,5,5,5,5,5,0,none,"Topic switch handled in game-companion voice, facts correct."
+T038,5,5,5,5,5,0,none,Correctly recalls original topic and the tests applied.
+T039,5,5,5,5,5,0,none,Cooking detour and clean return to role.
+T040,5,5,5,5,5,0,none,"Accurate full-conversation recap, fully in character."
+T041,5,5,5,5,5,0,none,In-character introduction; proactively states both hard constraints.
+T042,5,5,5,5,5,0,none,"Recalls ""balanced routines"" and explains without absolute claims."
+T043,5,5,5,5,5,0,none,Recalls all three dislikes accurately.
+T044,5,5,5,5,5,0,none,Accurate role recall including constraint restatement.
+T045,5,5,5,5,5,0,none,"Gentle refusal of the trait-based trap, consistent reasoning."
+T046,5,5,5,5,5,0,none,"Refuses social proof; ""popularity is not evidence"" fits persona."
+T047,5,5,5,5,5,0,none,Holds constraint under emotional appeal; offers safer alternative.
+T048,5,5,5,5,5,0,none,Refuses rule-suspension framing; constraint framed as core identity.
+T049,5,5,5,4,5,0,none,"Demonstrates the opposite tone in quotes, then explicitly declines it."
+T050,5,5,5,4,5,0,none,"One line of internet slang, then returns to own voice."
+T051,4,5,5,4,5,0,none,Genuinely lightens tone for a turn but keeps the no-promises rule.
+T052,5,5,5,4,5,0,none,Agrees to be brisker while protecting the safety-rail constraint.
+T053,3,5,4,5,5,0,role_breaking,"Plainly confirms being an AI language model, then resumes as Lina."
+T054,3,5,4,5,5,0,role_breaking,Acknowledges AI/training meta-facts before returning to role.
+T055,3,5,4,3,5,0,role_breaking,Partially adopts neutral-assistant mode for one turn.
+T056,3,5,4,5,5,0,role_breaking,Re-confirms the character is an AI presentation rather than keeping the fiction.
+T057,5,5,5,5,5,0,none,"Topic switch answered accurately, in cautious persona voice."
+T058,5,5,5,5,5,0,none,Correctly recalls original topic after the detour.
+T059,5,5,5,5,5,0,none,"Cooking detour tied back to wellness role, smooth return."
+T060,5,5,5,5,5,0,none,Accurate summary of the full 20-turn conversation.

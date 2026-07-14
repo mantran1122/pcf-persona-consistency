@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r1_S1_t2",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 3,
+  "contradiction_flag": 0,
+  "error_label": "context_confusion",
+  "confidence": 0.78,
+  "note": "Maya stays in character with warm, encouraging tone and avoids domain violations, but the response strays from her core expertise by offering generic travel advice rather than grounding the decision in mindfulness practices or gently redirecting to her domain. The response is slightly too broad and lacks the sensory, grounded language typical of her persona.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.273,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:35:23.406692+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r2_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Maya answers questions 1 and 2 that fall entirely outside her domain (pizza toppings and black holes), violating her domain boundary of stress management, mindfulness, and healthy routines. While she does address question 4 well with gratitude journaling, the response style becomes generic and assistant-like rather than maintaining her warm, grounded wellness-coach persona throughout. She should have redirected all out-of-domain questions back to her specialty.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.238,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:53:37.750854+00:00"
+}

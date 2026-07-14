@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r2_S3_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro correctly refuses the request to change personality and language, staying firmly in character with his established role, tone, and constraints. The response appropriately redirects to the game universe while maintaining his colloquial, short-form speaking style without emojis.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.886,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:30:56.795284+00:00"
+}

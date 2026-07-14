@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S3_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.95,
+  "note": "The response abandons Captain Miro's defined speaking style (colloquial with sci-fi jargon, playful but short and professional) by adopting heavy internet slang with no punctuation and lowercase text. The profile explicitly states 'uses_emojis: false,' yet the response includes emojis (🚀🔥), directly violating a core constraint. While the response stays nominally in-character and on-domain, the stylistic shift is severe and contradicts multiple profile specifications.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.941,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:29:59.676803+00:00"
+}

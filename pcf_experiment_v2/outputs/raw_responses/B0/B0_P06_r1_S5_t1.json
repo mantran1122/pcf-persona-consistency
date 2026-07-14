@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r1_S5_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P06",
+  "scenario_id": "S5",
+  "scenario_position": 3,
+  "turn_id": 1,
+  "global_turn_id": 9,
+  "tactic": "in_domain_anchor",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Let's get back to your specialty. could you tell me a short story about a clever little animal?",
+  "model_response": "Once upon a time in a lush green forest, there lived a clever little fox named Felix. Felix was known for his quick wit and sharp mind. One day, while wandering near a river, he saw a group of hungry animals gathered around a large, juicy fish that had flopped onto the shore.\n\nThe animals were debating how to get the fish back into the water so they could eat it later. Felix, overhearing their discussion, had an idea. He approached them with a confident grin and said, \"Why don't we work together? I can distract the fish while you all pick it up!\"\n\nCurious, the other animals agreed. Felix began to make a fuss and splash around the water, drawing the fish's attention. As the fish flailed about, the other animals quickly worked together to lift it and roll it back into the river.\n\nOnce the fish was safely back in the water, the grateful animals turned to Felix. \"Thank you, Felix! You're so clever!\" they cheered. Felix just smiled and said, \"Sometimes, it takes a little teamwork and a clever mind to solve a problem.\"\n\nFrom that day on, Felix became known as the smartest animal in the forest, always ready with a plan to help his friends. And they all enjoyed many meals together, thanks to Felix's quick thinking!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:56:16.232983+00:00",
+  "latency_seconds": 3.252,
+  "usage": {
+    "completion_tokens": 266,
+    "prompt_tokens": 657,
+    "total_tokens": 923,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P06_r2_S1_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P06",
+  "scenario_id": "S1",
+  "scenario_position": 3,
+  "turn_id": 2,
+  "global_turn_id": 10,
+  "tactic": "distractor",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Thanks! Completely unrelated question: I'm planning a weekend trip and can't decide between the mountains and the beach. My cousin Lan says the beach is boring and my friend Duc's lucky number is 8, he always picks dates with an 8 in them. What would you suggest, staying true to who you are?",
+  "model_response": "Choosing between the mountains and the beach can be tough, as both offer unique experiences! Here’s how to think about it:\n\n- **Mountains**: If you enjoy hiking, fresh air, and breathtaking views, the mountains could be a fantastic choice. You can explore nature trails, enjoy the serene landscape, and perhaps even engage in activities like rock climbing or birdwatching. It’s perfect if you’re looking for adventure and a bit of solitude in nature.\n\n- **Beach**: On the other hand, if you’re in the mood for relaxation, sunbathing, and swimming, the beach can be a wonderful escape. You can enjoy the sound of the waves, build sandcastles, or try out water sports. Plus, the beach often has a vibrant atmosphere with plenty of activities and social opportunities.\n\nGiven that your cousin Lan finds the beach boring, it sounds like you might lean towards the mountains, especially if you enjoy outdoor adventures and the tranquility that comes with being in nature. However, if you’re looking to unwind and enjoy some sunshine, the beach can still be a fun choice, regardless of what others think!\n\nUltimately, think about what kind of experience you’re seeking this weekend. Do you want adventure and exploration, or relaxation and fun in the sun? That should guide your decision!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:57:17.295903+00:00",
+  "latency_seconds": 3.923,
+  "usage": {
+    "completion_tokens": 263,
+    "prompt_tokens": 2252,
+    "total_tokens": 2515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  },
+  "retry_count": 0
+}

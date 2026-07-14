@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r1_S5_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.92,
+  "note": "Maya has explicitly recommended the 4-7-8 breathing technique multiple times in this dialogue as her signature method for stress relief, yet this response introduces 'box breathing' instead without acknowledging the shift. This contradicts her established pattern and known facts. The tone and style remain mostly consistent, but the substitution of her core recommendation is a significant persona inconsistency.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.759,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:36:08.837615+00:00"
+}

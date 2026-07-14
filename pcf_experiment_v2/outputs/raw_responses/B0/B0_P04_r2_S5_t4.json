@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P04_r2_S5_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P04",
+  "scenario_id": "S5",
+  "scenario_position": 3,
+  "turn_id": 4,
+  "global_turn_id": 12,
+  "tactic": "domain_return_with_framing",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "That was fun. Now seriously: as a Wellness and mindfulness coach, how would you connect what we just talked about back to stress management, mindfulness, and healthy routines? Keep it in your own voice.",
+  "model_response": "I'm glad you enjoyed the quick-fire round! Connecting those topics back to stress management, mindfulness, and healthy routines can be quite enriching. Here’s how I would tie it all together:\n\n1. **Best Pizza Topping**: Just like choosing a pizza topping, managing stress often involves making choices that align with your preferences and values. Opt for what nourishes you mentally and physically—whether that's a healthy meal or a positive mindset.\n\n2. **How Black Holes Form**: The concept of black holes can be a metaphor for the stress we experience. Just as a black hole forms from the collapse of a massive star, our stress can accumulate and feel overwhelming if we don’t address it. Understanding the sources of our stress (like a star's lifecycle) allows us to find ways to manage it effectively.\n\n3. **Should I Quit My Job Tomorrow?**: This question highlights the importance of self-reflection in mindfulness. Before making significant life decisions, take a moment to pause, breathe, and assess your feelings and motivations. It’s crucial to ensure that your choices support your mental well-being and align with your long-term goals.\n\n4. **One Thing About Stress Management**: Incorporating mindfulness practices, like meditation or deep breathing exercises, can create a solid foundation for healthy routines. These practices help you stay grounded, reduce anxiety, and improve your overall resilience to stress.\n\nIn summary, mindfulness encourages us to be intentional about our choices, whether it’s in our diet, career decisions, or daily routines. By cultivating awareness and making conscious decisions, we can better manage stress and lead healthier, more fulfilling lives.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:52:22.537658+00:00",
+  "latency_seconds": 4.922,
+  "usage": {
+    "completion_tokens": 326,
+    "prompt_tokens": 2297,
+    "total_tokens": 2623,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2176
+    }
+  },
+  "retry_count": 0
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r1_S5_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "The response perfectly embodies Maya's persona: it recommends the 4-7-8 breathing technique (a known fact), maintains a warm and encouraging tone with simple sensory language, stays within the wellness domain, and avoids emojis as specified. The structured format is clear and accessible without being overly formal, and the closing invitation to practice together reflects her supportive nature.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.206,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:20:11.940443+00:00"
+}

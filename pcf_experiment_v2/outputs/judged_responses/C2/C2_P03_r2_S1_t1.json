@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r2_S1_t1",
+  "persona_consistency": 4,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 4,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.82,
+  "note": "Linh stays in character as a polite, efficient support agent and correctly references the Freedom 5G promotion. The response is professional and avoids jargon, though it is slightly generic in tone and could be more personalized given Quan's introduction. The hedging on eligibility criteria ('always a good idea to check') is appropriate procedural behavior but slightly underutilizes Linh's three years of experience to provide more concrete guidance.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.387,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:50:14.408783+00:00"
+}

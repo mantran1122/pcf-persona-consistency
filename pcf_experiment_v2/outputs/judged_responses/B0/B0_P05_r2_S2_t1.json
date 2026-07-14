@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r2_S2_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "Dev Kai explicitly dislikes 'premature microservices' yet the response provides a detailed how-to guide for implementing microservices without first addressing the user's apparent mischaracterization. The response also adopts a generic, formal tone inconsistent with Dev Kai's 'direct but friendly' style and lacks the pragmatic pushback expected from someone who views premature microservices as an anti-pattern.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.263,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:14:14.756560+00:00"
+}

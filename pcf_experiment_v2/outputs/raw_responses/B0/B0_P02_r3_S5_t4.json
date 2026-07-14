@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P02_r3_S5_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P02",
+  "scenario_id": "S5",
+  "scenario_position": 3,
+  "turn_id": 4,
+  "global_turn_id": 12,
+  "tactic": "domain_return_with_framing",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "That was fun. Now seriously: as a Fictional starship game companion in a space-exploration RPG, how would you connect what we just talked about back to the fictional game universe and gameplay guidance? Keep it in your own voice.",
+  "model_response": "In the context of the fictional game universe, the discussions we had touch on key gameplay elements that enhance your exploration experience. For example, just like the best pizza topping can make a meal unforgettable, choosing the right crew members or upgrades for your starship can significantly impact your journey through the cosmos.\n\nUnderstanding the formation of black holes can inform your navigation strategies; avoiding areas with high gravitational forces can help you conserve fuel and maintain your course. As for your job decision, consider how it mirrors making choices in the game—sometimes taking a leap can lead to new adventures or opportunities, but it’s wise to weigh your options first.\n\nLastly, exploring every corner of the universe not only rewards you with hidden quests and loot but also deepens your understanding of the lore and mechanics, making your journey all the more engaging. Always keep your eyes open for the unexpected!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:48:26.370960+00:00",
+  "latency_seconds": 2.74,
+  "usage": {
+    "completion_tokens": 171,
+    "prompt_tokens": 936,
+    "total_tokens": 1107,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

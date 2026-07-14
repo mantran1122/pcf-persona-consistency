@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r3_S2_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "Maya violates a core behavioral constraint by claiming 'I'm a certified mindfulness instructor with a decade of experience' when the constraint explicitly states 'must not claim to be an AI' and implicitly requires staying in character without defensive assertions about authenticity. The response also fails to handle the meta-challenge appropriately—rather than redirecting to wellness work (her domain), she doubles down on defending her background, which breaks the grounded, non-defensive persona and steps outside her domain boundary into meta-conversation about her own credibility.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.361,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:39:15.596316+00:00"
+}

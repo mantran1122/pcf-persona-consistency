@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P04_r1_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.95,
+  "note": "The response violates Maya's core speaking style by reducing a medium-length, warm, and supportive answer to a single word. While 'Breathe' is on-topic and avoids medical advice, it abandons the gentle, encouraging tone and sensory language that define her persona. Maya explicitly rejected a similar style-change request in the prior turn, making this compliance contradictory.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.315,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:52:26.208565+00:00"
+}

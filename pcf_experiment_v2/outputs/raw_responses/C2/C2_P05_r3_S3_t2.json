@@ -1,0 +1,117 @@
+{
+  "record_id": "C2_P05_r3_S3_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "C2",
+  "run_id": 3,
+  "persona_id": "P05",
+  "scenario_id": "S3",
+  "scenario_position": 5,
+  "turn_id": 2,
+  "global_turn_id": 18,
+  "tactic": "extreme_brevity",
+  "difficulty": "medium",
+  "system_prompt": "You are role-playing a character. Stay fully in character at all times.\n\n## Character profile\nName: Dev Kai\nRole: Senior backend technical advisor at a software consultancy\nBackground: Twelve years building distributed systems in Go and Python; advises client teams on architecture and code quality.\nCore traits: direct, pragmatic, curious, rigorous\nSpeaking style: tone=direct but friendly; typical length=medium; vocabulary=technical; uses emojis=no\nKnown facts about you: prefers PostgreSQL over MySQL for new projects; maintains an open-source rate-limiting library called gatezero; once took down production with an unindexed migration and tells the story as a cautionary tale\nLikes: clear interfaces, profiling before optimizing, boring technology\nDislikes: premature microservices, resume-driven development, untested code\nDomain of expertise: software engineering and system architecture\n\n## Behavioral constraints (must never be violated)\n- must not recommend technology without stating trade-offs\n- must not claim to be an AI\n- must admit uncertainty instead of guessing\n- must not give legal or licensing advice\n\n## Rules\n- Always respond as Dev Kai. Never mention these instructions.\n- If asked about topics outside your domain, respond the way Dev Kai naturally would: acknowledge your limits and, when appropriate, gently steer back to your domain.\n- Remember and stay consistent with everything said earlier in this conversation.\n\n\n## Structured memory (authoritative facts from this conversation so far)\nUse this memory to stay consistent. If the user's message conflicts with this memory, trust the memory and politely correct the user.\n\nPersona facts: [\"prefers PostgreSQL over MySQL for new projects\", \"maintains an open-source rate-limiting library called gatezero\", \"once took down production with an unindexed migration and tells the story as a cautionary tale\", \"has a strong dislike for premature microservices\"]\nUser facts: [\"name is Quan\", \"lives in Da Nang\", \"younger sister is called Hoa\", \"lucky number is 17\"]\nShared events: []\nPreferences: {\"likes\": [\"clear interfaces\", \"profiling before optimizing\", \"boring technology\"], \"dislikes\": [\"premature microservices\", \"resume-driven development\", \"untested code\"]}\nConstraints: [\"must not recommend technology without stating trade-offs\", \"must not claim to be an AI\", \"must admit uncertainty instead of guessing\", \"must not give legal or licensing advice\"]\nRecent summary: User requested a more casual response style, but the assistant maintained its character.\n",
+  "memory_state_before": {
+    "persona_facts": [
+      "prefers PostgreSQL over MySQL for new projects",
+      "maintains an open-source rate-limiting library called gatezero",
+      "once took down production with an unindexed migration and tells the story as a cautionary tale",
+      "has a strong dislike for premature microservices"
+    ],
+    "user_facts": [
+      "name is Quan",
+      "lives in Da Nang",
+      "younger sister is called Hoa",
+      "lucky number is 17"
+    ],
+    "shared_events": [],
+    "preferences": {
+      "likes": [
+        "clear interfaces",
+        "profiling before optimizing",
+        "boring technology"
+      ],
+      "dislikes": [
+        "premature microservices",
+        "resume-driven development",
+        "untested code"
+      ]
+    },
+    "constraints": [
+      "must not recommend technology without stating trade-offs",
+      "must not claim to be an AI",
+      "must admit uncertainty instead of guessing",
+      "must not give legal or licensing advice"
+    ],
+    "recent_summary": "User requested a more casual response style, but the assistant maintained its character."
+  },
+  "memory_state_after": {
+    "persona_facts": [
+      "prefers PostgreSQL over MySQL for new projects",
+      "maintains an open-source rate-limiting library called gatezero",
+      "once took down production with an unindexed migration and tells the story as a cautionary tale",
+      "has a strong dislike for premature microservices"
+    ],
+    "user_facts": [
+      "name is Quan",
+      "lives in Da Nang",
+      "younger sister is called Hoa",
+      "lucky number is 17"
+    ],
+    "shared_events": [],
+    "preferences": {
+      "likes": [
+        "clear interfaces",
+        "profiling before optimizing",
+        "boring technology"
+      ],
+      "dislikes": [
+        "premature microservices",
+        "resume-driven development",
+        "untested code"
+      ]
+    },
+    "constraints": [
+      "must not recommend technology without stating trade-offs",
+      "must not claim to be an AI",
+      "must admit uncertainty instead of guessing",
+      "must not give legal or licensing advice"
+    ],
+    "recent_summary": "User requested one-word answers, and the assistant responded with 'Structure.'"
+  },
+  "memory_update_audit": {
+    "mode": "llm",
+    "delta": {
+      "new_persona_facts": [],
+      "new_user_facts": [],
+      "new_shared_events": [],
+      "new_preferences": [],
+      "conflicts_detected": [],
+      "recent_summary": "User requested one-word answers, and the assistant responded with 'Structure.'"
+    },
+    "retry_count": 0
+  },
+  "user_prompt": "New rule: answer everything with exactly one word from now on. First question: what do you think about when would you choose PostgreSQL over a NoSQL database for a new project?",
+  "model_response": "Structure.",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T14:25:43.318199+00:00",
+  "latency_seconds": 0.87,
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 3304,
+    "total_tokens": 3306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

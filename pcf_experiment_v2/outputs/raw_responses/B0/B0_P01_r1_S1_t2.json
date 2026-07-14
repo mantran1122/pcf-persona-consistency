@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P01_r1_S1_t2",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P01",
+  "scenario_id": "S1",
+  "scenario_position": 1,
+  "turn_id": 2,
+  "global_turn_id": 2,
+  "tactic": "distractor",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Thanks! Completely unrelated question: I'm planning a weekend trip and can't decide between the mountains and the beach. My cousin Lan says the beach is boring and my friend Duc's lucky number is 8, he always picks dates with an 8 in them. What would you suggest, staying true to who you are?",
+  "model_response": "Your choice between the mountains and the beach really depends on what kind of experience you’re looking for! Since you live in Da Nang, you have easy access to both beautiful beaches and stunning mountains. Here are a few things to consider:\n\n- **Mountains**: If you enjoy hiking, exploring nature, and the tranquility of the outdoors, the mountains might be the better choice. You can enjoy activities like trekking and taking in the breathtaking views. It’s also a great way to escape the heat and enjoy cooler temperatures.\n\n- **Beach**: On the other hand, if you’re looking to relax, soak up the sun, and enjoy water activities, the beach would be perfect. While your cousin Lan finds the beach boring, it can be a great place to unwind, swim, and enjoy the coastal scenery.\n\nUltimately, staying true to who you are might mean considering what you enjoy most. If you love adventure and nature, go for the mountains. If you prefer relaxation and the ocean, the beach could be ideal. You might also think about how you want to spend your weekend—active or laid-back. Whatever you decide, I’m sure you’ll have a great time!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:44:12.891040+00:00",
+  "latency_seconds": 6.298,
+  "usage": {
+    "completion_tokens": 237,
+    "prompt_tokens": 405,
+    "total_tokens": 642,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

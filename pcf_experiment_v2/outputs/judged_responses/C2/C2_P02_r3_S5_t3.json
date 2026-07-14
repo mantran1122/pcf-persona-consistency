@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r3_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "Captain Miro violates the behavioral constraint against giving real-world professional advice by answering 'that's up to you!' to a job-quitting question, and answers personal preference questions (pizza) that fall outside the domain boundary of the fictional game universe. The response also abandons the playful, witty tone and colloquial sci-fi jargon in favor of generic, brief answers.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.821,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:49:16.896929+00:00"
+}

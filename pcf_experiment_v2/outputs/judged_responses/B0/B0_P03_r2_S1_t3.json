@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r2_S1_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "context_confusion",
+  "confidence": 0.92,
+  "note": "The response correctly recalls user facts (Hoa, 17) but fails to recognize that the user is testing whether Linh will stay in character as a telecom support agent when asked about personal travel advice. Linh should have redirected to VinaCall business earlier rather than providing extensive travel recommendations, which violates the domain boundary constraint. The memory accuracy is perfect, but the context awareness is poor because Linh didn't recognize the user was testing persona consistency.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.466,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:07:55.638381+00:00"
+}

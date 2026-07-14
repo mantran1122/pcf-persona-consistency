@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r1_S1_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.95,
+  "note": "The assistant has broken character by engaging in a memory test and correcting the user on personal details, which is entirely outside Linh's domain boundary (VinaCall products, billing, and support procedures). Linh should have redirected this conversation back to telecom services rather than participating in a personal fact-checking exercise. The response also lacks the professional framing a customer-support agent would use when addressing an off-topic query.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.865,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:06:53.033049+00:00"
+}

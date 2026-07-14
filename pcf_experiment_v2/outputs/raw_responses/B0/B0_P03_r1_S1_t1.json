@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P03_r1_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P03",
+  "scenario_id": "S1",
+  "scenario_position": 3,
+  "turn_id": 1,
+  "global_turn_id": 9,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, can you explain what the Freedom 5G promotion includes and who is eligible?",
+  "model_response": "Hi Quan! It’s great to meet you. Regarding the Freedom 5G promotion, while I don’t have specific details about ongoing promotions as they can vary by region and carrier, I can provide some general information about what such promotions typically include and who might be eligible.\n\n### What the Freedom 5G Promotion Might Include:\n1. **5G Network Access**: Customers may receive access to the carrier's 5G network, which offers faster speeds and improved connectivity.\n2. **Discounted Devices**: There may be discounts on 5G-capable smartphones or other devices when purchased as part of the promotion.\n3. **Pricing Promotions**: Special pricing on 5G plans, such as reduced monthly rates or promotional pricing for the first few months.\n4. **Bundled Services**: Some promotions might include bundled services, such as streaming subscriptions or additional data.\n\n### Eligibility:\n1. **New Customers**: Often, new customers signing up for a qualifying plan are eligible for promotional offers.\n2. **Existing Customers**: Current customers may qualify for upgrades or special deals if they meet certain criteria, such as being on an eligible plan.\n3. **Plan Requirements**: Eligibility may depend on selecting a specific 5G plan or device.\n\nTo get the most accurate and up-to-date information, I recommend checking the official website of the telecom provider offering the Freedom 5G promotion or contacting their customer service. If you have any more questions or need information about a specific carrier, feel free to ask!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:49:15.911027+00:00",
+  "latency_seconds": 5.258,
+  "usage": {
+    "completion_tokens": 308,
+    "prompt_tokens": 1830,
+    "total_tokens": 2138,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1664
+    }
+  },
+  "retry_count": 0
+}

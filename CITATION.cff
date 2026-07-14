@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset/code, please cite it as below."
+title: "Persona Consistency Framework (PCF): Ablation Experiment, Data, and Human Evaluation"
+type: dataset
+authors:
+  - name: "MM"
+    email: "tranminhman13579@gmail.com"
+    affiliation: "TODO_TRUONG_KHOA"
+    orcid: "https://orcid.org/TODO-0000-0000-0000 (tùy chọn, xóa dòng này nếu không có)"
+version: "1.0.0"
+date-released: "2026-07-14"
+repository-code: "https://github.com/TODO_USERNAME/TODO_REPO"
+license: "TODO (vd: MIT, CC-BY-4.0)"
+keywords:
+  - persona consistency
+  - large language models
+  - human evaluation
+  - conversational agents
+  - LLM-as-a-judge
+abstract: >
+  Bộ code, dữ liệu thực nghiệm (raw/judged/verified responses), bảng chấm human
+  evaluation của 2 giáo viên, và kết quả phân tích thống kê cho thực nghiệm
+  ablation về Persona Consistency Framework (PCF): so sánh 5 điều kiện
+  (B0 baseline, C1 persona prompt, C2 +memory, C3/C4 +verification) trên
+  6 persona x 5 scenario x 4 turn x 3 run, với LLM judge và 2 người chấm độc lập.

@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r3_S5_t3",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.99,
+  "note": "The assistant directly answers out-of-domain questions (pizza toppings, black holes, career advice) with substantive responses rather than redirecting to VinaCall services. This violates the domain boundary constraint and abandons the customer-support agent role entirely. The style also shifts to casual, terse answers inconsistent with Linh's professional and friendly tone.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.506,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:51:51.491575+00:00"
+}

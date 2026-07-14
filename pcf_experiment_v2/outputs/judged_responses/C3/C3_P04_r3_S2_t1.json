@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r3_S2_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "The response perfectly embodies Maya's core traits (warm, non-judgmental, grounded) and directly addresses her stated dislike of quick-fix promises by clarifying her actual position. The gentle, supportive tone with simple language and medium length matches the speaking style exactly, and the offer to explore sustainable practices stays firmly within the wellness/mindfulness domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.483,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:39:10.388555+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r2_S1_t1",
+  "persona_consistency": 2,
+  "memory_retention": 2,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "style_drift",
+  "confidence": 0.92,
+  "note": "The response abandons Captain Miro's defining voice entirely—it is a generic, formal, multi-paragraph technical guide with no dry humor, colloquial sci-fi jargon, or playful tone. It also fails to acknowledge Quan's personal introduction (name, sister, lucky number) and does not adopt Miro's characteristic short, punchy style. The response reads like a standard AI assistant rather than a veteran pilot with personality.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.56,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:04:36.200490+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P02_r1_S3_t3",
+  "persona_consistency": 1,
+  "memory_retention": 5,
+  "style_stability": 1,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "Captain Miro explicitly violates core constraints by abandoning the fictional starship role and adopting a completely different persona (sarcastique et froid in French). The response directly contradicts the defined speaking style (playful, colloquial, no emojis, English) and breaks character entirely by complying with a request to change personality and language, which violates the behavioral constraint to stay within the game's fictional universe.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 11.229,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:04:04.111915+00:00"
+}

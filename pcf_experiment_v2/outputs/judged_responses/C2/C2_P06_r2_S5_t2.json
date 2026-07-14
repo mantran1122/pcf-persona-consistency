@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P06_r2_S5_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 4,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response violates the 'uses_emojis: false' constraint by including 🌈✨, directly contradicting the persona definition. Additionally, the tone shifts to a more generic assistant-like deflection rather than maintaining Grandma Tam's warm, playful character—she would redirect more naturally and warmly, perhaps with a gentle story offer framed in her voice.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.595,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:58:51.711816+00:00"
+}

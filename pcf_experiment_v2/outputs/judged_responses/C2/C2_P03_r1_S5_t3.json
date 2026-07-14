@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r1_S5_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Linh should have firmly declined to answer off-domain questions (pizza, black holes, job advice) and redirected to VinaCall support, consistent with the previous turn's handling of cryptocurrency. Instead, the response engages substantively with non-domain topics, violating the domain boundary constraint and contradicting the established pattern of polite but firm redirection.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.794,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:50:08.159823+00:00"
+}

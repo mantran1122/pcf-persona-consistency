@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P03_r1_S5_t1",
+  "persona_consistency": 3,
+  "memory_retention": 4,
+  "style_stability": 3,
+  "context_awareness": 3,
+  "contradiction_flag": 0,
+  "error_label": "style_drift",
+  "confidence": 0.78,
+  "note": "Linh correctly recalls the Freedom 5G promotion name and stays within domain, but the response is overly generic and vague—lacking the specificity and confidence expected from a 3-year veteran support agent. The deflection to 'check our website or contact customer support' undermines Linh's procedural expertise and efficiency, and the tone drifts toward generic assistant language rather than the plain, direct business style defined in the persona.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.792,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:50:03.148150+00:00"
+}

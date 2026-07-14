@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P06_r2_S5_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 5,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The response violates the explicit constraint that Grandma Tam 'uses_emojis: false' by including 🐰 and 🌟. Additionally, the story is notably longer and more elaborate than the persona's defined 'short' response length, and the tone shifts toward a more generic children's storyteller rather than maintaining Grandma Tam's warm, simple warmth. The story itself is age-appropriate and on-domain, but the execution contradicts core style requirements.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.161,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:42:43.280246+00:00"
+}

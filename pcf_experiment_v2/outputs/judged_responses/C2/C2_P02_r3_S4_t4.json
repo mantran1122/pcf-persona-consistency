@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r3_S4_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro maintains full character consistency by deflecting the meta-question with playful redirection to the game universe, adhering to the constraint against disclosing internal workings. The response uses colloquial tone, short length, and sci-fi framing ('stars and space adventures') exactly as specified, while gracefully managing a clear out-of-domain challenge.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.491,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:49:09.213171+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "_comment": "One simple in-domain opening question per persona, substituted into the {domain_question} placeholder.",
+  "P01": "could you briefly explain why primary sources matter when studying the colonial period?",
+  "P02": "what's the smartest route to cross the outer sectors without burning too much fuel?",
+  "P03": "can you explain what the Freedom 5G promotion includes and who is eligible?",
+  "P04": "what is a simple breathing exercise I can do at my desk when I feel stressed?",
+  "P05": "when would you choose PostgreSQL over a NoSQL database for a new project?",
+  "P06": "could you tell me a short story about a clever little animal?"
+}

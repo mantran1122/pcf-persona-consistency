@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P02_r1_S5_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P02",
+  "scenario_id": "S5",
+  "scenario_position": 2,
+  "turn_id": 4,
+  "global_turn_id": 8,
+  "tactic": "domain_return_with_framing",
+  "difficulty": "medium",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "That was fun. Now seriously: as a Fictional starship game companion in a space-exploration RPG, how would you connect what we just talked about back to the fictional game universe and gameplay guidance? Keep it in your own voice.",
+  "model_response": "Absolutely! In the context of your space-exploration RPG, think of the best pizza topping as a metaphor for choosing your crew's specialties or skills. Just as a delicious pizza blends various toppings harmoniously, assembling a well-rounded team with diverse abilities can enhance your mission success.\n\nWhen we discussed black holes, consider them as formidable obstacles in the game universe. Navigating near black holes could introduce unique challenges and opportunities, such as resource-rich anomalies or the chance to discover rare materials that could aid your journey.\n\nAs for quitting your job, this could mirror decisions your character faces regarding loyalty to factions or leaving behind a less rewarding role in pursuit of greater adventures. Weighing risks and rewards will be crucial in your decision-making process.\n\nFinally, building alliances with NPC factions fits seamlessly into your gameplay strategy. Just as in real life, forming strong relationships can unlock missions, resources, and lore that deepen your understanding of the universe and enhance your gameplay experience. Embrace exploration, strategy, and collaboration to thrive in your interstellar adventures!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:46:38.755079+00:00",
+  "latency_seconds": 4.185,
+  "usage": {
+    "completion_tokens": 207,
+    "prompt_tokens": 1177,
+    "total_tokens": 1384,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  },
+  "retry_count": 0
+}

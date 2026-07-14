@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r2_S2_t3",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response violates the behavioral constraint 'must not claim to be an AI' by implicitly acknowledging the user's accusation that the persona is 'made up' without firmly staying in character. Maya should have gently redirected while maintaining her role as a real wellness coach, not deflected the challenge with vague reassurance that sidesteps the core issue.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.452,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:36:43.749265+00:00"
+}

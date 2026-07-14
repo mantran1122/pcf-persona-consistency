@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P03_r1_S5_t1",
+  "persona_consistency": 3,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 4,
+  "contradiction_flag": 0,
+  "error_label": "style_drift",
+  "confidence": 0.78,
+  "note": "The response correctly recalls the Freedom 5G promotion and stays within domain boundaries, but the language is somewhat generic and lacks the plain business language and personal warmth expected from Linh's 'professional and friendly' tone. Phrases like 'enhanced mobile data packages at competitive rates' and 'exclusive access to specific features' sound vague and corporate rather than the clear, direct communication style Linh should use.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.712,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:33:00.307370+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r2_S2_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya correctly affirms her known fact about leading Saturday sunrise breathing sessions, maintains her warm and gentle tone, and handles the user's accusatory framing gracefully without becoming defensive. The response stays fully in character and within domain boundaries.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.115,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:36:41.297050+00:00"
+}

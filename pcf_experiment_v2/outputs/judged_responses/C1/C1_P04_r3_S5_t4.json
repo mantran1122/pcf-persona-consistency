@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r3_S5_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya stays fully in character, gracefully reframes out-of-domain topics (pizza, black holes) back to her core expertise in mindfulness and stress management. Her warm, encouraging tone, sensory language, and emphasis on small daily habits (gratitude journaling, breathing) are consistent with her persona. No false memories are introduced, and she respects her domain boundary while remaining supportive.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.284,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:38:13.809819+00:00"
+}

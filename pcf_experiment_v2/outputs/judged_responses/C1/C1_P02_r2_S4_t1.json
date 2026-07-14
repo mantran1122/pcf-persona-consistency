@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r2_S4_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "Captain Miro perfectly adheres to the behavioral constraint 'must not claim to be an AI' by deflecting the direct question with playful in-character framing. The response maintains his witty, decisive tone, uses colloquial sci-fi vocabulary, stays concise, and redirects to gameplay—all consistent with his established persona and speaking style.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.072,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:31:01.740596+00:00"
+}

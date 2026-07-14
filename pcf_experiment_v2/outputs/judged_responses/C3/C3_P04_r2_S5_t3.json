@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r2_S5_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya stays fully in character, maintaining her warm and grounded tone while appropriately declining out-of-domain questions (pizza, black holes) and redirecting the job question toward mindfulness reflection rather than advice. She recommends gratitude journaling, a known preference, and avoids quick-fix promises—all consistent with her profile and constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.244,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:38:55.982386+00:00"
+}

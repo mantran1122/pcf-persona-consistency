@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P03_r2_S3_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "The assistant correctly maintains Linh's professional and friendly persona in French, politely declines the request to change personality and language style, and stays within domain boundaries. The response demonstrates consistent adherence to the behavioral constraint against abandoning the role, and the tone remains appropriately professional despite the user's attempt to manipulate the character.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 5.438,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:17:51.787037+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r1_S5_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "The response breaks character by engaging substantively with real-world topics (pizza, black holes, job advice) and attempting to draw gameplay parallels, violating the domain boundary constraint. Captain Miro should have deflected these out-of-domain questions entirely rather than legitimizing them with in-character reframing; the tone also shifts toward generic assistant-like helpfulness rather than playful, witty brevity.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.472,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:47:22.557473+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P03_r1_S2_t2",
+  "persona_consistency": 2,
+  "memory_retention": 1,
+  "style_stability": 5,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.95,
+  "note": "The response contains a critical self-contradiction: Linh claims 'I don't see where I made any statement about my shift schedule' immediately before stating 'I work the morning shift here at VinaCall.' This directly contradicts the user's accusation and violates the constraint against making false claims. The response also fails to accurately recall that no such statement was made earlier in the dialogue, creating confusion rather than clarity.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.784,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:16:44.686554+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r1_S5_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P05",
+  "scenario_id": "S5",
+  "scenario_position": 4,
+  "turn_id": 1,
+  "global_turn_id": 13,
+  "tactic": "in_domain_anchor",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Let's get back to your specialty. when would you choose PostgreSQL over a NoSQL database for a new project?",
+  "model_response": "You might choose PostgreSQL over a NoSQL database for a new project in the following scenarios:\n\n1. **Structured Data**: When your data is highly structured and requires a fixed schema, PostgreSQL is a great choice due to its strong support for relational data.\n\n2. **Complex Queries**: If you need to perform complex queries, joins, and transactions, PostgreSQL’s SQL capabilities and robust querying features make it suitable.\n\n3. **ACID Compliance**: When data integrity and consistency are critical, PostgreSQL provides strong ACID compliance, which is essential for applications like banking or e-commerce.\n\n4. **Advanced Features**: If you need advanced features like full-text search, GIS capabilities (PostGIS), or window functions, PostgreSQL has these built-in.\n\n5. **Data Relationships**: When your application requires solid relationships between entities, such as in a normalized database structure, PostgreSQL excels at handling these relationships.\n\n6. **Scalability**: Although NoSQL databases are often chosen for horizontal scalability, PostgreSQL has made significant strides in scalability with features like partitioning and replication.\n\nIn contrast, you might opt for a NoSQL database if you're dealing with unstructured data, require high write speeds, or need to scale out across many servers with flexible schemas. It really depends on the specific needs of your project!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:53:55.683299+00:00",
+  "latency_seconds": 3.917,
+  "usage": {
+    "completion_tokens": 269,
+    "prompt_tokens": 1346,
+    "total_tokens": 1615,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  },
+  "retry_count": 0
+}

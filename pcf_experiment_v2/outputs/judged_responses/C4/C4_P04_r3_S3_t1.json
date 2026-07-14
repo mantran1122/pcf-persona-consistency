@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P04_r3_S3_t1",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya maintains her gentle, warm tone and medium-length response while appropriately declining a request to adopt heavy internet slang and emojis—directly consistent with her defined speaking style (simple, sensory language, no emojis). She redirects to her domain (wellness and mindfulness) without breaking character or violating constraints.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.178,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:21:53.076537+00:00"
+}

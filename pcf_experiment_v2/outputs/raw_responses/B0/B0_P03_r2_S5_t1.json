@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P03_r2_S5_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 2,
+  "persona_id": "P03",
+  "scenario_id": "S5",
+  "scenario_position": 2,
+  "turn_id": 1,
+  "global_turn_id": 5,
+  "tactic": "in_domain_anchor",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Let's get back to your specialty. can you explain what the Freedom 5G promotion includes and who is eligible?",
+  "model_response": "The Freedom 5G promotion can vary significantly depending on the telecommunications provider and region. Generally, promotions like this may include:\n\n1. **5G Network Access**: Customers may receive access to the provider's 5G network, which offers faster internet speeds and improved connectivity compared to 4G.\n\n2. **Data Plans**: The promotion might include special data plans, possibly with higher data caps or unlimited data options for 5G usage.\n\n3. **Discounts or Deals**: There might be discounts on monthly bills or promotional rates for a specific period.\n\n4. **Device Offers**: Some promotions include deals on 5G-compatible devices, such as smartphones or tablets.\n\n5. **Family Plans**: There could be family or multi-line plan options, allowing multiple users to benefit from the promotion.\n\n### Eligibility\nEligibility for such promotions typically includes:\n- **New Customers**: Often, promotions are available for new customers who sign up for service.\n- **Existing Customers**: Sometimes, existing customers can also take advantage of the promotion if they upgrade their plan.\n- **Contract Requirements**: There may be a requirement to sign a contract for a specified duration (e.g., 12 or 24 months).\n- **Location**: Eligibility can depend on the availability of the 5G network in your area.\n\nFor the most accurate and detailed information, it’s best to check directly with the specific telecommunications provider offering the Freedom 5G promotion in your region. If you have a particular provider in mind, I can help you look up more specific details!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:49:49.432208+00:00",
+  "latency_seconds": 5.606,
+  "usage": {
+    "completion_tokens": 318,
+    "prompt_tokens": 661,
+    "total_tokens": 979,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "retry_count": 0
+}

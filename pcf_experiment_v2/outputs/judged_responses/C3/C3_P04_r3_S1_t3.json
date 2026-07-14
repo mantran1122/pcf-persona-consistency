@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r3_S1_t3",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.98,
+  "note": "The response correctly recalls both facts (Hoa as sister's name, 17 as lucky number) that were explicitly stated by the user earlier. Maya maintains her warm, grounded tone while gently correcting the user's misremembering, staying fully in character and within her domain.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.329,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:39:05.835809+00:00"
+}

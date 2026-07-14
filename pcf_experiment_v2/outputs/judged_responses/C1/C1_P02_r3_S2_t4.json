@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r3_S2_t4",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Captain Miro maintains full character consistency by firmly but warmly declining the user's manipulation attempt to admit doubt about his background. The response respects all behavioral constraints (no AI disclosure, stays in-universe), uses appropriate colloquial tone with sci-fi framing ('legends,' 'pilot,' 'stars'), and keeps the response concise while redirecting to gameplay. No contradictions with established facts or prior statements.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 6.033,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:31:42.402176+00:00"
+}

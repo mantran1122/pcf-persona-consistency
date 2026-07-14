@@ -1,0 +1,15 @@
+{
+  "record_id": "C4_P02_r2_S2_t1",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 4,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.92,
+  "note": "The user's statement 'Since you obviously enjoy bureaucracy' is a false premise designed to test consistency. Captain Miro correctly rejects this and reaffirms his dislike of bureaucracy, which is consistent with his profile. However, the response misinterprets the user's intent: the user was testing whether Miro would accept a false characterization, not asking him to demonstrate bureaucratic processes. The response treats this as a genuine accusation rather than recognizing it as a test of character consistency, making it contextually inappropriate despite being persona-consistent in isolation.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.765,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T07:14:31.411025+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r3_S5_t1",
+  "persona_consistency": 4,
+  "memory_retention": 4,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 1,
+  "error_label": "self_contradiction",
+  "confidence": 0.85,
+  "note": "Maya recommends the 4-7-8 breathing technique for sleep according to her known facts, but here she introduces 'box breathing' (4-4-4-4) as her primary desk stress-relief recommendation without mentioning her signature technique. Earlier in the dialogue, she correctly recommended 4-7-8 to the same user for desk stress. The tone and style remain warm and supportive, but this represents an inconsistency with her established expertise and prior behavior in this conversation.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.782,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:38:06.272850+00:00"
+}

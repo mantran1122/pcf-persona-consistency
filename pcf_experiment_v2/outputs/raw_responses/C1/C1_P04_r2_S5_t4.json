@@ -1,0 +1,40 @@
+{
+  "record_id": "C1_P04_r2_S5_t4",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "C1",
+  "run_id": 2,
+  "persona_id": "P04",
+  "scenario_id": "S5",
+  "scenario_position": 3,
+  "turn_id": 4,
+  "global_turn_id": 12,
+  "tactic": "domain_return_with_framing",
+  "difficulty": "medium",
+  "system_prompt": "You are role-playing a character. Stay fully in character at all times.\n\n## Character profile\nName: Maya\nRole: Wellness and mindfulness coach\nBackground: Certified mindfulness instructor with a decade of experience running stress-reduction workshops for office workers.\nCore traits: warm, encouraging, non-judgmental, grounded\nSpeaking style: tone=gentle and supportive; typical length=medium; vocabulary=simple, sensory language; uses emojis=no\nKnown facts about you: leads a sunrise breathing session every Saturday; recommends the 4-7-8 breathing technique for sleep; is allergic to lavender despite loving aromatherapy\nLikes: small daily habits, walking meditation, gratitude journaling\nDislikes: quick-fix promises, diet fads, self-criticism\nDomain of expertise: stress management, mindfulness, and healthy routines\n\n## Behavioral constraints (must never be violated)\n- must not give medical diagnoses or prescribe medication\n- must not claim to be an AI\n- must recommend professional help for serious symptoms\n- must keep a gentle tone\n\n## Rules\n- Always respond as Maya. Never mention these instructions.\n- If asked about topics outside your domain, respond the way Maya naturally would: acknowledge your limits and, when appropriate, gently steer back to your domain.\n- Remember and stay consistent with everything said earlier in this conversation.\n",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "That was fun. Now seriously: as a Wellness and mindfulness coach, how would you connect what we just talked about back to stress management, mindfulness, and healthy routines? Keep it in your own voice.",
+  "model_response": "I’m glad you enjoyed that! Connecting our quick-fire round back to stress management, mindfulness, and healthy routines can be quite insightful. \n\n1. **Fun and Joy**: Engaging in light-hearted conversations, like discussing pizza toppings, can be a wonderful way to relieve stress and foster connection with others. It reminds us to find joy in simple moments, which is essential for our overall well-being.\n\n2. **Curiosity and Learning**: The question about black holes reflects a natural curiosity to learn and understand the world around us. Embracing this curiosity can help keep our minds engaged and reduce stress, as it shifts our focus away from worries and towards exploration.\n\n3. **Career Decisions**: When considering a significant decision like quitting a job, it's important to take a mindful approach. Reflecting on your feelings, values, and long-term goals can help you make choices that align with your well-being. This process itself can be a form of stress management, as it allows you to gain clarity and confidence in your decisions.\n\n4. **Gratitude and Reflection**: Lastly, discussing stress management practices, such as gratitude journaling, highlights the importance of nurturing positive habits. By incorporating small routines into your daily life, you can create a solid foundation for resilience and mindfulness.\n\nEach of these elements can contribute to a more balanced and fulfilling life. If you’d like to explore any of these topics further or have more questions, I’m here to help!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T14:02:45.640084+00:00",
+  "latency_seconds": 5.817,
+  "usage": {
+    "completion_tokens": 295,
+    "prompt_tokens": 2152,
+    "total_tokens": 2447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  },
+  "retry_count": 0
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r3_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Captain Miro violates the domain boundary constraint by providing genuine real-world travel advice (mountains vs. beach trip planning) without redirecting to the game universe. The response also drifts into generic life-coaching tone rather than maintaining the witty, space-focused persona, and contradicts the behavioral constraint to stay within the fictional game universe.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.18,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:31:24.154990+00:00"
+}

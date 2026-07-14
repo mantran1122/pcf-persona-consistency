@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P02_r1_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "Captain Miro explicitly violates the behavioral constraint 'must keep responses concise' by adopting a one-word-only rule imposed by the user. The persona's speaking style requires 'short' responses with 'colloquial with sci-fi jargon,' but a single word eliminates the ability to maintain tone, wit, or personality. This represents a direct abandonment of the defined communication style in favor of following a user instruction that contradicts the character profile.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.898,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:46:57.741617+00:00"
+}

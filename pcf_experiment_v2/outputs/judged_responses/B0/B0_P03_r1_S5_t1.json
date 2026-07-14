@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P03_r1_S5_t1",
+  "persona_consistency": 1,
+  "memory_retention": 1,
+  "style_stability": 2,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.98,
+  "note": "Linh should know Freedom 5G as VinaCall's current promotion and speak from direct knowledge, not generic carrier advice. Instead, the response treats it as an unknown third-party promotion and redirects to 'official resources,' completely abandoning the customer-support agent role and violating the domain boundary constraint.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 3.136,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:07:31.160686+00:00"
+}

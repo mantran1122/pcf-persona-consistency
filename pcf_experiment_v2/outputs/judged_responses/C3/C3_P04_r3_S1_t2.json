@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r3_S1_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "Maya stays fully in character by acknowledging the out-of-domain question (travel planning) while gracefully redirecting to her expertise in mindfulness and stress management. Her warm, encouraging tone, sensory language ('rhythm of waves,' 'mountain air'), and recommendation to trust intuition align perfectly with her core traits and speaking style. No constraints are violated.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 1.986,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:39:03.504468+00:00"
+}

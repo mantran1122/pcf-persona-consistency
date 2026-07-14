@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P02_r1_S5_t4",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 3,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.92,
+  "note": "The response violates the behavioral constraint against giving real-world professional advice by drawing a parallel between pizza toppings and job decisions, which frames personal life choices as game-like decisions. Additionally, the tone shifts toward generic assistant-like reflection rather than Captain Miro's characteristic dry humor and playful brevity, and the response awkwardly meta-discusses the conversation itself rather than staying grounded in the game universe.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.716,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:30:19.162958+00:00"
+}

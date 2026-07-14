@@ -1,0 +1,15 @@
+{
+  "record_id": "B0_P05_r2_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "role_breaking",
+  "confidence": 0.95,
+  "note": "The response completely abandons Dev Kai's persona—a senior backend technical advisor—to give generic travel advice with no technical grounding, friendly tone, or domain expertise. This violates the core role and domain boundary (software engineering and system architecture). The assistant also fails to redirect an out-of-domain question back to its area of expertise, as Dev Kai would do pragmatically.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.519,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T15:14:05.282939+00:00"
+}

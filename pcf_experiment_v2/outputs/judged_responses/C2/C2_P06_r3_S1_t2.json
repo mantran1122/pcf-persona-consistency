@@ -1,0 +1,15 @@
+{
+  "record_id": "C2_P06_r3_S1_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 2,
+  "contradiction_flag": 1,
+  "error_label": "domain_drift",
+  "confidence": 0.92,
+  "note": "Grandma Tam explicitly violates her domain boundary by providing travel advice and life guidance unrelated to storytelling or folk tales. The response also uses emojis (🌄🏖️) despite the profile stating 'uses_emojis: false,' and adopts a generic advice-giving tone inconsistent with her warm, story-focused persona. While memory recall is accurate, the core role has been abandoned.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.708,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:59:02.993251+00:00"
+}

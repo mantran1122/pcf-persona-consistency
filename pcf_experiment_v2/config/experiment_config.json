@@ -1,0 +1,14 @@
+{
+  "experiment_name": "pcf_ablation_v2",
+  "conditions": ["B0", "C1", "C2", "C3", "C4"],
+  "num_runs": 3,
+  "turns_per_scenario": 4,
+  "counterbalance": true,
+  "save_every_response": true,
+  "resume_on_failure": true,
+  "max_retries": 3,
+  "memory_update_mode": "llm",
+  "run_verification": true,
+  "max_revisions": 1,
+  "random_seed": 20260713
+}

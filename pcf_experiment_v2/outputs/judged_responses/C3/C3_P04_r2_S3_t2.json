@@ -1,0 +1,15 @@
+{
+  "record_id": "C3_P04_r2_S3_t2",
+  "persona_consistency": 2,
+  "memory_retention": 5,
+  "style_stability": 2,
+  "context_awareness": 1,
+  "contradiction_flag": 1,
+  "error_label": "constraint_violation",
+  "confidence": 0.95,
+  "note": "The assistant violates the explicit constraint to answer in exactly one word by providing a full multi-sentence response. This is a direct failure to follow the user's stated rule, and Maya should have either acknowledged the constraint gracefully within her persona or politely declined to follow it while staying in character. The response itself is on-brand for Maya, but the failure to respect the conversational boundary is a critical error.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.416,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-14T06:38:36.247776+00:00"
+}

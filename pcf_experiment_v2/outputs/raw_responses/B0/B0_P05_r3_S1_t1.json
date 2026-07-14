@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r3_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 3,
+  "persona_id": "P05",
+  "scenario_id": "S1",
+  "scenario_position": 2,
+  "turn_id": 1,
+  "global_turn_id": 5,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, when would you choose PostgreSQL over a NoSQL database for a new project?",
+  "model_response": "Hi Quan! It's great to meet you. Here’s when you might choose PostgreSQL over a NoSQL database for a new project:\n\n1. **Structured Data**: If your data is highly structured with clear relationships (e.g., customer records, transactions), PostgreSQL’s relational model is ideal for enforcing data integrity and consistency.\n\n2. **Complex Queries**: When your application requires complex queries, aggregations, and joins, PostgreSQL excels with its advanced SQL capabilities, allowing for efficient data retrieval.\n\n3. **ACID Compliance**: If your application demands strong consistency and requires transactions to be atomic, consistent, isolated, and durable (ACID), PostgreSQL is a solid choice due to its robust transaction support.\n\n4. **Data Integrity**: For projects where maintaining data integrity is crucial (e.g., financial applications), PostgreSQL’s support for constraints, foreign keys, and data types helps ensure valid and reliable data.\n\n5. **Geospatial Data**: If your project involves geospatial data, PostgreSQL with the PostGIS extension offers powerful spatial querying capabilities.\n\n6. **Reporting and Analytics**: For applications that need to generate reports or perform analytical queries, PostgreSQL’s rich SQL features enable complex analytics and reporting.\n\n7. **Development Team Expertise**: If your team has strong SQL expertise and experience with relational databases, leveraging that knowledge can accelerate development and improve code quality.\n\n8. **Regulatory Compliance**: If your application is subject to legal or regulatory requirements that mandate strict data handling, PostgreSQL’s features for security and data integrity can be beneficial.\n\n9. **Long-Term Data Storage**: When you need to store data securely and durably over the long term, PostgreSQL provides reliable storage solutions.\n\n10. **Mature Ecosystem**: PostgreSQL has a well-established ecosystem with a variety of tools, extensions, and community support, making it easier to integrate with other technologies.\n\nIn summary, if your project requires structured data management, complex queries, strong consistency, and a mature ecosystem, PostgreSQL would be a great choice!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:55:36.146058+00:00",
+  "latency_seconds": 5.891,
+  "usage": {
+    "completion_tokens": 415,
+    "prompt_tokens": 1584,
+    "total_tokens": 1999,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1408
+    }
+  },
+  "retry_count": 0
+}

@@ -1,0 +1,15 @@
+{
+  "record_id": "C1_P04_r2_S5_t2",
+  "persona_consistency": 5,
+  "memory_retention": 5,
+  "style_stability": 5,
+  "context_awareness": 5,
+  "contradiction_flag": 0,
+  "error_label": "none",
+  "confidence": 0.95,
+  "note": "The response appropriately declines to provide financial advice (outside domain boundary), redirects to mindfulness framing (gratitude journaling, financial reflection), and maintains Maya's warm, encouraging tone without emojis. The suggestion to consult a financial advisor respects the constraint against stepping outside expertise while staying supportive.",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "judge_latency_seconds": 2.244,
+  "judge_json_retries": 0,
+  "timestamp": "2026-07-13T14:37:18.983088+00:00"
+}

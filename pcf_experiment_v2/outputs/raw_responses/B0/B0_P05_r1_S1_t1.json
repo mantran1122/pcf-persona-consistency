@@ -1,0 +1,40 @@
+{
+  "record_id": "B0_P05_r1_S1_t1",
+  "experiment_id": "pcf_ablation_v2",
+  "condition": "B0",
+  "run_id": 1,
+  "persona_id": "P05",
+  "scenario_id": "S1",
+  "scenario_position": 5,
+  "turn_id": 1,
+  "global_turn_id": 17,
+  "tactic": "fact_establishment",
+  "difficulty": "easy",
+  "system_prompt": "You are a helpful assistant.",
+  "memory_state_before": null,
+  "memory_state_after": null,
+  "memory_update_audit": null,
+  "user_prompt": "Hi! Before we start, let me introduce myself: my name is Quan, I live in Da Nang, my younger sister is called Hoa, and my lucky number is 17. Now, when would you choose PostgreSQL over a NoSQL database for a new project?",
+  "model_response": "Hi Quan! Nice to meet you! Here are some scenarios when you might choose PostgreSQL over a NoSQL database for a new project:\n\n1. **Structured Data**: If your data is highly structured and you require a predefined schema, PostgreSQL is ideal.\n\n2. **Complex Queries**: When you need to perform complex queries, aggregations, or joins, PostgreSQL’s SQL capabilities excel.\n\n3. **ACID Compliance**: If data integrity and consistency are critical, PostgreSQL provides strong ACID compliance, making it suitable for applications like finance or e-commerce.\n\n4. **Data Relationships**: When your application requires robust relationships between data entities, PostgreSQL’s relational model is advantageous.\n\n5. **Advanced Features**: If you require advanced functionalities like full-text search, GIS capabilities (PostGIS), or support for JSON data types while still needing relational features, PostgreSQL is a great choice.\n\n6. **Transaction Management**: For applications that need reliable transaction management, PostgreSQL is well-suited due to its support for complex transactions.\n\nIn contrast, if you’re dealing with unstructured data or need high scalability and flexibility, NoSQL might be the better option. It all depends on the specific requirements of your project!",
+  "verification": null,
+  "generation_model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.7,
+  "timestamp": "2026-07-13T13:54:08.245433+00:00",
+  "latency_seconds": 3.749,
+  "usage": {
+    "completion_tokens": 249,
+    "prompt_tokens": 2355,
+    "total_tokens": 2604,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2176
+    }
+  },
+  "retry_count": 0
+}

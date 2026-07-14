@@ -1,0 +1,4 @@
+﻿persona_id,character_name,n_responses,persona_consistency,memory_retention,style_stability,context_awareness,overall_score,contradiction_rate,contradiction_rate_percent
+P1,Professor An,20,4.95,5.0,5.0,5.0,4.99,0.0,0.0
+P2,Milo,20,5.0,4.95,5.0,4.95,4.97,0.0,0.0
+P3,Lina,20,4.7,4.85,4.8,4.75,4.78,0.1,10.0

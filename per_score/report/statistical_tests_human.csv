@@ -1,0 +1,6 @@
+﻿test,stat,p,note
+Kruskal-Wallis human_overall ~ condition,139.128,4.34e-29,df=4
+Mann-Whitney B0 vs C1 (human_overall),3533.5,2.10e-06,p_holm=2.10e-06; mean B0=3.80 vs C1=4.29
+Mann-Whitney B0 vs C2 (human_overall),2926.5,5.45e-08,p_holm=1.09e-07; mean B0=3.80 vs C2=4.37
+Mann-Whitney B0 vs C3 (human_overall),917.5,5.09e-20,p_holm=2.04e-19; mean B0=3.80 vs C3=4.82
+Mann-Whitney B0 vs C4 (human_overall),964.5,1.36e-19,p_holm=4.08e-19; mean B0=3.80 vs C4=4.80
